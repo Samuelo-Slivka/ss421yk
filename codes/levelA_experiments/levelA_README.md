@@ -168,7 +168,7 @@ Each script prints:
 
 ---
 
-## 🔬 Purpose
+## Purpose
 
 This directory serves as:
 
