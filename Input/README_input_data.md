@@ -12,7 +12,7 @@ It includes both:
 
 The directory contains:
 
-### 🔹 Original BioMapAI datasets (ADOPTED)
+### Original BioMapAI datasets (ADOPTED)
 
 These datasets were directly taken from the BioMapAI project:
 
@@ -27,13 +27,13 @@ These datasets were directly taken from the BioMapAI project:
 
 ---
 
-### 🔹 Feature metadata
+### Feature metadata
 
 - `feature_meta/` – auxiliary feature descriptions *(adopted from BioMapAI authors)*
 
 ---
 
-### 🔹 Newly created datasets (THIS THESIS)
+### Newly created datasets (THIS THESIS)
 
 #### SHAP-based datasets
 
