@@ -102,7 +102,7 @@ python biomapai_catboost_dataset.py \
   --rus_repeats 100
 ```
 
-This script is the central source of SHAP-derived feature rankings used by the rest of the scripts.fileciteturn13file0
+This script is the central source of SHAP-derived feature rankings used by the rest of the scripts.
 
 ---
 
@@ -208,7 +208,7 @@ python build_integrated_omics_adaptive_shap_updated.py \
   --out_name omics_per_dataset.csv
 ```
 
-This script was used to generate the final **new_omics / per-dataset adaptive SHAP selection** workflow.fileciteturn13file2
+This script was used to generate the final **new_omics / per-dataset adaptive SHAP selection** workflow.
 
 ---
 
@@ -239,7 +239,7 @@ python build_subset_omics_from_featurelist.py \
   --output_csv ./Input/core_omics.csv
 ```
 
-This script was used to create concrete subset datasets from overlap analyses.fileciteturn13file4
+This script was used to create concrete subset datasets from overlap analyses.
 
 ---
 
@@ -277,7 +277,7 @@ python compare_feature_sets.py \
 This script was essential for identifying:
 - `core` biomarkers,
 - overlap-based subsets,
-- and potentially novel SHAP-derived candidate biomarkers.fileciteturn13file5
+- and potentially novel SHAP-derived candidate biomarkers.
 
 ---
 
@@ -320,7 +320,7 @@ python run_biomapai_subset.py \
   --n_splits 10
 ```
 
-This script was used only for **comparative evaluation**, not for developing a new neural-network architecture.fileciteturn13file7
+This script was used only for **comparative evaluation**, not for developing a new neural-network architecture.
 
 ---
 
@@ -342,7 +342,7 @@ These implement the two-stage modeling logic:
 - multi-output prediction of symptom scores
 - classification from predicted scores
 
-It was included in the repository only because it is required for reproducible execution of the subset evaluation pipeline.fileciteturn13file6
+It was included in the repository only because it is required for reproducible execution of the subset evaluation pipeline.
 
 ---
 
