@@ -1,0 +1,303 @@
+feature
+% CD14+ d0
+% CD19+ CD3- CD27+ IgG+ d0
+% CD19+ CD3- CD27+ IgG- d0
+% CD19+ CD3- CD27- IgG+ d0
+% CD19+ CD3- d0
+% CD19- CD3- d0
+% CD3- CD19- CD14+ CD16+
+% CD3- CD19- DR+ CD14+ d0
+% CD3- CD19- DR+ d0
+% CD4+  RO- CD27+ (TN) d0
+% CD4+ CCR7+ RO- CCR4+ d0
+% CD4+ CCR7+ RO- CD31+ CXCR3+ d0
+% CD4+ CCR7+ RO- CD31+ CXCR3- d0
+% CD4+ CCR7+ RO- CD31- CXCR3+ d0
+% CD4+ CCR7+ RO- CXCR5+ d0
+% CD4+ CD161+ Va7.2- d0
+% CD4+ CD161+ Va7.2- d6
+% CD4+ IL-17+ IL-22+ d6
+% CD4+ IL-17+ IL-22- d6
+% CD4+ IL-17- IL-22+ d6
+% CD4+ INFg+ TNFa- d6
+% CD4+ M CCR4+ CXCR3+ d0
+% CD4+ M CCR4+ CXCR3- d0
+% CD4+ M CCR4- CXCR3+ d0
+% CD4+ M CCR6+ CXCR3+ d0
+% CD4+ M CCR6+ CXCR3- d0
+% CD4+ M CCR6- CXCR3+ d0
+% CD4+ M CD25+ CD27+ d0
+% CD4+ M CD25+ CD27- d0
+% CD4+ M CD25- CD27+ d0
+% CD4+ M CXCR5+ CCR7+ d0
+% CD4+ M CXCR5+ CCR7- d0
+% CD4+ M CXCR5- CCR7+ d0
+% CD4+ M FOXP3+ d1
+% CD4+ M Treg (FOXP3+ HELIOS+) d1
+% CD4+ M total CCR4+ d0
+% CD4+ M total CCR6+ d0
+% CD4+ M total CXCR3+ d0
+% CD4+ MAIT d6
+% CD4+ N FOXP3+ d1
+% CD4+ N Treg (FOXP3+ HELIOS+) d1
+% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg+ d6
+% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg- d6
+% CD4+ RO+ CCR6+ CD161+ IL-17- INFg+ d6
+% CD4+ RO+ CCR6+ CD161+ d6
+% CD4+ RO+ CCR6+ CD161+ total IL-17+ d6
+% CD4+ RO+ CCR6+ CD161- IL-17+ INFg+ d6
+% CD4+ RO+ CCR6+ CD161- IL-17+ INFg- d6
+% CD4+ RO+ CCR6+ CD161- IL-17- INFg+ d6
+% CD4+ RO+ CCR6+ CD161- d6
+% CD4+ RO+ CCR6+ CD161- total IL-17+ d6
+% CD4+ RO+ CCR6+ IL-17+ INFg+ d6
+% CD4+ RO+ CCR6+ IL-17- INFg+ d6
+% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1
+% CD4+ RO+ CCR6+ IL-22+ IL-17- d1
+% CD4+ RO+ CCR6+ IL-22- IL-17+ d1
+% CD4+ RO+ CCR6+ INFg+ IL-17+ d1
+% CD4+ RO+ CCR6+ INFg+ IL-17- d1
+% CD4+ RO+ CCR6+ INFg+ IL4+ d1
+% CD4+ RO+ CCR6+ INFg+ IL4- d1
+% CD4+ RO+ CCR6+ INFg- IL-17+ d1
+% CD4+ RO+ CCR6+ INFg- IL4+ d1
+% CD4+ RO+ CCR6+ d0
+% CD4+ RO+ CCR6+ d1
+% CD4+ RO+ CCR6+ d6
+% CD4+ RO+ CCR6+ total IL-17+ d1
+% CD4+ RO+ CCR6+ total INFg+ d1
+% CD4+ RO+ CCR6+ total INFg+ d6
+% CD4+ RO+ CCR6- IL-17+ INFg+ d6
+% CD4+ RO+ CCR6- IL-17+ INFg- d6
+% CD4+ RO+ CCR6- IL-17- INFg+ d6
+% CD4+ RO+ CCR6- INFg+ TNFa+ d1
+% CD4+ RO+ CCR6- INFg+ TNFa- d1
+% CD4+ RO+ CCR6- INFg- TNFa+ d1
+% CD4+ RO+ CCR6- d6
+% CD4+ RO+ CCR6- total IL-17+ d6
+% CD4+ RO+ CCR6- total INFg+ d1
+% CD4+ RO+ CCR6- total INFg+ d6
+% CD4+ RO+ CCR7+ d0
+% CD4+ RO+ CCR7- d0
+% CD4+ RO+ CD161+ IL-17+ INFg+ d6
+% CD4+ RO+ CD161+ IL-17+ INFg- d6
+% CD4+ RO+ CD161+ IL-17- INFg+ d6
+% CD4+ RO+ CD161+ d6
+% CD4+ RO+ CD161+ total IL-17+ d6
+% CD4+ RO+ CD161- IL-17+ INFg+ d6
+% CD4+ RO+ CD161- IL-17+ INFg- d6
+% CD4+ RO+ CD161- IL-17- INFg+ d6
+% CD4+ RO+ CD161- total IL-17+ d6
+% CD4+ RO+ CD27+ (TCM) d0
+% CD4+ RO+ CD27- (TEM) d0
+% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17+ d1
+% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17- d1
+% CD4+ RO+ FOXP3+ INFg- TNFa- IL-17+ d1
+% CD4+ RO+ FOXP3+ INFg- d1
+% CD4+ RO+ IL-17+ INFg+ d6
+% CD4+ RO+ IL-17+ INFg- d6
+% CD4+ RO+ IL-17- INFg+ d6
+% CD4+ RO+ IL-22+ IL-17+ d1
+% CD4+ RO+ IL-22+ IL-17- d1
+% CD4+ RO+ IL-22- IL-17+ d1
+% CD4+ RO+ INFg+ GMCSF+ d1
+% CD4+ RO+ INFg+ GMCSF- d1
+% CD4+ RO+ INFg+ GzA+ d1
+% CD4+ RO+ INFg+ GzA- d1
+% CD4+ RO+ INFg+ IL-17+ d1
+% CD4+ RO+ INFg+ IL-17- d1
+% CD4+ RO+ INFg+ IL4+ d1
+% CD4+ RO+ INFg+ IL4- d1
+% CD4+ RO+ INFg+ TNFa+ d1
+% CD4+ RO+ INFg+ TNFa- d1
+% CD4+ RO+ INFg- GMCSF+ d1
+% CD4+ RO+ INFg- GzA+ d1
+% CD4+ RO+ INFg- IL-17+ d1
+% CD4+ RO+ INFg- IL4+ d1
+% CD4+ RO+ INFg- TNFa+ d1
+% CD4+ RO+ d0
+% CD4+ RO+ d6
+% CD4+ RO+ total IL-17+ d1
+% CD4+ RO+ total IL-17+ d6
+% CD4+ RO+ total INFg+ d1 P13
+% CD4+ RO+ total INFg+ d1 P8
+% CD4+ RO+ total TNFa+ d1
+% CD4+ RO+/- CD27+ CD161+ INFg+ d1
+% CD4+ RO+/- CD27+ CD161+ INFg- d1
+% CD4+ RO+/- CD27+ CD161- INFg+ d1
+% CD4+ RO- CCR7+ d0
+% CD4+ RO- CCR7- d0
+% CD4+ RO- CD27- (TEMRA) d0
+% CD8+ IL-17+ IL-22+ d6
+% CD8+ IL-17+ IL-22- d6
+% CD8+ IL-17+ INFg+ d6
+% CD8+ IL-17+ INFg- d6
+% CD8+ IL-17- IL-22+ d6
+% CD8+ IL-17- INFg+ d6
+% CD8+ INFg+ GzA+ d1
+% CD8+ INFg+ GzA- d1
+% CD8+ INFg+ IL4+ d1
+% CD8+ INFg+ IL4- d1
+% CD8+ INFg+ TNFa+ d1 P13
+% CD8+ INFg+ TNFa+ d1 P8
+% CD8+ INFg+ TNFa- d1 P13
+% CD8+ INFg+ TNFa- d1 P8
+% CD8+ INFg- GzA+ d1
+% CD8+ INFg- IL4+ d1
+% CD8+ INFg- TNFa+ d1 P13
+% CD8+ INFg- TNFa+ d1 P8
+% CD8+ M CCR4+ CXCR3+ d0
+% CD8+ M CCR4+ CXCR3- d0
+% CD8+ M CCR4- CXCR3+ d0
+% CD8+ M CCR6+ CXCR3+ d0
+% CD8+ M CCR6+ CXCR3- d0
+% CD8+ M CCR6- CXCR3+ d0
+% CD8+ M CCR7+ CXCR5+ d0
+% CD8+ M CCR7+ CXCR5- d0
+% CD8+ M CCR7- CXCR5+ d0
+% CD8+ M total CCR4+ d0
+% CD8+ M total CCR6+ d0
+% CD8+ M total CXCR3+ d0
+% CD8+ MAIT IL-17+ INFg+ d6
+% CD8+ MAIT IL-17+ INFg- d6
+% CD8+ MAIT IL-17- INFg+ d6
+% CD8+ MAIT INFg+ GzA+ d1
+% CD8+ MAIT INFg+ GzA- d1
+% CD8+ MAIT INFg+ TNFa+ d1
+% CD8+ MAIT INFg+ TNFa+ d6
+% CD8+ MAIT INFg+ TNFa- d1
+% CD8+ MAIT INFg+ TNFa- d6
+% CD8+ MAIT INFg- GzA+ d1
+% CD8+ MAIT INFg- TNFa+ d1
+% CD8+ MAIT d1
+% CD8+ MAIT total Granzyme+ d1
+% CD8+ MAIT total IL-17+ d6
+% CD8+ MAIT total INFg+ d1
+% CD8+ MAIT total INFg+ d6
+% CD8+ MAIT total TNFa+ d6
+% CD8+ RO+ CCR6+ IL-17+ INFg+ d1
+% CD8+ RO+ CCR6+ IL-17+ INFg- d1
+% CD8+ RO+ CCR6+ IL-17- INFg+ d1
+% CD8+ RO+ CCR6+ IL4- GMCSF+ d1
+% CD8+ RO+ CCR6+ d1
+% CD8+ RO+ CCR6- IL4+ GMCSF- d1
+% CD8+ RO+ CCR6- IL4- GMCSF+ d1
+% CD8+ RO+ CCR6- INFg+ TNFa+ d1
+% CD8+ RO+ CCR6- INFg+ TNFa- d1
+% CD8+ RO+ CCR6- INFg- TNFa+ d1
+% CD8+ RO+ CCR6- total INFg+ d1
+% CD8+ RO+ CCR6- total TNFa+ d1
+% CD8+ RO+ CCR7+ d0
+% CD8+ RO+ CCR7- d0
+% CD8+ RO+ CD27+ d0
+% CD8+ RO+ CD27- d0
+% CD8+ RO+ CD31+ CD27+ d0
+% CD8+ RO+ CD31+ CD27- d0
+% CD8+ RO+ CD31- CD27+ d0
+% CD8+ RO+ Va7.2- INFg+ TNFa+ d6
+% CD8+ RO+ Va7.2- INFg+ TNFa- d6
+% CD8+ RO+ Va7.2- INFg- TNFa+ d6
+% CD8+ RO+ Va7.2- total INFg+ d6
+% CD8+ RO+ Va7.2- total TNFa+ d6
+% CD8+ RO- CCR6- IL4+ GMCSF+ d1
+% CD8+ RO- CCR6- IL4+ GMCSF- d1
+% CD8+ RO- CCR6- IL4- GMCSF+ d1
+% CD8+ RO- CCR6- INFg+ TNFa+ d1
+% CD8+ RO- CCR6- INFg+ TNFa- d1
+% CD8+ RO- CCR6- INFg- TNFa+ d1
+% CD8+ RO- CCR6- total INFg+ d1
+% CD8+ RO- CCR6- total TNFa+ d1
+% CD8+ RO- CCR7+ d0
+% CD8+ RO- CCR7- d0
+% CD8+ RO- CD27+ d0
+% CD8+ RO- CD27- d0
+% CD8+ RO- Va7.2- INFg+ TNFa+ d6
+% CD8+ RO- Va7.2- INFg+ TNFa- d6
+% CD8+ RO- Va7.2- INFg- TNFa+ d6
+% CD8+ RO- Va7.2- total INFg+ d6
+% CD8+ RO- Va7.2- total TNFa+ d6
+% CD8+ and DN
+% CD8+ and DN MAIT
+% CD8+ in total MAIT d6
+% CD8+ non-MAIT total INFg+ d1
+% CD8+ nonMAIT INFg+ GzA+ d1
+% CD8+ nonMAIT INFg+ GzA- d1
+% CD8+ nonMAIT INFg+ TNFa+ d1
+% CD8+ nonMAIT INFg+ TNFa- d1
+% CD8+ nonMAIT INFg- GzA+ d1
+% CD8+ nonMAIT INFg- TNFa+ d1
+% CD8+ nonMAIT total GzA+ d1
+% CD8+ nonMAIT total INFg+ d1
+% CD8+ total GzA+ d1
+% CD8+ total IL-17+ d6
+% CD8+ total INFg+ d1
+% CD8+ total INFg+ d1 P8
+% CD8+ total INFg+ d6
+% CD8+ total TNFa+ d1
+% DN CD161+ Va7.2- d6
+% DN MAIT d6
+% DN RO+ CCR6+ d1
+% DN RO+ CCR6- INFg+ TNFa+ d1
+% DN RO+ CCR6- INFg+ TNFa- d1
+% DN RO+ CCR6- INFg- TNFa+ d1
+% DN RO+ CCR6- total INFg+ d1
+% DN RO- CCR6- INFg+ TNFa+ d1
+% DN RO- CCR6- INFg+ TNFa- d1
+% DN RO- CCR6- INFg- TNFa+ d1
+% DN RO- CCR6- total INFg+ d1
+% DN RO- CCR6- total TNFa+ d1
+% DN d6
+% DN in total MAIT d6
+% DR+ CD3- d0
+% Dcs CD1c+ d0
+% Dcs d0
+% pDcs d0
+% viable CD3+ d6
+% viable CD3+ of total CD3+
+% viable CD3- CCR6- CD161+ INFg+ d1
+% viable CD3- CCR6- CD161+ INFg- d1
+% viable CD3- CCR6- CD161- INFg+ d1
+% viable CD3- CCR6- GzA+ INFg+ d1
+% viable CD3- CCR6- GzA+ INFg- d1
+% viable CD3- CCR6- GzA- INFg+ d1
+% viable CD3- CCR6- d1
+%CD4+ MAIT d0
+%CD8+ CD161+ Va7.2- d0
+%CD8+ CD161+ Va7.2- d6
+%CD8+ MAIT d0
+%CD8+ MAIT d6
+%DN CD161+ Va7.2- d0
+%DN MAIT d0
+CD3+ gdTCR+ CD3hi
+CD3+ gdTCR+ CD3lo
+CD4+ CCR6+ as % of RO+
+CD4:CD8 d0
+CD4:CD8 d6
+CD8+ % RO+ CD27+ d0
+CD8+ % RO+ CD27- d0
+CD8+ % RO- CD27- d0
+CD8+ DN+ MAIT % RO+ CD27+ d0
+CD8+ DN+ MAIT % RO+ CD27- d0
+CD8+ DN+ MAIT % RO- CD27+ d0
+CD8+ DN+ MAIT % RO- CD27- d0
+CD8+ MAIT % RO+ CD27+ d0
+CD8+ MAIT % RO+ CD27- d0
+CD8+ MAIT % RO- CD27+ d0
+CD8+ MAIT % RO- CD27- d0
+DN % RO+ CD27+ d0
+DN % RO+ CD27- d0
+DN % RO- CD27+ d0
+DN % RO- CD27- d0
+NK % CD56+ CD16+
+NK % CD56hi CD16-
+NK % CD56lo CD16-
+NK Cells (% CD3- 2B4+)
+Total gd Cells (gdTCR CD3hi + CD3lo)
+total % CD3 d0
+total % CD4+ d0
+total % CD4+ d6
+total % CD8+ d0
+total % CD8+ d6
+total % DN d0
+viable CD8+ MAIT d6
+viable total CD8+ d6
