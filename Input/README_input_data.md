@@ -50,17 +50,6 @@ These datasets were directly taken from the BioMapAI project:
 
 ---
 
-## Data Provenance
-
-### Original data
-- Source: BioMapAI project  
-- Status: **adopted (not created in this thesis)**  
-
-### Newly generated data
-- Created using SHAP-based feature selection and dataset construction scripts  
-
----
-
 ## Usage
 
 Datasets were used across three phases:
