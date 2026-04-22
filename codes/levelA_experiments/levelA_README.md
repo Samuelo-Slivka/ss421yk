@@ -11,7 +11,7 @@ This two-stage approach mimics the architecture described in the BioMapAI study 
 
 ---
 
-## 📁 Contents
+## Contents
 
 This directory includes the following scripts:
 
@@ -23,7 +23,7 @@ This directory includes the following scripts:
 
 ---
 
-## 🧠 Modeling Concept
+## Modeling Concept
 
 All scripts follow the same pipeline:
 
@@ -35,7 +35,7 @@ The classification step is implemented using a **score-layer model** (Gradient B
 
 ---
 
-## 📊 Input Data Requirements
+## Input Data Requirements
 
 Each script expects the following files in `--data_dir`:
 
@@ -52,7 +52,7 @@ Each script expects the following files in `--data_dir`:
 
 ---
 
-## ⚙️ General Workflow
+## General Workflow
 
 All scripts:
 
@@ -71,7 +71,7 @@ Evaluation metrics:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Example (CatBoost):
 
@@ -84,9 +84,9 @@ python levelA_catboost.py \
 
 ---
 
-## 📜 Script Descriptions
+## Script Descriptions
 
-### 🔹 levelA_catboost.py
+### levelA_catboost.py
 
 - Implements **12 independent CatBoost regressors** (one per clinical score)  
 - Uses:
@@ -97,7 +97,7 @@ python levelA_catboost.py \
 
 ---
 
-### 🔹 levelA_lightgbm.py
+### levelA_lightgbm.py
 
 - Similar to CatBoost but uses **LightGBM regressors**  
 - Efficient and scalable boosting method  
@@ -105,7 +105,7 @@ python levelA_catboost.py \
 
 ---
 
-### 🔹 levelA_fttransformer.py
+### levelA_fttransformer.py
 
 - Deep learning model inspired by **FT-Transformer architecture**  
 - Key components:
@@ -116,7 +116,7 @@ python levelA_catboost.py \
 
 ---
 
-### 🔹 levelA_tabnet.py
+### levelA_tabnet.py
 
 - Uses **TabNetRegressor** for multi-output prediction  
 - Attention-based feature selection  
@@ -124,7 +124,7 @@ python levelA_catboost.py \
 
 ---
 
-### 🔹 sanity_mlp_levelA.py
+### sanity_mlp_levelA.py
 
 - Simple **MLP baseline model**  
 - Used for sanity checks and debugging  
@@ -134,7 +134,7 @@ python levelA_catboost.py \
 
 ---
 
-## ⚖️ Class Imbalance Handling
+## Class Imbalance Handling
 
 All scripts use:
 
@@ -145,7 +145,7 @@ This follows the methodology used in the reference study.
 
 ---
 
-## 📈 Output
+## Output
 
 Each script prints:
 
@@ -156,7 +156,7 @@ Each script prints:
 
 ---
 
-## 🧪 Notes
+## Notes
 
 - These scripts replicate the BioMapAI pipeline logic, but:
   - use alternative models (CatBoost, LightGBM, DL)
