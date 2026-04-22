@@ -95,9 +95,6 @@ python levelA_catboost.py \
 - Predictions are aggregated into matrix Ŷ  
 - Final classification via Gradient Boosting
 
-✔ Strong baseline for tabular data  
-✔ Handles non-linear relationships well  
-
 ---
 
 ### 🔹 levelA_lightgbm.py
@@ -105,9 +102,6 @@ python levelA_catboost.py \
 - Similar to CatBoost but uses **LightGBM regressors**  
 - Efficient and scalable boosting method  
 - Multi-output handled via separate models per score  
-
-✔ Faster than CatBoost  
-✔ Good for large feature spaces  
 
 ---
 
@@ -118,10 +112,7 @@ python levelA_catboost.py \
   - Feature tokenization (numeric → embeddings)
   - Feature identity embeddings
   - Multi-head self-attention
-  - CLS token for final prediction  
-
-✔ Captures complex feature interactions  
-✔ Suitable for high-dimensional omics data  
+  - CLS token for final prediction    
 
 ---
 
@@ -130,9 +121,6 @@ python levelA_catboost.py \
 - Uses **TabNetRegressor** for multi-output prediction  
 - Attention-based feature selection  
 - Built-in interpretability  
-
-✔ Good trade-off between DL and interpretability  
-✔ Sparse feature usage  
 
 ---
 
@@ -143,9 +131,6 @@ python levelA_catboost.py \
 - Includes:
   - StandardScaler
   - Logistic regression score-layer  
-
-✔ Quick validation of pipeline correctness  
-✔ Not optimized for performance  
 
 ---
 
