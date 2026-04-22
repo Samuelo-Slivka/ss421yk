@@ -1,0 +1,211 @@
+dataset,feature
+immune,% DN RO+ CCR6- INFg- TNFa+ d1
+immune,CD3+ gdTCR+ CD3hi
+immune,Total gd Cells (gdTCR CD3hi + CD3lo)
+immune,total % DN d0
+immune,% CD4+ RO+ CCR6+ INFg- IL-17+ d1
+immune,% CD4+ RO+ CCR6- IL-17+ INFg+ d6
+immune,% CD4+ RO+ CCR6- total IL-17+ d6
+immune,% CD4+ RO+ CCR6+ total IL-17+ d1
+immune,% DN RO+ CCR6- total INFg+ d1
+immune,total % CD4+ d0
+immune,% CD4+ RO+ CD161+ IL-17+ INFg- d6
+immune,% CD4+ RO+ CCR6- IL-17+ INFg- d6
+immune,% DN RO+ CCR6- INFg+ TNFa+ d1
+immune,% CD4+ CCR7+ RO- CD31+ CXCR3- d0
+immune,% CD8+ IL-17+ IL-22+ d6
+specie,Clostridium_sp_AM49_4BH
+specie,Dysosmobacter_welbionis
+specie,Alistipes_communis
+specie,Ruminococcus_bicirculans
+specie,Faecalibacterium_prausnitzii
+specie,Coprococcus_eutactus
+specie,Alistipes_finegoldii
+specie,Dialister_invisus
+kegg,K17398
+kegg,K21417
+kegg,K21023
+kegg,K01910
+kegg,K01607
+kegg,K19092
+kegg,K22424
+kegg,K10241
+kegg,K01821
+kegg,K08722
+kegg,K02744
+kegg,K18866
+kegg,K18119
+kegg,K18344
+kegg,K21948
+kegg,K02510
+kegg,K09469
+kegg,K01040
+kegg,K16951
+kegg,K22405
+kegg,K11733
+kegg,K17204
+kegg,K01198
+kegg,K01281
+kegg,K02517
+kegg,K18889
+kegg,K23547
+kegg,K21578
+kegg,K17319
+kegg,K21579
+kegg,K16248
+kegg,K18427
+kegg,K00567
+kegg,K22605
+kegg,K15924
+kegg,K18979
+kegg,K01560
+kegg,K07319
+kegg,K00459
+kegg,K02055
+kegg,K01546
+kegg,K15515
+kegg,K17320
+kegg,K19405
+kegg,K22607
+kegg,K06013
+kegg,K07704
+kegg,K09924
+kegg,K07149
+kegg,K07746
+kegg,K02793
+kegg,K01299
+kegg,K03602
+kegg,K19540
+kegg,K17818
+kegg,K07306
+kegg,K21400
+kegg,K03519
+kegg,K23508
+kegg,K02017
+kegg,K01725
+kegg,K23189
+kegg,K08986
+kegg,K10708
+kegg,K05791
+kegg,K01524
+kegg,K03803
+kegg,K17243
+kegg,K15552
+kegg,K17318
+kegg,K19545
+kegg,K11104
+kegg,K19428
+kegg,K07552
+kegg,K21576
+kegg,K16328
+kegg,K18331
+kegg,K03337
+kegg,K03665
+kegg,K03650
+kegg,K19171
+kegg,K20344
+kegg,K00254
+kegg,K01750
+kegg,K20276
+kegg,K13653
+kegg,K23149
+kegg,K03324
+kegg,K21472
+kegg,K00113
+kegg,K07485
+kegg,K01151
+kegg,K21672
+kegg,K10709
+kegg,K21577
+kegg,K19049
+kegg,K22736
+kegg,K18231
+kegg,K02009
+kegg,K08364
+kegg,K09760
+kegg,K01972
+kegg,K16874
+kegg,K06199
+kegg,K16788
+kegg,K06015
+kegg,K19505
+kegg,K01846
+kegg,K01779
+kegg,K11741
+kegg,K02434
+kegg,K01835
+kegg,K00371
+kegg,K07460
+kegg,K19115
+kegg,K07455
+kegg,K01640
+kegg,K01729
+kegg,K00874
+kegg,K00688
+kegg,K01430
+kegg,K06120
+kegg,K21416
+kegg,K09859
+kegg,K23148
+kegg,K18831
+kegg,K03111
+kegg,K02054
+kegg,K06962
+kegg,K01646
+kegg,K13919
+kegg,K21900
+kegg,K07217
+kegg,K22230
+kegg,K02020
+kegg,K07307
+kegg,K08963
+kegg,K05946
+kegg,K23393
+kegg,K03116
+kegg,K03187
+kegg,K00048
+kegg,K07800
+kegg,K21279
+kegg,K18910
+kegg,K17865
+kegg,K10560
+kegg,K01046
+kegg,K19172
+kegg,K23536
+kegg,K13921
+kegg,K03325
+metabolome,vanillylmandelate (VMA)
+metabolome,catechol sulfate
+metabolome,X-11795
+metabolome,mannitol/sorbitol
+metabolome,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+metabolome,glycodeoxycholate 3-sulfate
+metabolome,deoxycarnitine
+metabolome,tryptophan betaine
+metabolome,N4-acetylcytidine
+metabolome,glycochenodeoxycholate glucuronide (1)
+metabolome,glucuronate
+metabolome,imidazole lactate
+metabolome,maleate
+metabolome,arachidonoylcarnitine (C20:4)
+metabolome,homostachydrine*
+metabolome,androsterone glucuronide
+metabolome,N-acetyl-aspartyl-glutamate (NAAG)
+metabolome,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+metabolome,N-palmitoyl-sphingosine (d18:1/16:0)
+metabolome,hippurate
+metabolome,choline phosphate
+metabolome,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+metabolome,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+metabolome,"N,N-dimethylalanine"
+metabolome,"bilirubin (E,Z or Z,E)*"
+metabolome,gulonate*
+metabolome,guaiacol sulfate
+metabolome,alpha-tocopherol
+metabolome,pseudouridine
+metabolome,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+metabolome,2-aminoheptanoate
+quest,"Bilirubin, Total"
+quest,Urea Nitrogen (BUN)
+quest,Chol/HDLC Ratio
+quest,Albumin/Globulin Ratio

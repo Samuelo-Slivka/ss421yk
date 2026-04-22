@@ -1,0 +1,6 @@
+dataset,input_features,selected_features,cumulative_threshold,top_fraction_per_score,min_freq_top20
+immune,311,15,0.5,0.2,6
+specie,118,8,0.5,0.2,6
+kegg,3959,152,0.5,0.2,6
+metabolome,730,31,0.5,0.2,6
+quest,48,4,0.5,0.2,6

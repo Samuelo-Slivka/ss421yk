@@ -1,0 +1,167 @@
+1.
+$ python biomapai_catboost_dataset.py   --data_dir ./Input   --dataset core_omics   --output_root ./output_core_catboost   --seed 0   --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: core_omics
+[INFO] Aligned samples: 376, features: 46, scores: 12
+[INFO] Label balance: control=136, patient=240
+[CV fold 01] MSE=0.28195 | AUC=0.9252
+[CV fold 02] MSE=0.33245 | AUC=0.8773
+[CV fold 03] MSE=0.33427 | AUC=0.8072
+[CV fold 04] MSE=0.38583 | AUC=0.8193
+[CV fold 05] MSE=0.38404 | AUC=0.8697
+[CV fold 06] MSE=0.36157 | AUC=0.8311
+[CV fold 07] MSE=0.38322 | AUC=0.8709
+[CV fold 08] MSE=0.39027 | AUC=0.8375
+[CV fold 09] MSE=0.42843 | AUC=0.8120
+[CV fold 10] MSE=0.43400 | AUC=0.7835
+
+[CV summary]
+Mean MSE: 0.37160 ± 0.04362
+Mean AUC: 0.8434 ± 0.0399
+
+[Held-out 10%]
+Held-out MSE: 0.34303
+Held-out AUC: 0.9077
+
+[Feature selection]
+Input features: 46
+Common features: 20
+Selected features (union): 46
+
+2.
+$ python biomapai_catboost_dataset.py \
+  --data_dir ./Input \
+  --dataset papernew_omics \
+  --output_root ./output_papernew_catboost \
+  --seed 0 \
+  --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: papernew_omics
+[INFO] Aligned samples: 376, features: 49, scores: 12
+[INFO] Label balance: control=136, patient=240
+[CV fold 01] MSE=0.28328 | AUC=0.9236
+[CV fold 02] MSE=0.32536 | AUC=0.8734
+[CV fold 03] MSE=0.33974 | AUC=0.8025
+[CV fold 04] MSE=0.38836 | AUC=0.8151
+[CV fold 05] MSE=0.40051 | AUC=0.8489
+[CV fold 06] MSE=0.36046 | AUC=0.8417
+[CV fold 07] MSE=0.37615 | AUC=0.8800
+[CV fold 08] MSE=0.38626 | AUC=0.8503
+[CV fold 09] MSE=0.42705 | AUC=0.8060
+[CV fold 10] MSE=0.42962 | AUC=0.7922
+
+[CV summary]
+Mean MSE: 0.37168 ± 0.04344
+Mean AUC: 0.8434 ± 0.0390
+
+[Held-out 10%]
+Held-out MSE: 0.34853
+Held-out AUC: 0.8929
+
+[Feature selection]
+Input features: 49
+Common features: 24
+Selected features (union): 49
+
+3.a
+$ python run_biomapai_subset.py \
+  --dnn_py_path DNN.py \
+  --data_file_path ./Input/core_omics.csv \
+  --metadata_file_path ./Input/metadata.csv \
+  --scores_data_file_path ./Input/score.csv \
+  --output_dir ./output_core_biomapai \
+  --model_name core_omics \
+  --sample_times 10 \
+  --n_splits 3
+...
+
+[SUMMARY]
+Mean MSE: 0.17941 ± 0.08145
+Mean test_acc: 0.6709
+Best test_acc: 0.8132
+[SAVED] ./output_core_biomapai
+
+3. b
+[CV summary]
+Mean MSE: 0.11918 ± 0.19446
+Mean val_acc: 0.7715 ± 0.0770
+Best val_acc: 0.9412
+Best repeat/fold: {'repeat': 8, 'fold': 1}
+[SAVED] ./output_core_biomapai
+
+4.a
+$ python run_biomapai_subset.py   --dnn_py_path DNN.py   --data_file_path ./Input/papernew_omics.csv   --metadata_file_path ./Input/
+metadata.csv   --scores_data_file_path ./Input/score.csv   --output_dir ./output_papernew_biomapai   --model_name papernew_omics   --sample_times 10   --n_splits 3
+...
+[SUMMARY]
+Mean MSE: 0.17718 ± 0.07752
+Mean test_acc: 0.6791
+Best test_acc: 0.7692
+[SAVED] ./output_papernew_biomapai
+
+4.b $ python run_biomapai_subset.py   --dnn_py_path DNN.py   --data_file_path ./Input/papernew_omics.csv   --metadata_file_path ./Input/metadata.csv   --scores_data_file_path ./Input/score.csv   --output_dir ./output_papernew_biomapai   --model_name papernew_omics   --sample_times 10   --n_splits 10
+...
+[Held-out 10%]
+Held-out MSE=[0.1677224302055662, 5.2894736842105265, 3.0526315789473686, 0.07603921678253707, 0.041796437842118846, 0.1696061830439421, 0.06534362374288528, 0.07651156513586213, 0.03674619956445552, 0.04087724051582411, 0.06581625035354181, 0.14007118040271357]
+Held-out acc=0.6316
+
+[CV summary]
+Mean MSE: 0.11856 ± 0.18626
+Mean val_acc: 0.7633 ± 0.0764
+Best val_acc: 0.9412
+Best repeat/fold: {'repeat': 3, 'fold': 2}
+[SAVED] ./output_papernew_biomapai
+
+5.
+$ python biomapai_catboost_dataset.py   --data_dir ./Input   --dataset per_dataset_omics   --output_root ./output_perdataset_catboost   --seed 0   --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: per_dataset_omics
+[INFO] Aligned samples: 376, features: 49, scores: 12
+[INFO] Label balance: control=136, patient=240
+[CV fold 01] MSE=0.28144 | AUC=0.9197
+[CV fold 02] MSE=0.32422 | AUC=0.8675
+[CV fold 03] MSE=0.33752 | AUC=0.8052
+[CV fold 04] MSE=0.38732 | AUC=0.8108
+[CV fold 05] MSE=0.40055 | AUC=0.8438
+[CV fold 06] MSE=0.35835 | AUC=0.8328
+[CV fold 07] MSE=0.37562 | AUC=0.8849
+[CV fold 08] MSE=0.38792 | AUC=0.8447
+[CV fold 09] MSE=0.42864 | AUC=0.8024
+[CV fold 10] MSE=0.42943 | AUC=0.7808
+
+[CV summary]
+Mean MSE: 0.37110 ± 0.04435
+Mean AUC: 0.8392 ± 0.0402
+
+[Held-out 10%]
+Held-out MSE: 0.34849
+Held-out AUC: 0.8750
+
+[Feature selection]
+Input features: 49
+Common features: 23
+Selected features (union): 49
+
+6.
+$ python run_biomapai_subset.py \
+  --dnn_py_path ./DNN.py \
+  --data_file_path ./Input/per_dataset_omics.csv \
+  --metadata_file_path ./Input/metadata.csv \
+  --scores_data_file_path ./Input/score.csv \
+  --output_dir ./output_perdataset_biomapai \
+  --model_name per_dataset_omics \
+  --sample_times 10 \
+  --n_splits 10 \
+  --seed 1015
+...
+
+[Held-out 10%]
+Held-out MSE=[0.11092878525147047, 4.868421052631579, 3.8421052631578947, 0.06439052116112971, 0.06378540542907073, 0.19636079350254756, 0.07564240025764515, 0.11510854172041288, 0.025594801965802837, 0.024396247079962047, 0.08952715132963855, 0.07509014457077369]
+Held-out acc=0.6842
+
+[CV summary]
+Mean MSE: 0.12249 ± 0.22569
+Mean val_acc: 0.7634 ± 0.0766
+Best val_acc: 0.9412
+Best repeat/fold: {'repeat': 10, 'fold': 4}
+[SAVED] ./output_perdataset_biomapai

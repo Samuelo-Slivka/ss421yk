@@ -1,0 +1,148 @@
+1.
+$ python biomapai_catboost_dataset.py   --data_dir ./Input   --dataset immune   --output_root ./output   --seed 0   --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: immune
+[INFO] Aligned samples: 481, features: 311, scores: 12
+[INFO] Label balance: control=158, patient=323
+[CV fold 01] MSE=0.40640 | AUC=0.8281
+[CV fold 02] MSE=0.37608 | AUC=0.9150
+[CV fold 03] MSE=0.44409 | AUC=0.7899
+[CV fold 04] MSE=0.44472 | AUC=0.8598
+[CV fold 05] MSE=0.35765 | AUC=0.8647
+[CV fold 06] MSE=0.37477 | AUC=0.8560
+[CV fold 07] MSE=0.39419 | AUC=0.8422
+[CV fold 08] MSE=0.42730 | AUC=0.8268
+[CV fold 09] MSE=0.37316 | AUC=0.8137
+[CV fold 10] MSE=0.44148 | AUC=0.7727
+
+[CV summary]
+Mean MSE: 0.40398 ± 0.03170
+Mean AUC: 0.8369 ± 0.0385
+
+[Held-out 10%]
+Held-out MSE: 0.41653
+Held-out AUC: 0.8655
+
+[Feature selection]
+Input features: 311
+Common features: 149
+Selected features (union): 302
+
+2.
+python biomapai_catboost_dataset.py --data_dir ./Input --dataset specie --output_root ./output --seed 0 --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: specie
+[INFO] Aligned samples: 474, features: 118, scores: 12
+[INFO] Label balance: control=158, patient=316
+[CV fold 01] MSE=0.46579 | AUC=0.6226
+[CV fold 02] MSE=0.42695 | AUC=0.7405
+[CV fold 03] MSE=0.44079 | AUC=0.6953
+[CV fold 04] MSE=0.40684 | AUC=0.8101
+[CV fold 05] MSE=0.39085 | AUC=0.8012
+[CV fold 06] MSE=0.45670 | AUC=0.7619
+[CV fold 07] MSE=0.39922 | AUC=0.7809
+[CV fold 08] MSE=0.42633 | AUC=0.7611
+[CV fold 09] MSE=0.42469 | AUC=0.8093
+[CV fold 10] MSE=0.42159 | AUC=0.8076
+
+[CV summary]
+Mean MSE: 0.42598 ± 0.02255
+Mean AUC: 0.7590 ± 0.0573
+
+[Held-out 10%]
+Held-out MSE: 0.38905
+Held-out AUC: 0.8535
+
+[Feature selection]
+Input features: 118
+Common features: 56
+Selected features (union): 98
+
+3.
+$ python biomapai_catboost_dataset.py   --data_dir ./Input   --dataset quest   --output_root ./output   --seed 0   --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: quest
+[INFO] Aligned samples: 495, features: 48, scores: 12
+[INFO] Label balance: control=159, patient=336
+[CV fold 01] MSE=0.48165 | AUC=0.7058
+[CV fold 02] MSE=0.44480 | AUC=0.7016
+[CV fold 03] MSE=0.51532 | AUC=0.7371
+[CV fold 04] MSE=0.49619 | AUC=0.6679
+[CV fold 05] MSE=0.47405 | AUC=0.7277
+[CV fold 06] MSE=0.49241 | AUC=0.5882
+[CV fold 07] MSE=0.41698 | AUC=0.7399
+[CV fold 08] MSE=0.46713 | AUC=0.7629
+[CV fold 09] MSE=0.43647 | AUC=0.6964
+[CV fold 10] MSE=0.45492 | AUC=0.6745
+
+[CV summary]
+Mean MSE: 0.46799 ± 0.02857
+Mean AUC: 0.7002 ± 0.0468
+
+[Held-out 10%]
+Held-out MSE: 0.47326
+Held-out AUC: 0.6838
+
+[Feature selection]
+Input features: 48
+Common features: 23
+Selected features (union): 45
+
+4.
+$ python biomapai_catboost_dataset.py --data_dir ./Input --dataset metabolome --output_root ./output --seed 0 --rus_repeats 100
+[INFO] Model family: CatBoost
+[INFO] Dataset: metabolome
+[INFO] Aligned samples: 407, features: 730, scores: 12
+[INFO] Label balance: control=142, patient=265
+[CV fold 01] MSE=0.42236 | AUC=0.8392
+[CV fold 02] MSE=0.46976 | AUC=0.5770
+[CV fold 03] MSE=0.43479 | AUC=0.7255
+[CV fold 04] MSE=0.49092 | AUC=0.7449
+[CV fold 05] MSE=0.47779 | AUC=0.7607
+[CV fold 06] MSE=0.48844 | AUC=0.6551
+[CV fold 07] MSE=0.41664 | AUC=0.7885
+[CV fold 08] MSE=0.51206 | AUC=0.6550
+[CV fold 09] MSE=0.43427 | AUC=0.7476
+[CV fold 10] MSE=0.41438 | AUC=0.8290
+
+[CV summary]
+Mean MSE: 0.45614 ± 0.03378
+Mean AUC: 0.7323 ± 0.0783
+
+[Held-out 10%]
+Held-out MSE: 0.40390
+Held-out AUC: 0.8360
+
+[Feature selection]
+Input features: 730
+Common features: 324
+Selected features (union): 717
+
+5.
+[INFO] Model family: CatBoost
+[INFO] Dataset: kegg
+[INFO] Aligned samples: 474, features: 3959, scores: 12
+[INFO] Label balance: control=158, patient=316
+[CV fold 01] MSE=0.48034 | AUC=0.6046
+[CV fold 02] MSE=0.44806 | AUC=0.7137
+[CV fold 03] MSE=0.47231 | AUC=0.6525
+[CV fold 04] MSE=0.43933 | AUC=0.7457
+[CV fold 05] MSE=0.43431 | AUC=0.7088
+[CV fold 06] MSE=0.46229 | AUC=0.7607
+[CV fold 07] MSE=0.41257 | AUC=0.7951
+[CV fold 08] MSE=0.44362 | AUC=0.7280
+[CV fold 09] MSE=0.45429 | AUC=0.8041
+[CV fold 10] MSE=0.45895 | AUC=0.7619
+
+[CV summary]
+Mean MSE: 0.45061 ± 0.01862
+Mean AUC: 0.7275 ± 0.0586
+
+[Held-out 10%]
+Held-out MSE: 0.40956
+Held-out AUC: 0.7930
+
+[Feature selection]
+Input features: 3959
+Common features: 1849
+Selected features (union): 3520
