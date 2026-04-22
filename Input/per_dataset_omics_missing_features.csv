@@ -1,0 +1,143 @@
+feature
+% CD4+ CCR7+ RO- CD31+ CXCR3- d0
+% CD4+ CCR7+ RO- CD31- CXCR3+ d0
+% CD4+ M CD25- CD27+ d0
+% CD4+ M CXCR5+ CCR7- d0
+% CD4+ M Treg (FOXP3+ HELIOS+) d1
+% CD4+ N Treg (FOXP3+ HELIOS+) d1
+% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1
+% CD4+ RO+ CCR6+ IL-22- IL-17+ d1
+% CD4+ RO+ CCR6+ total IL-17+ d1
+% CD4+ RO+ CCR6+ total INFg+ d1
+% CD4+ RO+ CCR6- IL-17+ INFg+ d6
+% CD4+ RO+ CCR6- IL-17+ INFg- d6
+% CD4+ RO+ CCR6- INFg+ TNFa- d1
+% CD4+ RO+ CCR6- total IL-17+ d6
+% CD4+ RO+ CD161+ IL-17+ INFg- d6
+% CD4+ RO+ CD161+ total IL-17+ d6
+% CD4+ RO+ CD27- (TEM) d0
+% CD4+ RO+ INFg+ TNFa- d1
+% CD4+ RO+ INFg- IL-17+ d1
+% CD4+ RO- CD27- (TEMRA) d0
+% CD8+ IL-17+ IL-22+ d6
+% CD8+ INFg- IL4+ d1
+% CD8+ MAIT INFg+ GzA+ d1
+% CD8+ MAIT total INFg+ d1
+% CD8+ MAIT total TNFa+ d6
+% CD8+ RO+ CCR6+ d1
+% CD8+ RO+ CCR6- IL4- GMCSF+ d1
+% CD8+ RO+ CCR6- INFg+ TNFa+ d1
+% CD8+ RO+ CCR6- total INFg+ d1
+% CD8+ RO+ Va7.2- total TNFa+ d6
+% CD8+ RO- CCR6- IL4- GMCSF+ d1
+% DN d6
+% Dcs CD1c+ d0
+% viable CD3- CCR6- GzA+ INFg+ d1
+%CD8+ CD161+ Va7.2- d6
+CD4:CD8 d0
+DN % RO+ CD27- d0
+DN % RO- CD27+ d0
+DN % RO- CD27- d0
+NK Cells (% CD3- 2B4+)
+Total gd Cells (gdTCR CD3hi + CD3lo)
+total % CD4+ d0
+total % CD8+ d0
+total % DN d0
+Bifidobacterium_longum
+Blautia_wexlerae
+Candidatus_Cibiobacter_qucibialis
+Clostridium_fessum
+Clostridium_sp_AF15_49
+Coprococcus_eutactus
+Escherichia_coli
+Flavonifractor_plautii
+Parasutterella_excrementihominis
+Roseburia_faecis
+Roseburia_inulinivorans
+Roseburia_sp_AF02_12
+Ruminococcus_bicirculans
+Ruminococcus_gnavus
+Ruthenibacterium_lactatiformans
+Streptococcus_thermophilus
+K00459
+K00567
+K01040
+K01198
+K01281
+K01546
+K01560
+K01607
+K01821
+K01910
+K02055
+K02510
+K02517
+K02744
+K02793
+K05791
+K06013
+K07319
+K08722
+K09469
+K10241
+K11733
+K15515
+K15924
+K16248
+K16951
+K17204
+K17319
+K17398
+K18119
+K18344
+K18427
+K18866
+K18889
+K18979
+K19092
+K19405
+K21417
+K21578
+K21579
+K21948
+K22405
+K22424
+K22605
+K22607
+K23547
+1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+10-undecenoate (11:1n1)
+2-aminoheptanoate
+2-ketocaprylate
+3-hydroxydecanoylcarnitine
+4-vinylphenol sulfate
+"N,N-dimethylalanine"
+X-23644
+androsterone glucuronide
+beta-hydroxyisovalerate
+"bilirubin (E,Z or Z,E)*"
+catechol sulfate
+decadienedioic acid (C10:2-DC)**
+deoxycarnitine
+glucuronate
+guaiacol sulfate
+hippurate
+homostachydrine*
+maleate
+mannitol/sorbitol
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+pantothenate
+pseudouridine
+salicylate
+tryptophan betaine
+ALT
+Albumin/Globulin Ratio
+Alkaline Phosphatase
+"Bilirubin, Total"
+Chol/HDLC Ratio
+Non HDL Cholesterol
+Potassium
+Urea Nitrogen (BUN)
