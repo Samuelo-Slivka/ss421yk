@@ -1,0 +1,366 @@
+score,feature
+score_0,Chol/HDLC Ratio
+score_0,Urea Nitrogen (BUN)
+score_0,"Bilirubin, Total"
+score_0,Non HDL Cholesterol
+score_0,MPV
+score_0,Albumin/Globulin Ratio
+score_0,Potassium
+score_0,Eosinophils
+score_0,Absolute Basophils
+score_0,LDL-Cholesterol
+score_0,ALT
+score_0,Triglycerides
+score_0,Sed Rate
+score_0,Absolute Monocytes
+score_0,RDW
+score_0,Neutrophils
+score_0,Alkaline Phosphatase
+score_0,"Cholesterol, Total"
+score_0,Sodium
+score_0,Creatinine
+score_0,Platelet Count
+score_0,eGFR African American
+score_0,eGFR non-African American
+score_0,HDL Cholesterol
+score_0,TSH
+score_0,White Blood Cell Count
+score_0,Red Blood Cell Count
+score_0,Absolute Lymphocytes
+score_0,C-Reactive Protein
+score_1,Chol/HDLC Ratio
+score_1,Urea Nitrogen (BUN)
+score_1,"Bilirubin, Total"
+score_1,Non HDL Cholesterol
+score_1,MPV
+score_1,Albumin/Globulin Ratio
+score_1,Potassium
+score_1,Eosinophils
+score_1,Absolute Basophils
+score_1,LDL-Cholesterol
+score_1,ALT
+score_1,Triglycerides
+score_1,Sed Rate
+score_1,Absolute Monocytes
+score_1,RDW
+score_1,Neutrophils
+score_1,Alkaline Phosphatase
+score_1,"Cholesterol, Total"
+score_1,Sodium
+score_1,Creatinine
+score_1,Platelet Count
+score_1,eGFR African American
+score_1,eGFR non-African American
+score_1,C-Reactive Protein
+score_1,HDL Cholesterol
+score_1,TSH
+score_1,White Blood Cell Count
+score_1,Red Blood Cell Count
+score_1,MCH
+score_1,Absolute Lymphocytes
+score_2,Chol/HDLC Ratio
+score_2,Urea Nitrogen (BUN)
+score_2,"Bilirubin, Total"
+score_2,Non HDL Cholesterol
+score_2,MPV
+score_2,Albumin/Globulin Ratio
+score_2,Potassium
+score_2,Eosinophils
+score_2,Absolute Basophils
+score_2,LDL-Cholesterol
+score_2,ALT
+score_2,Triglycerides
+score_2,Sed Rate
+score_2,Absolute Monocytes
+score_2,RDW
+score_2,Neutrophils
+score_2,Alkaline Phosphatase
+score_2,"Cholesterol, Total"
+score_2,Sodium
+score_2,Creatinine
+score_2,Platelet Count
+score_2,eGFR African American
+score_2,eGFR non-African American
+score_2,Glucose
+score_2,Hemoglobin
+score_2,Carbon Dioxide
+score_2,White Blood Cell Count
+score_2,Red Blood Cell Count
+score_2,Hemocrit
+score_2,Absolute Neutrophils
+score_2,Absolute Lymphocytes
+score_2,Absolute Eosinophils
+score_2,Lymphocytes
+score_2,Vitamin B12
+score_3,Chol/HDLC Ratio
+score_3,Urea Nitrogen (BUN)
+score_3,"Bilirubin, Total"
+score_3,Non HDL Cholesterol
+score_3,MPV
+score_3,Albumin/Globulin Ratio
+score_3,Potassium
+score_3,Eosinophils
+score_3,Absolute Basophils
+score_3,LDL-Cholesterol
+score_3,ALT
+score_3,Triglycerides
+score_3,Sed Rate
+score_3,Absolute Monocytes
+score_3,RDW
+score_3,Neutrophils
+score_3,Alkaline Phosphatase
+score_3,"Cholesterol, Total"
+score_3,Sodium
+score_3,Creatinine
+score_3,Platelet Count
+score_3,eGFR African American
+score_3,eGFR non-African American
+score_3,Globulin
+score_3,MCV
+score_3,Vitamin B12
+score_3,Chloride
+score_3,Carbon Dioxide
+score_3,Calcium
+score_3,"Protein, Total"
+score_3,TSH
+score_3,White Blood Cell Count
+score_3,Absolute Lymphocytes
+score_4,Chol/HDLC Ratio
+score_4,Urea Nitrogen (BUN)
+score_4,"Bilirubin, Total"
+score_4,Non HDL Cholesterol
+score_4,MPV
+score_4,Albumin/Globulin Ratio
+score_4,Potassium
+score_4,Eosinophils
+score_4,Absolute Basophils
+score_4,LDL-Cholesterol
+score_4,ALT
+score_4,Triglycerides
+score_4,Sed Rate
+score_4,Absolute Monocytes
+score_4,RDW
+score_4,Neutrophils
+score_4,Alkaline Phosphatase
+score_4,"Cholesterol, Total"
+score_4,Sodium
+score_4,Creatinine
+score_4,Platelet Count
+score_4,eGFR African American
+score_4,eGFR non-African American
+score_4,MCHC
+score_4,HDL Cholesterol
+score_4,Glucose
+score_4,Albumin
+score_4,Globulin
+score_4,TSH
+score_4,Red Blood Cell Count
+score_4,MCH
+score_4,Absolute Eosinophils
+score_5,Chol/HDLC Ratio
+score_5,Urea Nitrogen (BUN)
+score_5,"Bilirubin, Total"
+score_5,Non HDL Cholesterol
+score_5,MPV
+score_5,Albumin/Globulin Ratio
+score_5,Potassium
+score_5,Eosinophils
+score_5,Absolute Basophils
+score_5,LDL-Cholesterol
+score_5,ALT
+score_5,Triglycerides
+score_5,Sed Rate
+score_5,Absolute Monocytes
+score_5,RDW
+score_5,Neutrophils
+score_5,Alkaline Phosphatase
+score_5,"Cholesterol, Total"
+score_5,Sodium
+score_5,Creatinine
+score_5,Platelet Count
+score_5,eGFR African American
+score_5,eGFR non-African American
+score_5,HDL Cholesterol
+score_5,White Blood Cell Count
+score_5,Red Blood Cell Count
+score_5,Absolute Neutrophils
+score_5,Absolute Lymphocytes
+score_5,C-Reactive Protein
+score_6,Chol/HDLC Ratio
+score_6,Urea Nitrogen (BUN)
+score_6,"Bilirubin, Total"
+score_6,Non HDL Cholesterol
+score_6,MPV
+score_6,Albumin/Globulin Ratio
+score_6,Potassium
+score_6,Eosinophils
+score_6,Absolute Basophils
+score_6,LDL-Cholesterol
+score_6,ALT
+score_6,Triglycerides
+score_6,Sed Rate
+score_6,Absolute Monocytes
+score_6,RDW
+score_6,Neutrophils
+score_6,Alkaline Phosphatase
+score_6,"Cholesterol, Total"
+score_6,Sodium
+score_6,Creatinine
+score_6,Platelet Count
+score_6,eGFR African American
+score_6,eGFR non-African American
+score_6,HDL Cholesterol
+score_6,Glucose
+score_6,Carbon Dioxide
+score_6,TSH
+score_6,White Blood Cell Count
+score_6,Absolute Lymphocytes
+score_6,C-Reactive Protein
+score_7,Chol/HDLC Ratio
+score_7,Urea Nitrogen (BUN)
+score_7,"Bilirubin, Total"
+score_7,Non HDL Cholesterol
+score_7,MPV
+score_7,Albumin/Globulin Ratio
+score_7,Potassium
+score_7,Eosinophils
+score_7,Absolute Basophils
+score_7,LDL-Cholesterol
+score_7,ALT
+score_7,Triglycerides
+score_7,Sed Rate
+score_7,Absolute Monocytes
+score_7,RDW
+score_7,Neutrophils
+score_7,Alkaline Phosphatase
+score_7,"Cholesterol, Total"
+score_7,Sodium
+score_7,Creatinine
+score_7,Platelet Count
+score_7,eGFR African American
+score_7,eGFR non-African American
+score_7,HDL Cholesterol
+score_7,TSH
+score_7,Red Blood Cell Count
+score_7,MCH
+score_7,Absolute Neutrophils
+score_7,Absolute Eosinophils
+score_7,C-Reactive Protein
+score_8,Chol/HDLC Ratio
+score_8,Urea Nitrogen (BUN)
+score_8,"Bilirubin, Total"
+score_8,Non HDL Cholesterol
+score_8,MPV
+score_8,Albumin/Globulin Ratio
+score_8,Potassium
+score_8,Eosinophils
+score_8,Absolute Basophils
+score_8,LDL-Cholesterol
+score_8,ALT
+score_8,Triglycerides
+score_8,Sed Rate
+score_8,Absolute Monocytes
+score_8,RDW
+score_8,Neutrophils
+score_8,Alkaline Phosphatase
+score_8,"Cholesterol, Total"
+score_8,Sodium
+score_8,Creatinine
+score_8,Platelet Count
+score_8,eGFR African American
+score_8,eGFR non-African American
+score_8,Absolute Lymphocytes
+score_8,Albumin
+score_8,Globulin
+score_8,TSH
+score_8,MCV
+score_8,MCH
+score_8,C-Reactive Protein
+score_9,Chol/HDLC Ratio
+score_9,Urea Nitrogen (BUN)
+score_9,"Bilirubin, Total"
+score_9,Non HDL Cholesterol
+score_9,MPV
+score_9,Albumin/Globulin Ratio
+score_9,Potassium
+score_9,Eosinophils
+score_9,Absolute Basophils
+score_9,LDL-Cholesterol
+score_9,ALT
+score_9,Triglycerides
+score_9,Sed Rate
+score_9,Absolute Monocytes
+score_9,RDW
+score_9,Neutrophils
+score_9,Alkaline Phosphatase
+score_9,"Cholesterol, Total"
+score_9,Sodium
+score_9,Creatinine
+score_9,Platelet Count
+score_9,eGFR African American
+score_9,eGFR non-African American
+score_9,Carbon Dioxide
+score_9,Glucose
+score_9,Calcium
+score_9,White Blood Cell Count
+score_9,Hemoglobin
+score_9,Absolute Lymphocytes
+score_9,Lymphocytes
+score_10,Chol/HDLC Ratio
+score_10,Urea Nitrogen (BUN)
+score_10,"Bilirubin, Total"
+score_10,Non HDL Cholesterol
+score_10,MPV
+score_10,Albumin/Globulin Ratio
+score_10,Potassium
+score_10,Eosinophils
+score_10,Absolute Basophils
+score_10,LDL-Cholesterol
+score_10,ALT
+score_10,Triglycerides
+score_10,Sed Rate
+score_10,Absolute Monocytes
+score_10,RDW
+score_10,Neutrophils
+score_10,Alkaline Phosphatase
+score_10,"Cholesterol, Total"
+score_10,Sodium
+score_10,Creatinine
+score_10,Platelet Count
+score_10,eGFR African American
+score_10,eGFR non-African American
+score_10,HDL Cholesterol
+score_10,Chloride
+score_10,TSH
+score_10,MCH
+score_10,MCHC
+score_10,Absolute Neutrophils
+score_10,C-Reactive Protein
+score_11,Chol/HDLC Ratio
+score_11,Urea Nitrogen (BUN)
+score_11,"Bilirubin, Total"
+score_11,Non HDL Cholesterol
+score_11,MPV
+score_11,Albumin/Globulin Ratio
+score_11,Potassium
+score_11,Eosinophils
+score_11,Absolute Basophils
+score_11,LDL-Cholesterol
+score_11,ALT
+score_11,Triglycerides
+score_11,Sed Rate
+score_11,Absolute Monocytes
+score_11,RDW
+score_11,Neutrophils
+score_11,Alkaline Phosphatase
+score_11,"Cholesterol, Total"
+score_11,Sodium
+score_11,Creatinine
+score_11,Platelet Count
+score_11,eGFR African American
+score_11,eGFR non-African American
+score_11,HDL Cholesterol
+score_11,Albumin
+score_11,Globulin
+score_11,TSH
+score_11,Absolute Eosinophils

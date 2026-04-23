@@ -1,0 +1,5430 @@
+score,feature
+score_0,vanillylmandelate (VMA)
+score_0,X-11795
+score_0,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_0,homostachydrine*
+score_0,imidazole lactate
+score_0,N4-acetylcytidine
+score_0,glycodeoxycholate 3-sulfate
+score_0,glycochenodeoxycholate glucuronide (1)
+score_0,mannitol/sorbitol
+score_0,catechol sulfate
+score_0,2-aminoheptanoate
+score_0,10-undecenoate (11:1n1)
+score_0,cytidine
+score_0,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_0,androsterone glucuronide
+score_0,tryptophan betaine
+score_0,N-palmitoyl-sphingosine (d18:1/16:0)
+score_0,salicylate
+score_0,pseudouridine
+score_0,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_0,glucuronate
+score_0,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_0,tyrosine
+score_0,deoxycarnitine
+score_0,ascorbic acid 2-sulfate
+score_0,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_0,hippurate
+score_0,maleate
+score_0,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_0,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_0,pantothenate
+score_0,1-linolenoyl-GPC (18:3)*
+score_0,guaiacol sulfate
+score_0,cholesterol
+score_0,ribonate
+score_0,X-25810
+score_0,2-ketocaprylate
+score_0,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_0,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_0,6-bromotryptophan
+score_0,alpha-tocopherol
+score_0,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_0,N-acetyl-aspartyl-glutamate (NAAG)
+score_0,beta-hydroxyisovalerate
+score_0,X-13553
+score_0,undecenoylcarnitine (C11:1)
+score_0,arachidonoylcarnitine (C20:4)
+score_0,4-ethylphenylsulfate
+score_0,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_0,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_0,behenoyl sphingomyelin (d18:1/22:0)*
+score_0,X-18913
+score_0,thyroxine
+score_0,X-21339
+score_0,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_0,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_0,4-allylphenol sulfate
+score_0,theophylline
+score_0,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_0,4-guanidinobutanoate
+score_0,hexadecadienoate (16:2n6)
+score_0,indolepropionate
+score_0,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_0,X-11787
+score_0,N-acetylglucosamine/N-acetylgalactosamine
+score_0,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_0,taurolithocholate 3-sulfate
+score_0,choline phosphate
+score_0,decadienedioic acid (C10:2-DC)**
+score_0,dihydroorotate
+score_0,N-acetylputrescine
+score_0,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_0,cystine
+score_0,phytanate
+score_0,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_0,3-hydroxydecanoylcarnitine
+score_0,4-hydroxyhippurate
+score_0,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_0,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_0,carnitine
+score_0,dodecenedioate (C12:1-DC)*
+score_0,glutamine conjugate of C6H10O2 (2)*
+score_0,4-vinylphenol sulfate
+score_0,methylsuccinate
+score_0,2-hydroxydecanoate
+score_0,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_0,glutamine conjugate of C6H10O2 (1)*
+score_0,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_0,gamma-tocopherol/beta-tocopherol
+score_0,uridine
+score_0,phosphoethanolamine
+score_0,N-delta-acetylornithine
+score_0,"N,N-dimethylalanine"
+score_0,pyridoxate
+score_0,tridecenedioate (C13:1-DC)*
+score_0,X-25420
+score_0,X-13728
+score_0,"bilirubin (E,E)*"
+score_0,S-methylcysteine
+score_0,gulonate*
+score_0,3-methoxytyrosine
+score_0,X-18921
+score_0,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_0,indolelactate
+score_0,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_0,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_0,ascorbic acid 3-sulfate*
+score_0,X-23644
+score_0,N-acetylserine
+score_0,X-24556
+score_0,orotidine
+score_0,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_0,succinoyltaurine
+score_0,N-palmitoyl-sphinganine (d18:0/16:0)
+score_0,succinate
+score_0,octadecenedioylcarnitine (C18:1-DC)*
+score_0,X-17010
+score_0,ethylmalonate
+score_0,2-aminophenol sulfate
+score_0,isoursodeoxycholate
+score_0,X-25422
+score_0,"2,6-dihydroxybenzoic acid"
+score_0,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_0,"bilirubin (E,Z or Z,E)*"
+score_0,gluconate
+score_0,xanthine
+score_0,carotene diol (1)
+score_0,butyrylcarnitine (C4)
+score_0,N-acetylarginine
+score_0,caprate (10:0)
+score_0,N-acetylhistidine
+score_0,sarcosine
+score_0,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_0,hyocholate
+score_0,lithocholate sulfate (1)
+score_0,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_0,N-oleoylserine
+score_0,citrulline
+score_0,X-23739
+score_0,O-sulfo-tyrosine
+score_0,N-methylpipecolate
+score_0,3-hydroxybutyroylglycine**
+score_0,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_0,dihomo-linoleoylcarnitine (C20:2)*
+score_0,allantoin
+score_0,cholate
+score_0,N-acetyl-beta-alanine
+score_0,3-methylglutaconate
+score_0,X-21353
+score_0,urea
+score_0,4-hydroxychlorothalonil
+score_0,X-24801
+score_0,3-hydroxyoctanoate
+score_0,methionine sulfoxide
+score_0,3-hydroxydecanoate
+score_0,X-11478
+score_0,docosadioate (C22-DC)
+score_0,margaroylcarnitine (C17)*
+score_0,glutamine conjugate of C7H12O2*
+score_0,X-14056
+score_0,X-11444
+score_0,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_0,linolenoylcarnitine (C18:3)*
+score_0,X-24748
+score_0,pipecolate
+score_0,9-hydroxystearate
+score_0,behenoylcarnitine (C22)*
+score_0,3-hydroxyhippurate
+score_0,"androstenediol (3beta,17beta) disulfate (2)"
+score_0,X-16576
+score_0,3-(4-hydroxyphenyl)lactate
+score_0,dimethylarginine (SDMA + ADMA)
+score_0,isobutyrylcarnitine (C4)
+score_0,cerotoylcarnitine (C26)*
+score_0,"cys-gly, oxidized"
+score_0,X-11381
+score_0,5-methyluridine (ribothymidine)
+score_0,glutarate (C5-DC)
+score_0,lignoceroylcarnitine (C24)*
+score_0,stearoyl sphingomyelin (d18:1/18:0)
+score_0,argininate*
+score_0,hypotaurine
+score_0,ximenoylcarnitine (C26:1)*
+score_0,alpha-ketoglutaramate*
+score_0,guanidinoacetate
+score_0,adenosine 5'-monophosphate (AMP)
+score_0,glycerophosphorylcholine (GPC)
+score_0,tetradecadienedioate (C14:2-DC)*
+score_0,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_0,1-palmitoleoyl-GPC (16:1)*
+score_0,isovalerylcarnitine (C5)
+score_0,X-15461
+score_0,5-oxoproline
+score_0,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_0,2-hydroxyoctanoate
+score_0,X-24947
+score_0,pregnenediol disulfate (C21H34O8S2)*
+score_0,N-acetyltryptophan
+score_0,X-15486
+score_0,ornithine
+score_0,3-formylindole
+score_0,stearoylcarnitine (C18)
+score_0,2'-deoxyuridine
+score_0,X-12101
+score_0,nicotinamide
+score_0,X-24475
+score_0,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_0,X-21383
+score_0,eicosapentaenoate (EPA; 20:5n3)
+score_0,N-methylproline
+score_0,nervonoylcarnitine (C24:1)*
+score_0,X-21286
+score_0,N-acetylmethionine
+score_0,2-hydroxynervonate*
+score_0,sphingosine 1-phosphate
+score_0,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_0,caprylate (8:0)
+score_0,malate
+score_0,dimethylglycine
+score_0,3-methylglutarylcarnitine (2)
+score_0,EDTA
+score_0,sphinganine-1-phosphate
+score_0,oxalate (ethanedioate)
+score_0,"N2,N2-dimethylguanosine"
+score_0,alpha-hydroxyisovalerate
+score_0,heptenedioate (C7:1-DC)*
+score_0,"5,6-dihydrothymine"
+score_0,N-acetylalanine
+score_0,tryptophan
+score_0,glutarylcarnitine (C5-DC)
+score_0,X-11483
+score_0,histidine
+score_0,gamma-glutamylmethionine
+score_0,oleamide
+score_0,stearidonate (18:4n3)
+score_0,N-acetylasparagine
+score_0,pyridoxal
+score_0,sebacate (C10-DC)
+score_0,asparagine
+score_0,laurate (12:0)
+score_0,docosapentaenoate (n3 DPA; 22:5n3)
+score_0,1-oleoylglycerol (18:1)
+score_0,deoxycholic acid glucuronide
+score_0,glutamine
+score_0,X-21796
+score_0,sphingosine
+score_0,isoleucine
+score_0,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_0,5-hydroxylysine
+score_0,X-25519
+score_0,X-25172
+score_0,stearate (18:0)
+score_0,lignoceroyl sphingomyelin (d18:1/24:0)
+score_0,glucose
+score_0,dodecadienoate (12:2)*
+score_0,"2,3-dihydroxyisovalerate"
+score_0,gamma-glutamylisoleucine*
+score_0,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_0,1-ribosyl-imidazoleacetate*
+score_0,"bilirubin (Z,Z)"
+score_0,indoleacetate
+score_0,etiocholanolone glucuronide
+score_0,pregnenolone sulfate
+score_0,glutamine_degradant*
+score_0,2-hydroxyhippurate (salicylurate)
+score_0,pentose acid*
+score_0,X-12844
+score_0,X-21470
+score_0,X-11299
+score_0,4-acetamidobutanoate
+score_0,1-methyl-5-imidazoleacetate
+score_0,pregnenetriol sulfate*
+score_0,3-methylhistidine
+score_0,acetylcarnitine (C2)
+score_0,betaine
+score_0,X-19141
+score_0,N-stearoyl-sphinganine (d18:0/18:0)*
+score_0,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_0,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_0,retinol (vitamin A)
+score_0,creatinine
+score_0,X-24949
+score_0,X-21736
+score_0,glycolithocholate sulfate*
+score_0,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_0,piperine
+score_0,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_0,2-keto-3-deoxy-gluconate
+score_0,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_0,X-23782
+score_0,X-12411
+score_0,epiandrosterone sulfate
+score_0,7-methylxanthine
+score_0,3-ureidopropionate
+score_0,beta-citrylglutamate
+score_0,cortisone
+score_0,X-24328
+score_0,X-25520
+score_0,X-15503
+score_0,1-methyl-4-imidazoleacetate
+score_0,X-12822
+score_0,1-linoleoylglycerol (18:2)
+score_0,7-methylguanine
+score_0,taurochenodeoxycholate
+score_0,andro steroid monosulfate C19H28O6S (1)*
+score_0,2-hydroxybehenate
+score_0,phenol sulfate
+score_0,cis-4-decenoate (10:1n6)*
+score_0,2-methylserine
+score_0,X-12849
+score_0,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_0,2-palmitoleoyl-GPC (16:1)*
+score_0,X-21607
+score_0,N-palmitoylglycine
+score_0,X-21471
+score_0,octadecanedioylcarnitine (C18-DC)*
+score_0,spermidine
+score_0,phenylalanine
+score_0,stachydrine
+score_0,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_0,X-24544
+score_0,gamma-glutamylglutamine
+score_0,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_0,myristate (14:0)
+score_0,2-hydroxyglutarate
+score_0,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_0,sphingomyelin (d18:2/18:1)*
+score_0,4-hydroxy-2-oxoglutaric acid
+score_0,X-16580
+score_0,3-methylxanthine
+score_0,dopamine 3-O-sulfate
+score_0,N-acetylphenylalanine
+score_0,"9,10-DiHOME"
+score_0,sphinganine
+score_0,inosine
+score_0,leucine
+score_0,palmitate (16:0)
+score_0,glutamate
+score_0,threonine
+score_0,cysteine
+score_0,fructose
+score_0,nonadecanoate (19:0)
+score_0,caproate (6:0)
+score_0,trans-4-hydroxyproline
+score_0,N-acetylleucine
+score_0,creatine
+score_0,gamma-glutamylhistidine
+score_0,N1-methyladenosine
+score_0,3-phenylpropionate (hydrocinnamate)
+score_0,theobromine
+score_0,4-methyl-2-oxopentanoate
+score_0,"1,2-dipalmitoyl-GPC (16:0/16:0)"
+score_0,docosahexaenoate (DHA; 22:6n3)
+score_0,isovalerate (i5:0)
+score_0,homoarginine
+score_0,propionylcarnitine (C3)
+score_0,N6-carbamoylthreonyladenosine
+score_0,N1-methyl-4-pyridone-3-carboxamide
+score_0,oleoylcarnitine (C18:1)
+score_0,1-linoleoyl-GPE (18:2)*
+score_0,isobutyrylglycine
+score_0,7alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)
+score_0,hexadecanedioate (C16-DC)
+score_0,octadecanedioate (C18-DC)
+score_0,hexanoylglutamine
+score_0,pyrraline
+score_0,1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+score_0,glycosyl-N-stearoyl-sphingosine (d18:1/18:0)
+score_0,succinylcarnitine (C4-DC)
+score_0,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_0,glycocholenate sulfate*
+score_0,taurocholenate sulfate*
+score_0,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_0,gamma-CEHC
+score_0,palmitoyl sphingomyelin (d18:1/16:0)
+score_0,cinnamoylglycine
+score_0,formiminoglutamate
+score_0,sulfate*
+score_0,S-methylcysteine sulfoxide
+score_0,16-hydroxypalmitate
+score_0,leucylalanine
+score_0,imidazole propionate
+score_0,pregnanediol-3-glucuronide
+score_0,mannonate*
+score_0,2-aminooctanoate
+score_0,"sphingomyelin (d18:1/14:0, d16:1/16:0)*"
+score_0,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_0,6-oxopiperidine-2-carboxylate
+score_0,methionine sulfone
+score_0,N-acetyltaurine
+score_0,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_0,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_0,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+score_0,oleate/vaccenate (18:1)
+score_0,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_0,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+score_0,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*
+score_0,1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+score_0,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+score_0,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_0,behenoyl dihydrosphingomyelin (d18:0/22:0)*
+score_0,"sphingomyelin (d18:0/18:0, d19:0/17:0)*"
+score_0,myristoyl dihydrosphingomyelin (d18:0/14:0)*
+score_0,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+score_0,palmitoylcholine
+score_0,perfluorooctanesulfonate (PFOS)
+score_0,lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*
+score_0,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*"
+score_0,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_0,sphingomyelin (d18:2/24:2)*
+score_0,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*"
+score_0,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_0,"N,N,N-trimethyl-5-aminovalerate"
+score_0,(N(1) + N(8))-acetylspermidine
+score_0,3-hydroxyoleoylcarnitine
+score_0,lyxonate
+score_0,octadecenedioate (C18:1-DC)
+score_0,N-acetyl-2-aminooctanoate*
+score_0,perfluorooctanoate (PFOA)
+score_0,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_0,3-amino-2-piperidone
+score_0,11beta-hydroxyandrosterone glucuronide
+score_0,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*"
+score_0,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**
+score_0,X-07765
+score_0,X-11880
+score_0,X-12100
+score_0,X-14939
+score_0,X-17676
+score_0,X-18899
+score_0,X-21319
+score_0,X-21467
+score_0,X-23639
+score_0,X-23680
+score_0,X-24295
+score_0,X-24309
+score_0,X-24951
+score_1,vanillylmandelate (VMA)
+score_1,X-11795
+score_1,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_1,homostachydrine*
+score_1,imidazole lactate
+score_1,N4-acetylcytidine
+score_1,glycodeoxycholate 3-sulfate
+score_1,glycochenodeoxycholate glucuronide (1)
+score_1,mannitol/sorbitol
+score_1,catechol sulfate
+score_1,2-aminoheptanoate
+score_1,10-undecenoate (11:1n1)
+score_1,cytidine
+score_1,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_1,androsterone glucuronide
+score_1,tryptophan betaine
+score_1,N-palmitoyl-sphingosine (d18:1/16:0)
+score_1,salicylate
+score_1,pseudouridine
+score_1,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_1,glucuronate
+score_1,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_1,tyrosine
+score_1,deoxycarnitine
+score_1,ascorbic acid 2-sulfate
+score_1,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_1,hippurate
+score_1,maleate
+score_1,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_1,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_1,pantothenate
+score_1,1-linolenoyl-GPC (18:3)*
+score_1,guaiacol sulfate
+score_1,cholesterol
+score_1,ribonate
+score_1,X-25810
+score_1,2-ketocaprylate
+score_1,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_1,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_1,6-bromotryptophan
+score_1,alpha-tocopherol
+score_1,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_1,N-acetyl-aspartyl-glutamate (NAAG)
+score_1,beta-hydroxyisovalerate
+score_1,X-13553
+score_1,undecenoylcarnitine (C11:1)
+score_1,arachidonoylcarnitine (C20:4)
+score_1,4-ethylphenylsulfate
+score_1,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_1,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_1,behenoyl sphingomyelin (d18:1/22:0)*
+score_1,X-18913
+score_1,thyroxine
+score_1,X-21339
+score_1,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_1,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_1,4-allylphenol sulfate
+score_1,theophylline
+score_1,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_1,4-guanidinobutanoate
+score_1,hexadecadienoate (16:2n6)
+score_1,indolepropionate
+score_1,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_1,X-11787
+score_1,N-acetylglucosamine/N-acetylgalactosamine
+score_1,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_1,taurolithocholate 3-sulfate
+score_1,choline phosphate
+score_1,decadienedioic acid (C10:2-DC)**
+score_1,dihydroorotate
+score_1,N-acetylputrescine
+score_1,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_1,cystine
+score_1,phytanate
+score_1,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_1,3-hydroxydecanoylcarnitine
+score_1,4-hydroxyhippurate
+score_1,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_1,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_1,carnitine
+score_1,dodecenedioate (C12:1-DC)*
+score_1,glutamine conjugate of C6H10O2 (2)*
+score_1,4-vinylphenol sulfate
+score_1,methylsuccinate
+score_1,2-hydroxydecanoate
+score_1,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_1,glutamine conjugate of C6H10O2 (1)*
+score_1,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_1,gamma-tocopherol/beta-tocopherol
+score_1,uridine
+score_1,phosphoethanolamine
+score_1,N-delta-acetylornithine
+score_1,"N,N-dimethylalanine"
+score_1,pyridoxate
+score_1,tridecenedioate (C13:1-DC)*
+score_1,X-25420
+score_1,X-13728
+score_1,"bilirubin (E,E)*"
+score_1,S-methylcysteine
+score_1,gulonate*
+score_1,3-methoxytyrosine
+score_1,X-18921
+score_1,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_1,indolelactate
+score_1,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_1,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_1,ascorbic acid 3-sulfate*
+score_1,X-23644
+score_1,N-acetylserine
+score_1,X-24556
+score_1,orotidine
+score_1,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_1,succinoyltaurine
+score_1,N-palmitoyl-sphinganine (d18:0/16:0)
+score_1,succinate
+score_1,octadecenedioylcarnitine (C18:1-DC)*
+score_1,X-17010
+score_1,ethylmalonate
+score_1,2-aminophenol sulfate
+score_1,isoursodeoxycholate
+score_1,X-25422
+score_1,"2,6-dihydroxybenzoic acid"
+score_1,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_1,"bilirubin (E,Z or Z,E)*"
+score_1,gluconate
+score_1,xanthine
+score_1,carotene diol (1)
+score_1,butyrylcarnitine (C4)
+score_1,N-acetylarginine
+score_1,caprate (10:0)
+score_1,N-acetylhistidine
+score_1,sarcosine
+score_1,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_1,hyocholate
+score_1,lithocholate sulfate (1)
+score_1,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_1,N-oleoylserine
+score_1,citrulline
+score_1,X-23739
+score_1,O-sulfo-tyrosine
+score_1,N-methylpipecolate
+score_1,3-hydroxybutyroylglycine**
+score_1,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_1,dihomo-linoleoylcarnitine (C20:2)*
+score_1,allantoin
+score_1,cholate
+score_1,N-acetyl-beta-alanine
+score_1,3-methylglutaconate
+score_1,X-21353
+score_1,urea
+score_1,4-hydroxychlorothalonil
+score_1,X-24801
+score_1,3-hydroxyoctanoate
+score_1,methionine sulfoxide
+score_1,3-hydroxydecanoate
+score_1,X-11478
+score_1,docosadioate (C22-DC)
+score_1,margaroylcarnitine (C17)*
+score_1,glutamine conjugate of C7H12O2*
+score_1,X-14056
+score_1,X-11444
+score_1,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_1,linolenoylcarnitine (C18:3)*
+score_1,X-24748
+score_1,pipecolate
+score_1,9-hydroxystearate
+score_1,behenoylcarnitine (C22)*
+score_1,3-hydroxyhippurate
+score_1,"androstenediol (3beta,17beta) disulfate (2)"
+score_1,X-16576
+score_1,3-(4-hydroxyphenyl)lactate
+score_1,dimethylarginine (SDMA + ADMA)
+score_1,isobutyrylcarnitine (C4)
+score_1,cerotoylcarnitine (C26)*
+score_1,"cys-gly, oxidized"
+score_1,X-11381
+score_1,5-methyluridine (ribothymidine)
+score_1,glutarate (C5-DC)
+score_1,lignoceroylcarnitine (C24)*
+score_1,stearoyl sphingomyelin (d18:1/18:0)
+score_1,argininate*
+score_1,hypotaurine
+score_1,ximenoylcarnitine (C26:1)*
+score_1,alpha-ketoglutaramate*
+score_1,guanidinoacetate
+score_1,adenosine 5'-monophosphate (AMP)
+score_1,glycerophosphorylcholine (GPC)
+score_1,tetradecadienedioate (C14:2-DC)*
+score_1,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_1,1-palmitoleoyl-GPC (16:1)*
+score_1,isovalerylcarnitine (C5)
+score_1,X-15461
+score_1,5-oxoproline
+score_1,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_1,2-hydroxyoctanoate
+score_1,X-24947
+score_1,pregnenediol disulfate (C21H34O8S2)*
+score_1,N-acetyltryptophan
+score_1,X-15486
+score_1,ornithine
+score_1,3-formylindole
+score_1,stearoylcarnitine (C18)
+score_1,2'-deoxyuridine
+score_1,X-12101
+score_1,nicotinamide
+score_1,X-24475
+score_1,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_1,X-21383
+score_1,eicosapentaenoate (EPA; 20:5n3)
+score_1,N-methylproline
+score_1,nervonoylcarnitine (C24:1)*
+score_1,X-21286
+score_1,N-acetylmethionine
+score_1,2-hydroxynervonate*
+score_1,sphingosine 1-phosphate
+score_1,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_1,caprylate (8:0)
+score_1,malate
+score_1,dimethylglycine
+score_1,3-methylglutarylcarnitine (2)
+score_1,EDTA
+score_1,sphinganine-1-phosphate
+score_1,oxalate (ethanedioate)
+score_1,"N2,N2-dimethylguanosine"
+score_1,alpha-hydroxyisovalerate
+score_1,heptenedioate (C7:1-DC)*
+score_1,"5,6-dihydrothymine"
+score_1,N-acetylalanine
+score_1,tryptophan
+score_1,glutarylcarnitine (C5-DC)
+score_1,X-11483
+score_1,histidine
+score_1,gamma-glutamylmethionine
+score_1,oleamide
+score_1,stearidonate (18:4n3)
+score_1,N-acetylasparagine
+score_1,pyridoxal
+score_1,sebacate (C10-DC)
+score_1,asparagine
+score_1,laurate (12:0)
+score_1,docosapentaenoate (n3 DPA; 22:5n3)
+score_1,1-oleoylglycerol (18:1)
+score_1,deoxycholic acid glucuronide
+score_1,glutamine
+score_1,X-21796
+score_1,sphingosine
+score_1,isoleucine
+score_1,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_1,5-hydroxylysine
+score_1,X-25519
+score_1,X-25172
+score_1,stearate (18:0)
+score_1,lignoceroyl sphingomyelin (d18:1/24:0)
+score_1,glucose
+score_1,dodecadienoate (12:2)*
+score_1,"2,3-dihydroxyisovalerate"
+score_1,gamma-glutamylisoleucine*
+score_1,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_1,1-ribosyl-imidazoleacetate*
+score_1,"bilirubin (Z,Z)"
+score_1,indoleacetate
+score_1,etiocholanolone glucuronide
+score_1,pregnenolone sulfate
+score_1,glutamine_degradant*
+score_1,2-hydroxyhippurate (salicylurate)
+score_1,pentose acid*
+score_1,X-12844
+score_1,X-21470
+score_1,X-11299
+score_1,4-acetamidobutanoate
+score_1,1-methyl-5-imidazoleacetate
+score_1,pregnenetriol sulfate*
+score_1,3-methylhistidine
+score_1,acetylcarnitine (C2)
+score_1,betaine
+score_1,X-19141
+score_1,N-stearoyl-sphinganine (d18:0/18:0)*
+score_1,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_1,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_1,retinol (vitamin A)
+score_1,creatinine
+score_1,X-24949
+score_1,X-21736
+score_1,glycolithocholate sulfate*
+score_1,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_1,piperine
+score_1,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_1,2-keto-3-deoxy-gluconate
+score_1,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_1,X-23782
+score_1,X-12411
+score_1,epiandrosterone sulfate
+score_1,7-methylxanthine
+score_1,3-ureidopropionate
+score_1,beta-citrylglutamate
+score_1,cortisone
+score_1,X-24328
+score_1,X-25520
+score_1,X-15503
+score_1,1-methyl-4-imidazoleacetate
+score_1,X-12822
+score_1,1-linoleoylglycerol (18:2)
+score_1,7-methylguanine
+score_1,taurochenodeoxycholate
+score_1,andro steroid monosulfate C19H28O6S (1)*
+score_1,2-hydroxybehenate
+score_1,phenol sulfate
+score_1,cis-4-decenoate (10:1n6)*
+score_1,2-methylserine
+score_1,X-12849
+score_1,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_1,2-palmitoleoyl-GPC (16:1)*
+score_1,X-21607
+score_1,N-palmitoylglycine
+score_1,X-21471
+score_1,octadecanedioylcarnitine (C18-DC)*
+score_1,spermidine
+score_1,phenylalanine
+score_1,stachydrine
+score_1,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_1,X-24544
+score_1,gamma-glutamylglutamine
+score_1,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_1,myristate (14:0)
+score_1,formiminoglutamate
+score_1,pyrraline
+score_1,16-hydroxypalmitate
+score_1,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_1,N-acetylvaline
+score_1,1-methylnicotinamide
+score_1,3-hydroxy-3-methylglutarate
+score_1,"9,10-DiHOME"
+score_1,arachidonate (20:4n6)
+score_1,phenylpyruvate
+score_1,biliverdin
+score_1,sphinganine
+score_1,inosine
+score_1,fructose
+score_1,nonadecanoate (19:0)
+score_1,caproate (6:0)
+score_1,trans-4-hydroxyproline
+score_1,N-acetylleucine
+score_1,gamma-glutamylhistidine
+score_1,2-hydroxystearate
+score_1,3-phenylpropionate (hydrocinnamate)
+score_1,3-methyl-2-oxovalerate
+score_1,kynurenine
+score_1,theobromine
+score_1,"1,2-dipalmitoyl-GPC (16:0/16:0)"
+score_1,N-acetylaspartate (NAA)
+score_1,iminodiacetate (IDA)
+score_1,homoarginine
+score_1,3-methylxanthine
+score_1,3-hydroxylaurate
+score_1,N-acetylphenylalanine
+score_1,myristoylcarnitine (C14)
+score_1,N1-methyl-2-pyridone-5-carboxamide
+score_1,N1-methyl-4-pyridone-3-carboxamide
+score_1,1-arachidonoyl-GPC (20:4n6)*
+score_1,isobutyrylglycine
+score_1,hexadecanedioate (C16-DC)
+score_1,octadecanedioate (C18-DC)
+score_1,1-arachidonoyl-GPI (20:4)*
+score_1,N6-acetyllysine
+score_1,dihomo-linolenate (20:3n3 or n6)
+score_1,1-linoleoyl-GPI (18:2)*
+score_1,1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+score_1,glycocholenate sulfate*
+score_1,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_1,pregnenediol sulfate (C21H34O5S)*
+score_1,2-hydroxyglutarate
+score_1,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_1,cinnamoylglycine
+score_1,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_1,fucitol
+score_1,5-(galactosylhydroxy)-lysine
+score_1,sulfate*
+score_1,4-hydroxy-2-oxoglutaric acid
+score_1,1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+score_1,(14 or 15)-methylpalmitate (a17:0 or i17:0)
+score_1,oleoyl-linoleoyl-glycerol (18:1/18:2) [2]
+score_1,linoleoylcarnitine (C18:2)*
+score_1,N6-methyllysine
+score_1,imidazole propionate
+score_1,pregnanediol-3-glucuronide
+score_1,2-aminooctanoate
+score_1,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_1,6-oxopiperidine-2-carboxylate
+score_1,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_1,dopamine 3-O-sulfate
+score_1,C-glycosyltryptophan
+score_1,citraconate/glutaconate
+score_1,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_1,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_1,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+score_1,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+score_1,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_1,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*
+score_1,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+score_1,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*
+score_1,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_1,perfluorooctanesulfonate (PFOS)
+score_1,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*
+score_1,lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*
+score_1,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_1,sphingomyelin (d18:2/18:1)*
+score_1,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*"
+score_1,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_1,"N,N,N-trimethyl-5-aminovalerate"
+score_1,(N(1) + N(8))-acetylspermidine
+score_1,5-dodecenoylcarnitine (C12:1)
+score_1,3-hydroxyoleoylcarnitine
+score_1,lyxonate
+score_1,hexadecenedioate (C16:1-DC)*
+score_1,octadecenedioate (C18:1-DC)
+score_1,N-acetyl-2-aminooctanoate*
+score_1,perfluorooctanoate (PFOA)
+score_1,11beta-hydroxyandrosterone glucuronide
+score_1,3-hydroxyhexanoylcarnitine (1)
+score_1,"3,5-dichloro-2,6-dihydroxybenzoic acid"
+score_1,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*"
+score_1,X-07765
+score_1,X-11880
+score_1,X-12100
+score_1,X-13866
+score_1,X-14939
+score_1,X-21319
+score_1,X-23593
+score_1,X-24309
+score_1,X-24337
+score_1,X-25265
+score_2,vanillylmandelate (VMA)
+score_2,X-11795
+score_2,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_2,homostachydrine*
+score_2,imidazole lactate
+score_2,N4-acetylcytidine
+score_2,glycodeoxycholate 3-sulfate
+score_2,glycochenodeoxycholate glucuronide (1)
+score_2,mannitol/sorbitol
+score_2,catechol sulfate
+score_2,2-aminoheptanoate
+score_2,10-undecenoate (11:1n1)
+score_2,cytidine
+score_2,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_2,androsterone glucuronide
+score_2,tryptophan betaine
+score_2,N-palmitoyl-sphingosine (d18:1/16:0)
+score_2,salicylate
+score_2,pseudouridine
+score_2,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_2,glucuronate
+score_2,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_2,tyrosine
+score_2,deoxycarnitine
+score_2,ascorbic acid 2-sulfate
+score_2,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_2,hippurate
+score_2,maleate
+score_2,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_2,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_2,pantothenate
+score_2,1-linolenoyl-GPC (18:3)*
+score_2,guaiacol sulfate
+score_2,cholesterol
+score_2,ribonate
+score_2,X-25810
+score_2,2-ketocaprylate
+score_2,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_2,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_2,6-bromotryptophan
+score_2,alpha-tocopherol
+score_2,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_2,N-acetyl-aspartyl-glutamate (NAAG)
+score_2,beta-hydroxyisovalerate
+score_2,X-13553
+score_2,undecenoylcarnitine (C11:1)
+score_2,arachidonoylcarnitine (C20:4)
+score_2,4-ethylphenylsulfate
+score_2,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_2,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_2,behenoyl sphingomyelin (d18:1/22:0)*
+score_2,X-18913
+score_2,thyroxine
+score_2,X-21339
+score_2,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_2,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_2,4-allylphenol sulfate
+score_2,theophylline
+score_2,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_2,4-guanidinobutanoate
+score_2,hexadecadienoate (16:2n6)
+score_2,indolepropionate
+score_2,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_2,X-11787
+score_2,N-acetylglucosamine/N-acetylgalactosamine
+score_2,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_2,taurolithocholate 3-sulfate
+score_2,choline phosphate
+score_2,decadienedioic acid (C10:2-DC)**
+score_2,dihydroorotate
+score_2,N-acetylputrescine
+score_2,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_2,cystine
+score_2,phytanate
+score_2,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_2,3-hydroxydecanoylcarnitine
+score_2,4-hydroxyhippurate
+score_2,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_2,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_2,carnitine
+score_2,dodecenedioate (C12:1-DC)*
+score_2,glutamine conjugate of C6H10O2 (2)*
+score_2,4-vinylphenol sulfate
+score_2,methylsuccinate
+score_2,2-hydroxydecanoate
+score_2,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_2,glutamine conjugate of C6H10O2 (1)*
+score_2,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_2,gamma-tocopherol/beta-tocopherol
+score_2,uridine
+score_2,phosphoethanolamine
+score_2,N-delta-acetylornithine
+score_2,"N,N-dimethylalanine"
+score_2,pyridoxate
+score_2,tridecenedioate (C13:1-DC)*
+score_2,X-25420
+score_2,X-13728
+score_2,"bilirubin (E,E)*"
+score_2,S-methylcysteine
+score_2,gulonate*
+score_2,3-methoxytyrosine
+score_2,X-18921
+score_2,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_2,indolelactate
+score_2,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_2,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_2,ascorbic acid 3-sulfate*
+score_2,X-23644
+score_2,N-acetylserine
+score_2,X-24556
+score_2,orotidine
+score_2,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_2,succinoyltaurine
+score_2,N-palmitoyl-sphinganine (d18:0/16:0)
+score_2,succinate
+score_2,octadecenedioylcarnitine (C18:1-DC)*
+score_2,X-17010
+score_2,ethylmalonate
+score_2,2-aminophenol sulfate
+score_2,isoursodeoxycholate
+score_2,X-25422
+score_2,"2,6-dihydroxybenzoic acid"
+score_2,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_2,"bilirubin (E,Z or Z,E)*"
+score_2,gluconate
+score_2,xanthine
+score_2,carotene diol (1)
+score_2,butyrylcarnitine (C4)
+score_2,N-acetylarginine
+score_2,caprate (10:0)
+score_2,N-acetylhistidine
+score_2,sarcosine
+score_2,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_2,hyocholate
+score_2,lithocholate sulfate (1)
+score_2,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_2,N-oleoylserine
+score_2,citrulline
+score_2,X-23739
+score_2,O-sulfo-tyrosine
+score_2,N-methylpipecolate
+score_2,3-hydroxybutyroylglycine**
+score_2,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_2,dihomo-linoleoylcarnitine (C20:2)*
+score_2,allantoin
+score_2,cholate
+score_2,N-acetyl-beta-alanine
+score_2,3-methylglutaconate
+score_2,X-21353
+score_2,urea
+score_2,4-hydroxychlorothalonil
+score_2,X-24801
+score_2,3-hydroxyoctanoate
+score_2,methionine sulfoxide
+score_2,3-hydroxydecanoate
+score_2,X-11478
+score_2,docosadioate (C22-DC)
+score_2,margaroylcarnitine (C17)*
+score_2,glutamine conjugate of C7H12O2*
+score_2,X-14056
+score_2,X-11444
+score_2,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_2,linolenoylcarnitine (C18:3)*
+score_2,X-24748
+score_2,pipecolate
+score_2,9-hydroxystearate
+score_2,behenoylcarnitine (C22)*
+score_2,3-hydroxyhippurate
+score_2,"androstenediol (3beta,17beta) disulfate (2)"
+score_2,X-16576
+score_2,3-(4-hydroxyphenyl)lactate
+score_2,dimethylarginine (SDMA + ADMA)
+score_2,isobutyrylcarnitine (C4)
+score_2,cerotoylcarnitine (C26)*
+score_2,"cys-gly, oxidized"
+score_2,X-11381
+score_2,5-methyluridine (ribothymidine)
+score_2,glutarate (C5-DC)
+score_2,lignoceroylcarnitine (C24)*
+score_2,stearoyl sphingomyelin (d18:1/18:0)
+score_2,argininate*
+score_2,hypotaurine
+score_2,ximenoylcarnitine (C26:1)*
+score_2,alpha-ketoglutaramate*
+score_2,guanidinoacetate
+score_2,adenosine 5'-monophosphate (AMP)
+score_2,glycerophosphorylcholine (GPC)
+score_2,tetradecadienedioate (C14:2-DC)*
+score_2,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_2,1-palmitoleoyl-GPC (16:1)*
+score_2,isovalerylcarnitine (C5)
+score_2,X-15461
+score_2,5-oxoproline
+score_2,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_2,2-hydroxyoctanoate
+score_2,X-24947
+score_2,pregnenediol disulfate (C21H34O8S2)*
+score_2,N-acetyltryptophan
+score_2,X-15486
+score_2,ornithine
+score_2,3-formylindole
+score_2,stearoylcarnitine (C18)
+score_2,2'-deoxyuridine
+score_2,X-12101
+score_2,nicotinamide
+score_2,X-24475
+score_2,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_2,X-21383
+score_2,eicosapentaenoate (EPA; 20:5n3)
+score_2,N-methylproline
+score_2,nervonoylcarnitine (C24:1)*
+score_2,X-21286
+score_2,N-acetylmethionine
+score_2,2-hydroxynervonate*
+score_2,sphingosine 1-phosphate
+score_2,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_2,caprylate (8:0)
+score_2,malate
+score_2,dimethylglycine
+score_2,3-methylglutarylcarnitine (2)
+score_2,EDTA
+score_2,sphinganine-1-phosphate
+score_2,oxalate (ethanedioate)
+score_2,"N2,N2-dimethylguanosine"
+score_2,alpha-hydroxyisovalerate
+score_2,heptenedioate (C7:1-DC)*
+score_2,"5,6-dihydrothymine"
+score_2,N-acetylalanine
+score_2,tryptophan
+score_2,glutarylcarnitine (C5-DC)
+score_2,X-11483
+score_2,histidine
+score_2,gamma-glutamylmethionine
+score_2,oleamide
+score_2,stearidonate (18:4n3)
+score_2,N-acetylasparagine
+score_2,pyridoxal
+score_2,sebacate (C10-DC)
+score_2,asparagine
+score_2,laurate (12:0)
+score_2,docosapentaenoate (n3 DPA; 22:5n3)
+score_2,1-oleoylglycerol (18:1)
+score_2,deoxycholic acid glucuronide
+score_2,glutamine
+score_2,X-21796
+score_2,sphingosine
+score_2,isoleucine
+score_2,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_2,5-hydroxylysine
+score_2,X-25519
+score_2,X-25172
+score_2,stearate (18:0)
+score_2,lignoceroyl sphingomyelin (d18:1/24:0)
+score_2,glucose
+score_2,dodecadienoate (12:2)*
+score_2,"2,3-dihydroxyisovalerate"
+score_2,gamma-glutamylisoleucine*
+score_2,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_2,1-ribosyl-imidazoleacetate*
+score_2,"bilirubin (Z,Z)"
+score_2,indoleacetate
+score_2,etiocholanolone glucuronide
+score_2,pregnenolone sulfate
+score_2,glutamine_degradant*
+score_2,2-hydroxyhippurate (salicylurate)
+score_2,pentose acid*
+score_2,X-12844
+score_2,X-21470
+score_2,X-11299
+score_2,4-acetamidobutanoate
+score_2,1-methyl-5-imidazoleacetate
+score_2,pregnenetriol sulfate*
+score_2,3-methylhistidine
+score_2,acetylcarnitine (C2)
+score_2,betaine
+score_2,X-19141
+score_2,N-stearoyl-sphinganine (d18:0/18:0)*
+score_2,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_2,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_2,retinol (vitamin A)
+score_2,creatinine
+score_2,X-24949
+score_2,X-21736
+score_2,glycolithocholate sulfate*
+score_2,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_2,piperine
+score_2,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_2,2-keto-3-deoxy-gluconate
+score_2,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_2,X-23782
+score_2,X-12411
+score_2,epiandrosterone sulfate
+score_2,7-methylxanthine
+score_2,3-ureidopropionate
+score_2,beta-citrylglutamate
+score_2,cortisone
+score_2,X-24328
+score_2,X-25520
+score_2,X-15503
+score_2,1-methyl-4-imidazoleacetate
+score_2,X-12822
+score_2,1-linoleoylglycerol (18:2)
+score_2,7-methylguanine
+score_2,taurochenodeoxycholate
+score_2,andro steroid monosulfate C19H28O6S (1)*
+score_2,2-hydroxybehenate
+score_2,phenol sulfate
+score_2,cis-4-decenoate (10:1n6)*
+score_2,2-methylserine
+score_2,X-12849
+score_2,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_2,2-palmitoleoyl-GPC (16:1)*
+score_2,X-21607
+score_2,N-palmitoylglycine
+score_2,X-21471
+score_2,octadecanedioylcarnitine (C18-DC)*
+score_2,spermidine
+score_2,phenylalanine
+score_2,stachydrine
+score_2,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_2,X-24544
+score_2,gamma-glutamylglutamine
+score_2,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_2,myristate (14:0)
+score_2,"N6,N6,N6-trimethyllysine"
+score_2,X-17357
+score_2,X-21258
+score_2,phenylacetylglutamine
+score_2,octadecadienedioate (C18:2-DC)*
+score_2,1-palmitoyl-GPG (16:0)*
+score_2,lyxonate
+score_2,threonate
+score_2,docosadienoate (22:2n6)
+score_2,hydroxy-CMPF*
+score_2,2-palmitoyl-GPC (16:0)*
+score_2,theobromine
+score_2,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*"
+score_2,palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)
+score_2,S-1-pyrroline-5-carboxylate
+score_2,1-methylnicotinamide
+score_2,3-hydroxy-3-methylglutarate
+score_2,"9,10-DiHOME"
+score_2,arginine
+score_2,phenylpyruvate
+score_2,beta-alanine
+score_2,gamma-glutamylglutamate
+score_2,inosine
+score_2,methionine
+score_2,serine
+score_2,taurine
+score_2,fructose
+score_2,trans-4-hydroxyproline
+score_2,erucate (22:1n9)
+score_2,citrate
+score_2,2-aminobutyrate
+score_2,creatine
+score_2,N-acetylglutamate
+score_2,ribitol
+score_2,"1,2-dipalmitoyl-GPC (16:0/16:0)"
+score_2,docosahexaenoate (DHA; 22:6n3)
+score_2,alpha-hydroxyisocaproate
+score_2,isovalerate (i5:0)
+score_2,phenyllactate (PLA)
+score_2,cysteine s-sulfate
+score_2,tartronate (hydroxymalonate)
+score_2,erythritol
+score_2,3-hydroxymyristate
+score_2,iminodiacetate (IDA)
+score_2,3-methyl-2-oxobutyrate
+score_2,homocitrulline
+score_2,androsterone sulfate
+score_2,dodecanedioate (C12-DC)
+score_2,3-hydroxylaurate
+score_2,propionylcarnitine (C3)
+score_2,3-hydroxy-2-ethylpropionate
+score_2,myristoleate (14:1n5)
+score_2,myristoylcarnitine (C14)
+score_2,p-cresol sulfate
+score_2,eicosenoate (20:1)
+score_2,aconitate [cis or trans]
+score_2,1-linoleoyl-GPC (18:2)
+score_2,1-stearoyl-GPE (18:0)
+score_2,N1-methyl-2-pyridone-5-carboxamide
+score_2,N1-methyl-4-pyridone-3-carboxamide
+score_2,2-hydroxy-3-methylvalerate
+score_2,1-arachidonoyl-GPE (20:4n6)*
+score_2,2-hydroxypalmitate
+score_2,isobutyrylglycine
+score_2,ectoine
+score_2,1-arachidonoyl-GPI (20:4)*
+score_2,pyrraline
+score_2,1-linoleoyl-GPI (18:2)*
+score_2,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+score_2,"5alpha-androstan-3beta,17beta-diol disulfate"
+score_2,taurocholenate sulfate*
+score_2,21-hydroxypregnenolone disulfate
+score_2,"androstenediol (3beta,17beta) monosulfate (2)"
+score_2,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_2,palmitoyl sphingomyelin (d18:1/16:0)
+score_2,16alpha-hydroxy DHEA 3-sulfate
+score_2,cinnamoylglycine
+score_2,cis-4-decenoylcarnitine (C10:1)
+score_2,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_2,"2R,3R-dihydroxybutyrate"
+score_2,5-(galactosylhydroxy)-lysine
+score_2,cysteinylglycine disulfide*
+score_2,1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+score_2,glycoursodeoxycholate
+score_2,(14 or 15)-methylpalmitate (a17:0 or i17:0)
+score_2,16-hydroxypalmitate
+score_2,oleoyl-linoleoyl-glycerol (18:1/18:2) [2]
+score_2,1-(1-enyl-stearoyl)-GPE (P-18:0)*
+score_2,linoleoylcarnitine (C18:2)*
+score_2,2-O-methylascorbic acid
+score_2,2-stearoyl-GPE (18:0)*
+score_2,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_2,1-(1-enyl-oleoyl)-GPE (P-18:1)*
+score_2,N-acetyltaurine
+score_2,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_2,3-hydroxypyridine sulfate
+score_2,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*"
+score_2,C-glycosyltryptophan
+score_2,arabitol/xylitol
+score_2,citraconate/glutaconate
+score_2,adipoylcarnitine (C6-DC)
+score_2,nonanoylcarnitine (C9)
+score_2,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+score_2,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_2,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*
+score_2,1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+score_2,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_2,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+score_2,1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*
+score_2,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*
+score_2,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_2,perfluorooctanesulfonate (PFOS)
+score_2,"ceramide (d18:1/14:0, d16:1/16:0)*"
+score_2,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*"
+score_2,sphingomyelin (d18:2/24:2)*
+score_2,cortolone glucuronide (1)
+score_2,hexadecenedioate (C16:1-DC)*
+score_2,perfluorooctanoate (PFOA)
+score_2,gamma-glutamylcitrulline*
+score_2,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_2,pregnenetriol disulfate*
+score_2,eicosenedioate (C20:1-DC)*
+score_2,"3,5-dichloro-2,6-dihydroxybenzoic acid"
+score_2,branched chain 14:0 dicarboxylic acid**
+score_2,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*"
+score_2,"2,4-di-tert-butylphenol"
+score_2,X-11378
+score_2,X-11470
+score_2,X-12462
+score_2,X-13866
+score_2,X-14939
+score_2,X-16580
+score_2,X-16935
+score_2,X-17335
+score_2,X-17676
+score_2,X-21319
+score_2,X-21467
+score_2,X-23593
+score_2,X-23665
+score_2,X-23680
+score_2,X-24953
+score_2,X-25265
+score_3,vanillylmandelate (VMA)
+score_3,X-11795
+score_3,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_3,homostachydrine*
+score_3,imidazole lactate
+score_3,N4-acetylcytidine
+score_3,glycodeoxycholate 3-sulfate
+score_3,glycochenodeoxycholate glucuronide (1)
+score_3,mannitol/sorbitol
+score_3,catechol sulfate
+score_3,2-aminoheptanoate
+score_3,10-undecenoate (11:1n1)
+score_3,cytidine
+score_3,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_3,androsterone glucuronide
+score_3,tryptophan betaine
+score_3,N-palmitoyl-sphingosine (d18:1/16:0)
+score_3,salicylate
+score_3,pseudouridine
+score_3,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_3,glucuronate
+score_3,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_3,tyrosine
+score_3,deoxycarnitine
+score_3,ascorbic acid 2-sulfate
+score_3,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_3,hippurate
+score_3,maleate
+score_3,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_3,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_3,pantothenate
+score_3,1-linolenoyl-GPC (18:3)*
+score_3,guaiacol sulfate
+score_3,cholesterol
+score_3,ribonate
+score_3,X-25810
+score_3,2-ketocaprylate
+score_3,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_3,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_3,6-bromotryptophan
+score_3,alpha-tocopherol
+score_3,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_3,N-acetyl-aspartyl-glutamate (NAAG)
+score_3,beta-hydroxyisovalerate
+score_3,X-13553
+score_3,undecenoylcarnitine (C11:1)
+score_3,arachidonoylcarnitine (C20:4)
+score_3,4-ethylphenylsulfate
+score_3,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_3,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_3,behenoyl sphingomyelin (d18:1/22:0)*
+score_3,X-18913
+score_3,thyroxine
+score_3,X-21339
+score_3,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_3,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_3,4-allylphenol sulfate
+score_3,theophylline
+score_3,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_3,4-guanidinobutanoate
+score_3,hexadecadienoate (16:2n6)
+score_3,indolepropionate
+score_3,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_3,X-11787
+score_3,N-acetylglucosamine/N-acetylgalactosamine
+score_3,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_3,taurolithocholate 3-sulfate
+score_3,choline phosphate
+score_3,decadienedioic acid (C10:2-DC)**
+score_3,dihydroorotate
+score_3,N-acetylputrescine
+score_3,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_3,cystine
+score_3,phytanate
+score_3,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_3,3-hydroxydecanoylcarnitine
+score_3,4-hydroxyhippurate
+score_3,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_3,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_3,carnitine
+score_3,dodecenedioate (C12:1-DC)*
+score_3,glutamine conjugate of C6H10O2 (2)*
+score_3,4-vinylphenol sulfate
+score_3,methylsuccinate
+score_3,2-hydroxydecanoate
+score_3,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_3,glutamine conjugate of C6H10O2 (1)*
+score_3,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_3,gamma-tocopherol/beta-tocopherol
+score_3,uridine
+score_3,phosphoethanolamine
+score_3,N-delta-acetylornithine
+score_3,"N,N-dimethylalanine"
+score_3,pyridoxate
+score_3,tridecenedioate (C13:1-DC)*
+score_3,X-25420
+score_3,X-13728
+score_3,"bilirubin (E,E)*"
+score_3,S-methylcysteine
+score_3,gulonate*
+score_3,3-methoxytyrosine
+score_3,X-18921
+score_3,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_3,indolelactate
+score_3,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_3,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_3,ascorbic acid 3-sulfate*
+score_3,X-23644
+score_3,N-acetylserine
+score_3,X-24556
+score_3,orotidine
+score_3,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_3,succinoyltaurine
+score_3,N-palmitoyl-sphinganine (d18:0/16:0)
+score_3,succinate
+score_3,octadecenedioylcarnitine (C18:1-DC)*
+score_3,X-17010
+score_3,ethylmalonate
+score_3,2-aminophenol sulfate
+score_3,isoursodeoxycholate
+score_3,X-25422
+score_3,"2,6-dihydroxybenzoic acid"
+score_3,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_3,"bilirubin (E,Z or Z,E)*"
+score_3,gluconate
+score_3,xanthine
+score_3,carotene diol (1)
+score_3,butyrylcarnitine (C4)
+score_3,N-acetylarginine
+score_3,caprate (10:0)
+score_3,N-acetylhistidine
+score_3,sarcosine
+score_3,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_3,hyocholate
+score_3,lithocholate sulfate (1)
+score_3,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_3,N-oleoylserine
+score_3,citrulline
+score_3,X-23739
+score_3,O-sulfo-tyrosine
+score_3,N-methylpipecolate
+score_3,3-hydroxybutyroylglycine**
+score_3,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_3,dihomo-linoleoylcarnitine (C20:2)*
+score_3,allantoin
+score_3,cholate
+score_3,N-acetyl-beta-alanine
+score_3,3-methylglutaconate
+score_3,X-21353
+score_3,urea
+score_3,4-hydroxychlorothalonil
+score_3,X-24801
+score_3,3-hydroxyoctanoate
+score_3,methionine sulfoxide
+score_3,3-hydroxydecanoate
+score_3,X-11478
+score_3,docosadioate (C22-DC)
+score_3,margaroylcarnitine (C17)*
+score_3,glutamine conjugate of C7H12O2*
+score_3,X-14056
+score_3,X-11444
+score_3,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_3,linolenoylcarnitine (C18:3)*
+score_3,X-24748
+score_3,pipecolate
+score_3,9-hydroxystearate
+score_3,behenoylcarnitine (C22)*
+score_3,3-hydroxyhippurate
+score_3,"androstenediol (3beta,17beta) disulfate (2)"
+score_3,X-16576
+score_3,3-(4-hydroxyphenyl)lactate
+score_3,dimethylarginine (SDMA + ADMA)
+score_3,isobutyrylcarnitine (C4)
+score_3,cerotoylcarnitine (C26)*
+score_3,"cys-gly, oxidized"
+score_3,X-11381
+score_3,5-methyluridine (ribothymidine)
+score_3,glutarate (C5-DC)
+score_3,lignoceroylcarnitine (C24)*
+score_3,stearoyl sphingomyelin (d18:1/18:0)
+score_3,argininate*
+score_3,hypotaurine
+score_3,ximenoylcarnitine (C26:1)*
+score_3,alpha-ketoglutaramate*
+score_3,guanidinoacetate
+score_3,adenosine 5'-monophosphate (AMP)
+score_3,glycerophosphorylcholine (GPC)
+score_3,tetradecadienedioate (C14:2-DC)*
+score_3,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_3,1-palmitoleoyl-GPC (16:1)*
+score_3,isovalerylcarnitine (C5)
+score_3,X-15461
+score_3,5-oxoproline
+score_3,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_3,2-hydroxyoctanoate
+score_3,X-24947
+score_3,pregnenediol disulfate (C21H34O8S2)*
+score_3,N-acetyltryptophan
+score_3,X-15486
+score_3,ornithine
+score_3,3-formylindole
+score_3,stearoylcarnitine (C18)
+score_3,2'-deoxyuridine
+score_3,X-12101
+score_3,nicotinamide
+score_3,X-24475
+score_3,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_3,X-21383
+score_3,eicosapentaenoate (EPA; 20:5n3)
+score_3,N-methylproline
+score_3,nervonoylcarnitine (C24:1)*
+score_3,X-21286
+score_3,N-acetylmethionine
+score_3,2-hydroxynervonate*
+score_3,sphingosine 1-phosphate
+score_3,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_3,caprylate (8:0)
+score_3,malate
+score_3,dimethylglycine
+score_3,3-methylglutarylcarnitine (2)
+score_3,EDTA
+score_3,sphinganine-1-phosphate
+score_3,oxalate (ethanedioate)
+score_3,"N2,N2-dimethylguanosine"
+score_3,alpha-hydroxyisovalerate
+score_3,heptenedioate (C7:1-DC)*
+score_3,"5,6-dihydrothymine"
+score_3,N-acetylalanine
+score_3,tryptophan
+score_3,glutarylcarnitine (C5-DC)
+score_3,X-11483
+score_3,histidine
+score_3,gamma-glutamylmethionine
+score_3,oleamide
+score_3,stearidonate (18:4n3)
+score_3,N-acetylasparagine
+score_3,pyridoxal
+score_3,sebacate (C10-DC)
+score_3,asparagine
+score_3,laurate (12:0)
+score_3,docosapentaenoate (n3 DPA; 22:5n3)
+score_3,1-oleoylglycerol (18:1)
+score_3,deoxycholic acid glucuronide
+score_3,glutamine
+score_3,X-21796
+score_3,sphingosine
+score_3,isoleucine
+score_3,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_3,5-hydroxylysine
+score_3,X-25519
+score_3,X-25172
+score_3,stearate (18:0)
+score_3,lignoceroyl sphingomyelin (d18:1/24:0)
+score_3,glucose
+score_3,dodecadienoate (12:2)*
+score_3,"2,3-dihydroxyisovalerate"
+score_3,gamma-glutamylisoleucine*
+score_3,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_3,1-ribosyl-imidazoleacetate*
+score_3,"bilirubin (Z,Z)"
+score_3,indoleacetate
+score_3,etiocholanolone glucuronide
+score_3,pregnenolone sulfate
+score_3,glutamine_degradant*
+score_3,2-hydroxyhippurate (salicylurate)
+score_3,pentose acid*
+score_3,X-12844
+score_3,X-21470
+score_3,X-11299
+score_3,4-acetamidobutanoate
+score_3,1-methyl-5-imidazoleacetate
+score_3,pregnenetriol sulfate*
+score_3,3-methylhistidine
+score_3,acetylcarnitine (C2)
+score_3,betaine
+score_3,X-19141
+score_3,N-stearoyl-sphinganine (d18:0/18:0)*
+score_3,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_3,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_3,retinol (vitamin A)
+score_3,creatinine
+score_3,X-24949
+score_3,X-21736
+score_3,glycolithocholate sulfate*
+score_3,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_3,piperine
+score_3,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_3,2-keto-3-deoxy-gluconate
+score_3,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_3,X-23782
+score_3,X-12411
+score_3,epiandrosterone sulfate
+score_3,7-methylxanthine
+score_3,3-ureidopropionate
+score_3,beta-citrylglutamate
+score_3,cortisone
+score_3,X-24328
+score_3,X-25520
+score_3,X-15503
+score_3,1-methyl-4-imidazoleacetate
+score_3,X-12822
+score_3,1-linoleoylglycerol (18:2)
+score_3,7-methylguanine
+score_3,taurochenodeoxycholate
+score_3,andro steroid monosulfate C19H28O6S (1)*
+score_3,2-hydroxybehenate
+score_3,phenol sulfate
+score_3,cis-4-decenoate (10:1n6)*
+score_3,2-methylserine
+score_3,X-12849
+score_3,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_3,2-palmitoleoyl-GPC (16:1)*
+score_3,X-21607
+score_3,N-palmitoylglycine
+score_3,X-21471
+score_3,octadecanedioylcarnitine (C18-DC)*
+score_3,spermidine
+score_3,phenylalanine
+score_3,stachydrine
+score_3,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_3,X-24544
+score_3,gamma-glutamylglutamine
+score_3,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_3,myristate (14:0)
+score_3,erythritol
+score_3,X-12462
+score_3,citrate
+score_3,cysteine s-sulfate
+score_3,X-25271
+score_3,docosahexaenoate (DHA; 22:6n3)
+score_3,mannonate*
+score_3,margarate (17:0)
+score_3,citraconate/glutaconate
+score_3,13-HODE + 9-HODE
+score_3,3-hydroxymyristate
+score_3,1-(1-enyl-stearoyl)-GPE (P-18:0)*
+score_3,phenylpyruvate
+score_3,3-hydroxypyridine sulfate
+score_3,X-23636
+score_3,N-acetylaspartate (NAA)
+score_3,oleate/vaccenate (18:1)
+score_3,X-11470
+score_3,palmitoyl ethanolamide
+score_3,"3,4-dihydroxybutyrate"
+score_3,pregnanediol-3-glucuronide
+score_3,glutamate
+score_3,pentadecanoate (15:0)
+score_3,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_3,2-oxoarginine*
+score_3,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*
+score_3,"9,10-DiHOME"
+score_3,linoleate (18:2n6)
+score_3,arachidonate (20:4n6)
+score_3,biliverdin
+score_3,3-hydroxybutyrate (BHBA)
+score_3,sphinganine
+score_3,myo-inositol
+score_3,orotate
+score_3,lactate
+score_3,trans-urocanate
+score_3,alanine
+score_3,pyruvate
+score_3,trans-4-hydroxyproline
+score_3,erucate (22:1n9)
+score_3,butyrate/isobutyrate (4:0)
+score_3,dihomo-linoleate (20:2n6)
+score_3,gamma-glutamylhistidine
+score_3,choline
+score_3,gamma-glutamylleucine
+score_3,N-stearoyl-sphingosine (d18:1/18:0)*
+score_3,benzoate
+score_3,3-phenylpropionate (hydrocinnamate)
+score_3,glycerol 3-phosphate
+score_3,kynurenine
+score_3,isovalerate (i5:0)
+score_3,hexanoylcarnitine (C6)
+score_3,iminodiacetate (IDA)
+score_3,3-hydroxy-2-ethylpropionate
+score_3,docosadienoate (22:2n6)
+score_3,N-acetylphenylalanine
+score_3,N-acetylthreonine
+score_3,erythronate*
+score_3,eicosenoate (20:1)
+score_3,laurylcarnitine (C12)
+score_3,phenylacetylglutamine
+score_3,"5,6-dihydrouridine"
+score_3,isovalerylglycine
+score_3,N1-methyl-4-pyridone-3-carboxamide
+score_3,2-hydroxy-3-methylvalerate
+score_3,1-arachidonoyl-GPC (20:4n6)*
+score_3,1-linoleoyl-GPE (18:2)*
+score_3,docosapentaenoate (n6 DPA; 22:5n6)
+score_3,isobutyrylglycine
+score_3,tetradecanedioate (C14-DC)
+score_3,1-arachidonoyl-GPI (20:4)*
+score_3,dihomo-linolenate (20:3n3 or n6)
+score_3,glycocholenate sulfate*
+score_3,taurocholenate sulfate*
+score_3,"5alpha-pregnan-3beta,20alpha-diol monosulfate (2)"
+score_3,pregnenediol sulfate (C21H34O5S)*
+score_3,2-hydroxyglutarate
+score_3,gamma-CEHC
+score_3,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_3,cinnamoylglycine
+score_3,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_3,fucitol
+score_3,5-(galactosylhydroxy)-lysine
+score_3,cysteinylglycine disulfide*
+score_3,formiminoglutamate
+score_3,hydantoin-5-propionate
+score_3,sulfate*
+score_3,S-methylcysteine sulfoxide
+score_3,1-(1-enyl-palmitoyl)-GPE (P-16:0)*
+score_3,linoleoylcarnitine (C18:2)*
+score_3,trimethylamine N-oxide
+score_3,N-acetylcarnosine
+score_3,2-aminooctanoate
+score_3,6-oxopiperidine-2-carboxylate
+score_3,methionine sulfone
+score_3,1-(1-enyl-oleoyl)-GPE (P-18:1)*
+score_3,fructosyllysine
+score_3,N-acetyltaurine
+score_3,6-hydroxyindole sulfate
+score_3,"sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*"
+score_3,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*"
+score_3,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*"
+score_3,C-glycosyltryptophan
+score_3,arabitol/xylitol
+score_3,adipoylcarnitine (C6-DC)
+score_3,glycochenodeoxycholate 3-sulfate
+score_3,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+score_3,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_3,1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+score_3,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+score_3,myristoyl dihydrosphingomyelin (d18:0/14:0)*
+score_3,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+score_3,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+score_3,thioproline
+score_3,palmitoylcholine
+score_3,perfluorooctanesulfonate (PFOS)
+score_3,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*"
+score_3,sphingomyelin (d18:2/24:2)*
+score_3,sphingomyelin (d18:2/23:1)*
+score_3,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_3,"N,N,N-trimethyl-5-aminovalerate"
+score_3,carotene diol (2)
+score_3,cortolone glucuronide (1)
+score_3,(N(1) + N(8))-acetylspermidine
+score_3,lyxonate
+score_3,octadecadienedioate (C18:2-DC)*
+score_3,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_3,tetradecadienoate (14:2)*
+score_3,ethyl beta-glucopyranoside
+score_3,N-acetyl-isoputreanine
+score_3,"N2-acetyl,N6,N6-dimethyllysine"
+score_3,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**
+score_3,"3,5-dichloro-2,6-dihydroxybenzoic acid"
+score_3,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*"
+score_3,X-11308
+score_3,X-11372
+score_3,X-11378
+score_3,X-12026
+score_3,X-12680
+score_3,X-12798
+score_3,X-14939
+score_3,X-16935
+score_3,X-17357
+score_3,X-17676
+score_3,X-21319
+score_3,X-23593
+score_3,X-24309
+score_3,X-24588
+score_3,X-24951
+score_3,X-25957
+score_4,vanillylmandelate (VMA)
+score_4,X-11795
+score_4,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_4,homostachydrine*
+score_4,imidazole lactate
+score_4,N4-acetylcytidine
+score_4,glycodeoxycholate 3-sulfate
+score_4,glycochenodeoxycholate glucuronide (1)
+score_4,mannitol/sorbitol
+score_4,catechol sulfate
+score_4,2-aminoheptanoate
+score_4,10-undecenoate (11:1n1)
+score_4,cytidine
+score_4,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_4,androsterone glucuronide
+score_4,tryptophan betaine
+score_4,N-palmitoyl-sphingosine (d18:1/16:0)
+score_4,salicylate
+score_4,pseudouridine
+score_4,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_4,glucuronate
+score_4,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_4,tyrosine
+score_4,deoxycarnitine
+score_4,ascorbic acid 2-sulfate
+score_4,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_4,hippurate
+score_4,maleate
+score_4,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_4,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_4,pantothenate
+score_4,1-linolenoyl-GPC (18:3)*
+score_4,guaiacol sulfate
+score_4,cholesterol
+score_4,ribonate
+score_4,X-25810
+score_4,2-ketocaprylate
+score_4,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_4,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_4,6-bromotryptophan
+score_4,alpha-tocopherol
+score_4,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_4,N-acetyl-aspartyl-glutamate (NAAG)
+score_4,beta-hydroxyisovalerate
+score_4,X-13553
+score_4,undecenoylcarnitine (C11:1)
+score_4,arachidonoylcarnitine (C20:4)
+score_4,4-ethylphenylsulfate
+score_4,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_4,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_4,behenoyl sphingomyelin (d18:1/22:0)*
+score_4,X-18913
+score_4,thyroxine
+score_4,X-21339
+score_4,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_4,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_4,4-allylphenol sulfate
+score_4,theophylline
+score_4,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_4,4-guanidinobutanoate
+score_4,hexadecadienoate (16:2n6)
+score_4,indolepropionate
+score_4,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_4,X-11787
+score_4,N-acetylglucosamine/N-acetylgalactosamine
+score_4,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_4,taurolithocholate 3-sulfate
+score_4,choline phosphate
+score_4,decadienedioic acid (C10:2-DC)**
+score_4,dihydroorotate
+score_4,N-acetylputrescine
+score_4,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_4,cystine
+score_4,phytanate
+score_4,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_4,3-hydroxydecanoylcarnitine
+score_4,4-hydroxyhippurate
+score_4,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_4,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_4,carnitine
+score_4,dodecenedioate (C12:1-DC)*
+score_4,glutamine conjugate of C6H10O2 (2)*
+score_4,4-vinylphenol sulfate
+score_4,methylsuccinate
+score_4,2-hydroxydecanoate
+score_4,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_4,glutamine conjugate of C6H10O2 (1)*
+score_4,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_4,gamma-tocopherol/beta-tocopherol
+score_4,uridine
+score_4,phosphoethanolamine
+score_4,N-delta-acetylornithine
+score_4,"N,N-dimethylalanine"
+score_4,pyridoxate
+score_4,tridecenedioate (C13:1-DC)*
+score_4,X-25420
+score_4,X-13728
+score_4,"bilirubin (E,E)*"
+score_4,S-methylcysteine
+score_4,gulonate*
+score_4,3-methoxytyrosine
+score_4,X-18921
+score_4,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_4,indolelactate
+score_4,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_4,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_4,ascorbic acid 3-sulfate*
+score_4,X-23644
+score_4,N-acetylserine
+score_4,X-24556
+score_4,orotidine
+score_4,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_4,succinoyltaurine
+score_4,N-palmitoyl-sphinganine (d18:0/16:0)
+score_4,succinate
+score_4,octadecenedioylcarnitine (C18:1-DC)*
+score_4,X-17010
+score_4,ethylmalonate
+score_4,2-aminophenol sulfate
+score_4,isoursodeoxycholate
+score_4,X-25422
+score_4,"2,6-dihydroxybenzoic acid"
+score_4,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_4,"bilirubin (E,Z or Z,E)*"
+score_4,gluconate
+score_4,xanthine
+score_4,carotene diol (1)
+score_4,butyrylcarnitine (C4)
+score_4,N-acetylarginine
+score_4,caprate (10:0)
+score_4,N-acetylhistidine
+score_4,sarcosine
+score_4,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_4,hyocholate
+score_4,lithocholate sulfate (1)
+score_4,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_4,N-oleoylserine
+score_4,citrulline
+score_4,X-23739
+score_4,O-sulfo-tyrosine
+score_4,N-methylpipecolate
+score_4,3-hydroxybutyroylglycine**
+score_4,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_4,dihomo-linoleoylcarnitine (C20:2)*
+score_4,allantoin
+score_4,cholate
+score_4,N-acetyl-beta-alanine
+score_4,3-methylglutaconate
+score_4,X-21353
+score_4,urea
+score_4,4-hydroxychlorothalonil
+score_4,X-24801
+score_4,3-hydroxyoctanoate
+score_4,methionine sulfoxide
+score_4,3-hydroxydecanoate
+score_4,X-11478
+score_4,docosadioate (C22-DC)
+score_4,margaroylcarnitine (C17)*
+score_4,glutamine conjugate of C7H12O2*
+score_4,X-14056
+score_4,X-11444
+score_4,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_4,linolenoylcarnitine (C18:3)*
+score_4,X-24748
+score_4,pipecolate
+score_4,9-hydroxystearate
+score_4,behenoylcarnitine (C22)*
+score_4,3-hydroxyhippurate
+score_4,"androstenediol (3beta,17beta) disulfate (2)"
+score_4,X-16576
+score_4,3-(4-hydroxyphenyl)lactate
+score_4,dimethylarginine (SDMA + ADMA)
+score_4,isobutyrylcarnitine (C4)
+score_4,cerotoylcarnitine (C26)*
+score_4,"cys-gly, oxidized"
+score_4,X-11381
+score_4,5-methyluridine (ribothymidine)
+score_4,glutarate (C5-DC)
+score_4,lignoceroylcarnitine (C24)*
+score_4,stearoyl sphingomyelin (d18:1/18:0)
+score_4,argininate*
+score_4,hypotaurine
+score_4,ximenoylcarnitine (C26:1)*
+score_4,alpha-ketoglutaramate*
+score_4,guanidinoacetate
+score_4,adenosine 5'-monophosphate (AMP)
+score_4,glycerophosphorylcholine (GPC)
+score_4,tetradecadienedioate (C14:2-DC)*
+score_4,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_4,1-palmitoleoyl-GPC (16:1)*
+score_4,isovalerylcarnitine (C5)
+score_4,X-15461
+score_4,5-oxoproline
+score_4,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_4,2-hydroxyoctanoate
+score_4,X-24947
+score_4,pregnenediol disulfate (C21H34O8S2)*
+score_4,N-acetyltryptophan
+score_4,X-15486
+score_4,ornithine
+score_4,3-formylindole
+score_4,stearoylcarnitine (C18)
+score_4,2'-deoxyuridine
+score_4,X-12101
+score_4,nicotinamide
+score_4,X-24475
+score_4,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_4,X-21383
+score_4,eicosapentaenoate (EPA; 20:5n3)
+score_4,N-methylproline
+score_4,nervonoylcarnitine (C24:1)*
+score_4,X-21286
+score_4,N-acetylmethionine
+score_4,2-hydroxynervonate*
+score_4,sphingosine 1-phosphate
+score_4,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_4,caprylate (8:0)
+score_4,malate
+score_4,dimethylglycine
+score_4,3-methylglutarylcarnitine (2)
+score_4,EDTA
+score_4,sphinganine-1-phosphate
+score_4,oxalate (ethanedioate)
+score_4,"N2,N2-dimethylguanosine"
+score_4,alpha-hydroxyisovalerate
+score_4,heptenedioate (C7:1-DC)*
+score_4,"5,6-dihydrothymine"
+score_4,N-acetylalanine
+score_4,tryptophan
+score_4,glutarylcarnitine (C5-DC)
+score_4,X-11483
+score_4,histidine
+score_4,gamma-glutamylmethionine
+score_4,oleamide
+score_4,stearidonate (18:4n3)
+score_4,N-acetylasparagine
+score_4,pyridoxal
+score_4,sebacate (C10-DC)
+score_4,asparagine
+score_4,laurate (12:0)
+score_4,docosapentaenoate (n3 DPA; 22:5n3)
+score_4,1-oleoylglycerol (18:1)
+score_4,deoxycholic acid glucuronide
+score_4,glutamine
+score_4,X-21796
+score_4,sphingosine
+score_4,isoleucine
+score_4,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_4,5-hydroxylysine
+score_4,X-25519
+score_4,X-25172
+score_4,stearate (18:0)
+score_4,lignoceroyl sphingomyelin (d18:1/24:0)
+score_4,glucose
+score_4,dodecadienoate (12:2)*
+score_4,"2,3-dihydroxyisovalerate"
+score_4,gamma-glutamylisoleucine*
+score_4,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_4,1-ribosyl-imidazoleacetate*
+score_4,"bilirubin (Z,Z)"
+score_4,indoleacetate
+score_4,etiocholanolone glucuronide
+score_4,pregnenolone sulfate
+score_4,glutamine_degradant*
+score_4,2-hydroxyhippurate (salicylurate)
+score_4,pentose acid*
+score_4,X-12844
+score_4,X-21470
+score_4,X-11299
+score_4,4-acetamidobutanoate
+score_4,1-methyl-5-imidazoleacetate
+score_4,pregnenetriol sulfate*
+score_4,3-methylhistidine
+score_4,acetylcarnitine (C2)
+score_4,betaine
+score_4,X-19141
+score_4,N-stearoyl-sphinganine (d18:0/18:0)*
+score_4,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_4,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_4,retinol (vitamin A)
+score_4,creatinine
+score_4,X-24949
+score_4,X-21736
+score_4,glycolithocholate sulfate*
+score_4,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_4,piperine
+score_4,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_4,2-keto-3-deoxy-gluconate
+score_4,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_4,X-23782
+score_4,X-12411
+score_4,epiandrosterone sulfate
+score_4,7-methylxanthine
+score_4,3-ureidopropionate
+score_4,beta-citrylglutamate
+score_4,cortisone
+score_4,X-24328
+score_4,X-25520
+score_4,X-15503
+score_4,1-methyl-4-imidazoleacetate
+score_4,X-12822
+score_4,1-linoleoylglycerol (18:2)
+score_4,7-methylguanine
+score_4,taurochenodeoxycholate
+score_4,andro steroid monosulfate C19H28O6S (1)*
+score_4,2-hydroxybehenate
+score_4,phenol sulfate
+score_4,cis-4-decenoate (10:1n6)*
+score_4,2-methylserine
+score_4,X-12849
+score_4,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_4,2-palmitoleoyl-GPC (16:1)*
+score_4,X-21607
+score_4,N-palmitoylglycine
+score_4,X-21471
+score_4,octadecanedioylcarnitine (C18-DC)*
+score_4,spermidine
+score_4,phenylalanine
+score_4,stachydrine
+score_4,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_4,X-24544
+score_4,gamma-glutamylglutamine
+score_4,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_4,myristate (14:0)
+score_4,linoleoylcholine*
+score_4,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*"
+score_4,gamma-glutamylcitrulline*
+score_4,X-21310
+score_4,eicosenedioate (C20:1-DC)*
+score_4,X-25265
+score_4,X-12680
+score_4,S-methylcysteine sulfoxide
+score_4,ectoine
+score_4,arabonate/xylonate
+score_4,valine
+score_4,5-(galactosylhydroxy)-lysine
+score_4,pregnenetriol disulfate*
+score_4,quinolinate
+score_4,X-24953
+score_4,lysine
+score_4,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*"
+score_4,"sphingomyelin (d18:0/20:0, d16:0/22:0)*"
+score_4,palmitoyl sphingomyelin (d18:1/16:0)
+score_4,oleoyl-linoleoyl-glycerol (18:1/18:2) [2]
+score_4,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)"
+score_4,X-12100
+score_4,gamma-glutamylglycine
+score_4,linoleate (18:2n6)
+score_4,"N6,N6,N6-trimethyllysine"
+score_4,gamma-glutamylglutamate
+score_4,inosine
+score_4,orotate
+score_4,phosphate
+score_4,serine
+score_4,taurine
+score_4,cysteine
+score_4,mannose
+score_4,caproate (6:0)
+score_4,trans-4-hydroxyproline
+score_4,N-acetylleucine
+score_4,erucate (22:1n9)
+score_4,3-aminoisobutyrate
+score_4,2-aminobutyrate
+score_4,dihomo-linoleate (20:2n6)
+score_4,2-hydroxystearate
+score_4,glycerol 3-phosphate
+score_4,N-acetylglutamate
+score_4,theobromine
+score_4,3-indoxyl sulfate
+score_4,"1,2-dipalmitoyl-GPC (16:0/16:0)"
+score_4,docosahexaenoate (DHA; 22:6n3)
+score_4,isovalerate (i5:0)
+score_4,dehydroepiandrosterone sulfate (DHEA-S)
+score_4,3-methyl-2-oxobutyrate
+score_4,homoarginine
+score_4,homocitrulline
+score_4,threonate
+score_4,androsterone sulfate
+score_4,dodecanedioate (C12-DC)
+score_4,3-hydroxylaurate
+score_4,propionylcarnitine (C3)
+score_4,3-hydroxy-2-ethylpropionate
+score_4,docosadienoate (22:2n6)
+score_4,10-heptadecenoate (17:1n7)
+score_4,p-cresol sulfate
+score_4,erythronate*
+score_4,1-linoleoyl-GPC (18:2)
+score_4,phenylacetylglutamine
+score_4,N1-methyl-2-pyridone-5-carboxamide
+score_4,2-hydroxy-3-methylvalerate
+score_4,1-arachidonoyl-GPC (20:4n6)*
+score_4,1-oleoyl-GPE (18:1)
+score_4,2-hydroxypalmitate
+score_4,docosapentaenoate (n6 DPA; 22:5n6)
+score_4,tetradecanedioate (C14-DC)
+score_4,1-arachidonoyl-GPI (20:4)*
+score_4,1-palmitoyl-GPI (16:0)
+score_4,pyrraline
+score_4,1-oleoyl-GPI (18:1)
+score_4,1-linoleoyl-GPI (18:2)*
+score_4,succinylcarnitine (C4-DC)
+score_4,beta-cryptoxanthin
+score_4,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_4,glycocholenate sulfate*
+score_4,taurocholenate sulfate*
+score_4,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_4,pregnenediol sulfate (C21H34O5S)*
+score_4,2-hydroxyglutarate
+score_4,16alpha-hydroxy DHEA 3-sulfate
+score_4,13-HODE + 9-HODE
+score_4,"2S,3R-dihydroxybutyrate"
+score_4,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_4,fucitol
+score_4,cysteinylglycine disulfide*
+score_4,hydantoin-5-propionate
+score_4,2-oxoarginine*
+score_4,4-oxo-retinoic acid
+score_4,glycoursodeoxycholate
+score_4,eicosanedioate (C20-DC)
+score_4,linoleoylcarnitine (C18:2)*
+score_4,pregnanediol-3-glucuronide
+score_4,4-methylcatechol sulfate
+score_4,6-oxopiperidine-2-carboxylate
+score_4,N-acetyltaurine
+score_4,1-palmitoyl-GPG (16:0)*
+score_4,p-cresol glucuronide*
+score_4,6-hydroxyindole sulfate
+score_4,dopamine 3-O-sulfate
+score_4,glycochenodeoxycholate 3-sulfate
+score_4,oleate/vaccenate (18:1)
+score_4,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_4,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*
+score_4,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*"
+score_4,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+score_4,thioproline
+score_4,(S)-3-hydroxybutyrylcarnitine
+score_4,gamma-glutamyl-alpha-lysine
+score_4,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*
+score_4,"ceramide (d18:1/14:0, d16:1/16:0)*"
+score_4,sphingomyelin (d18:2/18:1)*
+score_4,"sphingomyelin (d18:2/21:0, d16:2/23:0)*"
+score_4,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_4,"N,N,N-trimethyl-5-aminovalerate"
+score_4,hydroxy-CMPF*
+score_4,lyxonate
+score_4,perfluorooctanoate (PFOA)
+score_4,glycine conjugate of C10H14O2 (1)*
+score_4,3-amino-2-piperidone
+score_4,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_4,sulfate of piperine metabolite C16H19NO3 (2)*
+score_4,11beta-hydroxyandrosterone glucuronide
+score_4,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**
+score_4,"3,5-dichloro-2,6-dihydroxybenzoic acid"
+score_4,(2 or 3)-decenoate (10:1n7 or n8)
+score_4,"2,4-di-tert-butylphenol"
+score_4,X-11308
+score_4,X-11378
+score_4,X-11880
+score_4,X-16935
+score_4,X-17335
+score_4,X-17357
+score_4,X-17676
+score_4,X-21364
+score_4,X-21441
+score_4,X-21467
+score_4,X-23593
+score_4,X-23665
+score_4,X-24951
+score_5,vanillylmandelate (VMA)
+score_5,X-11795
+score_5,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_5,homostachydrine*
+score_5,imidazole lactate
+score_5,N4-acetylcytidine
+score_5,glycodeoxycholate 3-sulfate
+score_5,glycochenodeoxycholate glucuronide (1)
+score_5,mannitol/sorbitol
+score_5,catechol sulfate
+score_5,2-aminoheptanoate
+score_5,10-undecenoate (11:1n1)
+score_5,cytidine
+score_5,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_5,androsterone glucuronide
+score_5,tryptophan betaine
+score_5,N-palmitoyl-sphingosine (d18:1/16:0)
+score_5,salicylate
+score_5,pseudouridine
+score_5,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_5,glucuronate
+score_5,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_5,tyrosine
+score_5,deoxycarnitine
+score_5,ascorbic acid 2-sulfate
+score_5,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_5,hippurate
+score_5,maleate
+score_5,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_5,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_5,pantothenate
+score_5,1-linolenoyl-GPC (18:3)*
+score_5,guaiacol sulfate
+score_5,cholesterol
+score_5,ribonate
+score_5,X-25810
+score_5,2-ketocaprylate
+score_5,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_5,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_5,6-bromotryptophan
+score_5,alpha-tocopherol
+score_5,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_5,N-acetyl-aspartyl-glutamate (NAAG)
+score_5,beta-hydroxyisovalerate
+score_5,X-13553
+score_5,undecenoylcarnitine (C11:1)
+score_5,arachidonoylcarnitine (C20:4)
+score_5,4-ethylphenylsulfate
+score_5,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_5,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_5,behenoyl sphingomyelin (d18:1/22:0)*
+score_5,X-18913
+score_5,thyroxine
+score_5,X-21339
+score_5,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_5,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_5,4-allylphenol sulfate
+score_5,theophylline
+score_5,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_5,4-guanidinobutanoate
+score_5,hexadecadienoate (16:2n6)
+score_5,indolepropionate
+score_5,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_5,X-11787
+score_5,N-acetylglucosamine/N-acetylgalactosamine
+score_5,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_5,taurolithocholate 3-sulfate
+score_5,choline phosphate
+score_5,decadienedioic acid (C10:2-DC)**
+score_5,dihydroorotate
+score_5,N-acetylputrescine
+score_5,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_5,cystine
+score_5,phytanate
+score_5,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_5,3-hydroxydecanoylcarnitine
+score_5,4-hydroxyhippurate
+score_5,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_5,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_5,carnitine
+score_5,dodecenedioate (C12:1-DC)*
+score_5,glutamine conjugate of C6H10O2 (2)*
+score_5,4-vinylphenol sulfate
+score_5,methylsuccinate
+score_5,2-hydroxydecanoate
+score_5,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_5,glutamine conjugate of C6H10O2 (1)*
+score_5,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_5,gamma-tocopherol/beta-tocopherol
+score_5,uridine
+score_5,phosphoethanolamine
+score_5,N-delta-acetylornithine
+score_5,"N,N-dimethylalanine"
+score_5,pyridoxate
+score_5,tridecenedioate (C13:1-DC)*
+score_5,X-25420
+score_5,X-13728
+score_5,"bilirubin (E,E)*"
+score_5,S-methylcysteine
+score_5,gulonate*
+score_5,3-methoxytyrosine
+score_5,X-18921
+score_5,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_5,indolelactate
+score_5,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_5,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_5,ascorbic acid 3-sulfate*
+score_5,X-23644
+score_5,N-acetylserine
+score_5,X-24556
+score_5,orotidine
+score_5,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_5,succinoyltaurine
+score_5,N-palmitoyl-sphinganine (d18:0/16:0)
+score_5,succinate
+score_5,octadecenedioylcarnitine (C18:1-DC)*
+score_5,X-17010
+score_5,ethylmalonate
+score_5,2-aminophenol sulfate
+score_5,isoursodeoxycholate
+score_5,X-25422
+score_5,"2,6-dihydroxybenzoic acid"
+score_5,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_5,"bilirubin (E,Z or Z,E)*"
+score_5,gluconate
+score_5,xanthine
+score_5,carotene diol (1)
+score_5,butyrylcarnitine (C4)
+score_5,N-acetylarginine
+score_5,caprate (10:0)
+score_5,N-acetylhistidine
+score_5,sarcosine
+score_5,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_5,hyocholate
+score_5,lithocholate sulfate (1)
+score_5,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_5,N-oleoylserine
+score_5,citrulline
+score_5,X-23739
+score_5,O-sulfo-tyrosine
+score_5,N-methylpipecolate
+score_5,3-hydroxybutyroylglycine**
+score_5,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_5,dihomo-linoleoylcarnitine (C20:2)*
+score_5,allantoin
+score_5,cholate
+score_5,N-acetyl-beta-alanine
+score_5,3-methylglutaconate
+score_5,X-21353
+score_5,urea
+score_5,4-hydroxychlorothalonil
+score_5,X-24801
+score_5,3-hydroxyoctanoate
+score_5,methionine sulfoxide
+score_5,3-hydroxydecanoate
+score_5,X-11478
+score_5,docosadioate (C22-DC)
+score_5,margaroylcarnitine (C17)*
+score_5,glutamine conjugate of C7H12O2*
+score_5,X-14056
+score_5,X-11444
+score_5,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_5,linolenoylcarnitine (C18:3)*
+score_5,X-24748
+score_5,pipecolate
+score_5,9-hydroxystearate
+score_5,behenoylcarnitine (C22)*
+score_5,3-hydroxyhippurate
+score_5,"androstenediol (3beta,17beta) disulfate (2)"
+score_5,X-16576
+score_5,3-(4-hydroxyphenyl)lactate
+score_5,dimethylarginine (SDMA + ADMA)
+score_5,isobutyrylcarnitine (C4)
+score_5,cerotoylcarnitine (C26)*
+score_5,"cys-gly, oxidized"
+score_5,X-11381
+score_5,5-methyluridine (ribothymidine)
+score_5,glutarate (C5-DC)
+score_5,lignoceroylcarnitine (C24)*
+score_5,stearoyl sphingomyelin (d18:1/18:0)
+score_5,argininate*
+score_5,hypotaurine
+score_5,ximenoylcarnitine (C26:1)*
+score_5,alpha-ketoglutaramate*
+score_5,guanidinoacetate
+score_5,adenosine 5'-monophosphate (AMP)
+score_5,glycerophosphorylcholine (GPC)
+score_5,tetradecadienedioate (C14:2-DC)*
+score_5,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_5,1-palmitoleoyl-GPC (16:1)*
+score_5,isovalerylcarnitine (C5)
+score_5,X-15461
+score_5,5-oxoproline
+score_5,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_5,2-hydroxyoctanoate
+score_5,X-24947
+score_5,pregnenediol disulfate (C21H34O8S2)*
+score_5,N-acetyltryptophan
+score_5,X-15486
+score_5,ornithine
+score_5,3-formylindole
+score_5,stearoylcarnitine (C18)
+score_5,2'-deoxyuridine
+score_5,X-12101
+score_5,nicotinamide
+score_5,X-24475
+score_5,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_5,X-21383
+score_5,eicosapentaenoate (EPA; 20:5n3)
+score_5,N-methylproline
+score_5,nervonoylcarnitine (C24:1)*
+score_5,X-21286
+score_5,N-acetylmethionine
+score_5,2-hydroxynervonate*
+score_5,sphingosine 1-phosphate
+score_5,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_5,caprylate (8:0)
+score_5,malate
+score_5,dimethylglycine
+score_5,3-methylglutarylcarnitine (2)
+score_5,EDTA
+score_5,sphinganine-1-phosphate
+score_5,oxalate (ethanedioate)
+score_5,"N2,N2-dimethylguanosine"
+score_5,alpha-hydroxyisovalerate
+score_5,heptenedioate (C7:1-DC)*
+score_5,"5,6-dihydrothymine"
+score_5,N-acetylalanine
+score_5,tryptophan
+score_5,glutarylcarnitine (C5-DC)
+score_5,X-11483
+score_5,histidine
+score_5,gamma-glutamylmethionine
+score_5,oleamide
+score_5,stearidonate (18:4n3)
+score_5,N-acetylasparagine
+score_5,pyridoxal
+score_5,sebacate (C10-DC)
+score_5,asparagine
+score_5,laurate (12:0)
+score_5,docosapentaenoate (n3 DPA; 22:5n3)
+score_5,1-oleoylglycerol (18:1)
+score_5,deoxycholic acid glucuronide
+score_5,glutamine
+score_5,X-21796
+score_5,sphingosine
+score_5,isoleucine
+score_5,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_5,5-hydroxylysine
+score_5,X-25519
+score_5,X-25172
+score_5,stearate (18:0)
+score_5,lignoceroyl sphingomyelin (d18:1/24:0)
+score_5,glucose
+score_5,dodecadienoate (12:2)*
+score_5,"2,3-dihydroxyisovalerate"
+score_5,gamma-glutamylisoleucine*
+score_5,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_5,1-ribosyl-imidazoleacetate*
+score_5,"bilirubin (Z,Z)"
+score_5,indoleacetate
+score_5,etiocholanolone glucuronide
+score_5,pregnenolone sulfate
+score_5,glutamine_degradant*
+score_5,2-hydroxyhippurate (salicylurate)
+score_5,pentose acid*
+score_5,X-12844
+score_5,X-21470
+score_5,X-11299
+score_5,4-acetamidobutanoate
+score_5,1-methyl-5-imidazoleacetate
+score_5,pregnenetriol sulfate*
+score_5,3-methylhistidine
+score_5,acetylcarnitine (C2)
+score_5,betaine
+score_5,X-19141
+score_5,N-stearoyl-sphinganine (d18:0/18:0)*
+score_5,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_5,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_5,retinol (vitamin A)
+score_5,creatinine
+score_5,X-24949
+score_5,X-21736
+score_5,glycolithocholate sulfate*
+score_5,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_5,piperine
+score_5,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_5,2-keto-3-deoxy-gluconate
+score_5,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_5,X-23782
+score_5,X-12411
+score_5,epiandrosterone sulfate
+score_5,7-methylxanthine
+score_5,3-ureidopropionate
+score_5,beta-citrylglutamate
+score_5,cortisone
+score_5,X-24328
+score_5,X-25520
+score_5,X-15503
+score_5,1-methyl-4-imidazoleacetate
+score_5,X-12822
+score_5,1-linoleoylglycerol (18:2)
+score_5,7-methylguanine
+score_5,taurochenodeoxycholate
+score_5,andro steroid monosulfate C19H28O6S (1)*
+score_5,2-hydroxybehenate
+score_5,phenol sulfate
+score_5,cis-4-decenoate (10:1n6)*
+score_5,2-methylserine
+score_5,X-12849
+score_5,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_5,2-palmitoleoyl-GPC (16:1)*
+score_5,X-21607
+score_5,N-palmitoylglycine
+score_5,X-21471
+score_5,octadecanedioylcarnitine (C18-DC)*
+score_5,spermidine
+score_5,phenylalanine
+score_5,stachydrine
+score_5,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_5,X-24544
+score_5,gamma-glutamylglutamine
+score_5,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_5,myristate (14:0)
+score_5,propionylcarnitine (C3)
+score_5,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_5,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_5,4-methyl-2-oxopentanoate
+score_5,alpha-ketoglutarate
+score_5,"9,10-DiHOME"
+score_5,3-hydroxybutyrate (BHBA)
+score_5,sphinganine
+score_5,glycine
+score_5,inosine
+score_5,trans-urocanate
+score_5,mannose
+score_5,nonadecanoate (19:0)
+score_5,trans-4-hydroxyproline
+score_5,gamma-glutamylhistidine
+score_5,2-hydroxystearate
+score_5,glycerol
+score_5,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+score_5,theobromine
+score_5,tartronate (hydroxymalonate)
+score_5,iminodiacetate (IDA)
+score_5,1-methylhistidine
+score_5,3-methylxanthine
+score_5,3-hydroxylaurate
+score_5,3-hydroxy-2-ethylpropionate
+score_5,gamma-glutamylglycine
+score_5,N6-carbamoylthreonyladenosine
+score_5,phenylacetylglutamine
+score_5,N1-methyl-4-pyridone-3-carboxamide
+score_5,oleoylcarnitine (C18:1)
+score_5,1-arachidonoyl-GPC (20:4n6)*
+score_5,1-arachidonoyl-GPE (20:4n6)*
+score_5,2-hydroxypalmitate
+score_5,docosapentaenoate (n6 DPA; 22:5n6)
+score_5,isobutyrylglycine
+score_5,hexadecanedioate (C16-DC)
+score_5,octadecanedioate (C18-DC)
+score_5,ectoine
+score_5,1-arachidonoyl-GPI (20:4)*
+score_5,N6-acetyllysine
+score_5,pyrraline
+score_5,1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+score_5,succinylcarnitine (C4-DC)
+score_5,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_5,glycocholenate sulfate*
+score_5,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)"
+score_5,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_5,2-hydroxyglutarate
+score_5,gamma-CEHC
+score_5,stearoyl ethanolamide
+score_5,"2R,3R-dihydroxybutyrate"
+score_5,5-(galactosylhydroxy)-lysine
+score_5,cysteinylglycine disulfide*
+score_5,formiminoglutamate
+score_5,sulfate*
+score_5,4-hydroxy-2-oxoglutaric acid
+score_5,(14 or 15)-methylpalmitate (a17:0 or i17:0)
+score_5,16-hydroxypalmitate
+score_5,leucylalanine
+score_5,N6-methyllysine
+score_5,pregnanediol-3-glucuronide
+score_5,mannonate*
+score_5,2-aminooctanoate
+score_5,"sphingomyelin (d18:1/14:0, d16:1/16:0)*"
+score_5,6-oxopiperidine-2-carboxylate
+score_5,N-acetyltaurine
+score_5,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_5,arabonate/xylonate
+score_5,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*"
+score_5,dopamine 3-O-sulfate
+score_5,arabitol/xylitol
+score_5,adipoylcarnitine (C6-DC)
+score_5,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_5,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_5,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+score_5,1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*
+score_5,1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+score_5,myristoyl dihydrosphingomyelin (d18:0/14:0)*
+score_5,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+score_5,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+score_5,(S)-3-hydroxybutyrylcarnitine
+score_5,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*
+score_5,palmitoleoylcarnitine (C16:1)*
+score_5,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_5,lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*
+score_5,"ceramide (d18:1/14:0, d16:1/16:0)*"
+score_5,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_5,sphingomyelin (d18:2/18:1)*
+score_5,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*"
+score_5,"N,N,N-trimethyl-5-aminovalerate"
+score_5,carotene diol (3)
+score_5,(N(1) + N(8))-acetylspermidine
+score_5,5-dodecenoylcarnitine (C12:1)
+score_5,lyxonate
+score_5,N-acetyl-2-aminooctanoate*
+score_5,gamma-glutamylcitrulline*
+score_5,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_5,3-amino-2-piperidone
+score_5,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_5,11beta-hydroxyandrosterone glucuronide
+score_5,3-hydroxyhexanoylcarnitine (1)
+score_5,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*"
+score_5,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*"
+score_5,X-12100
+score_5,X-14939
+score_5,X-16580
+score_5,X-18899
+score_5,X-21319
+score_5,X-21467
+score_5,X-23593
+score_5,X-23680
+score_5,X-24295
+score_5,X-24309
+score_6,vanillylmandelate (VMA)
+score_6,X-11795
+score_6,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_6,homostachydrine*
+score_6,imidazole lactate
+score_6,N4-acetylcytidine
+score_6,glycodeoxycholate 3-sulfate
+score_6,glycochenodeoxycholate glucuronide (1)
+score_6,mannitol/sorbitol
+score_6,catechol sulfate
+score_6,2-aminoheptanoate
+score_6,10-undecenoate (11:1n1)
+score_6,cytidine
+score_6,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_6,androsterone glucuronide
+score_6,tryptophan betaine
+score_6,N-palmitoyl-sphingosine (d18:1/16:0)
+score_6,salicylate
+score_6,pseudouridine
+score_6,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_6,glucuronate
+score_6,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_6,tyrosine
+score_6,deoxycarnitine
+score_6,ascorbic acid 2-sulfate
+score_6,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_6,hippurate
+score_6,maleate
+score_6,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_6,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_6,pantothenate
+score_6,1-linolenoyl-GPC (18:3)*
+score_6,guaiacol sulfate
+score_6,cholesterol
+score_6,ribonate
+score_6,X-25810
+score_6,2-ketocaprylate
+score_6,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_6,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_6,6-bromotryptophan
+score_6,alpha-tocopherol
+score_6,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_6,N-acetyl-aspartyl-glutamate (NAAG)
+score_6,beta-hydroxyisovalerate
+score_6,X-13553
+score_6,undecenoylcarnitine (C11:1)
+score_6,arachidonoylcarnitine (C20:4)
+score_6,4-ethylphenylsulfate
+score_6,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_6,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_6,behenoyl sphingomyelin (d18:1/22:0)*
+score_6,X-18913
+score_6,thyroxine
+score_6,X-21339
+score_6,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_6,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_6,4-allylphenol sulfate
+score_6,theophylline
+score_6,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_6,4-guanidinobutanoate
+score_6,hexadecadienoate (16:2n6)
+score_6,indolepropionate
+score_6,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_6,X-11787
+score_6,N-acetylglucosamine/N-acetylgalactosamine
+score_6,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_6,taurolithocholate 3-sulfate
+score_6,choline phosphate
+score_6,decadienedioic acid (C10:2-DC)**
+score_6,dihydroorotate
+score_6,N-acetylputrescine
+score_6,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_6,cystine
+score_6,phytanate
+score_6,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_6,3-hydroxydecanoylcarnitine
+score_6,4-hydroxyhippurate
+score_6,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_6,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_6,carnitine
+score_6,dodecenedioate (C12:1-DC)*
+score_6,glutamine conjugate of C6H10O2 (2)*
+score_6,4-vinylphenol sulfate
+score_6,methylsuccinate
+score_6,2-hydroxydecanoate
+score_6,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_6,glutamine conjugate of C6H10O2 (1)*
+score_6,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_6,gamma-tocopherol/beta-tocopherol
+score_6,uridine
+score_6,phosphoethanolamine
+score_6,N-delta-acetylornithine
+score_6,"N,N-dimethylalanine"
+score_6,pyridoxate
+score_6,tridecenedioate (C13:1-DC)*
+score_6,X-25420
+score_6,X-13728
+score_6,"bilirubin (E,E)*"
+score_6,S-methylcysteine
+score_6,gulonate*
+score_6,3-methoxytyrosine
+score_6,X-18921
+score_6,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_6,indolelactate
+score_6,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_6,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_6,ascorbic acid 3-sulfate*
+score_6,X-23644
+score_6,N-acetylserine
+score_6,X-24556
+score_6,orotidine
+score_6,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_6,succinoyltaurine
+score_6,N-palmitoyl-sphinganine (d18:0/16:0)
+score_6,succinate
+score_6,octadecenedioylcarnitine (C18:1-DC)*
+score_6,X-17010
+score_6,ethylmalonate
+score_6,2-aminophenol sulfate
+score_6,isoursodeoxycholate
+score_6,X-25422
+score_6,"2,6-dihydroxybenzoic acid"
+score_6,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_6,"bilirubin (E,Z or Z,E)*"
+score_6,gluconate
+score_6,xanthine
+score_6,carotene diol (1)
+score_6,butyrylcarnitine (C4)
+score_6,N-acetylarginine
+score_6,caprate (10:0)
+score_6,N-acetylhistidine
+score_6,sarcosine
+score_6,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_6,hyocholate
+score_6,lithocholate sulfate (1)
+score_6,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_6,N-oleoylserine
+score_6,citrulline
+score_6,X-23739
+score_6,O-sulfo-tyrosine
+score_6,N-methylpipecolate
+score_6,3-hydroxybutyroylglycine**
+score_6,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_6,dihomo-linoleoylcarnitine (C20:2)*
+score_6,allantoin
+score_6,cholate
+score_6,N-acetyl-beta-alanine
+score_6,3-methylglutaconate
+score_6,X-21353
+score_6,urea
+score_6,4-hydroxychlorothalonil
+score_6,X-24801
+score_6,3-hydroxyoctanoate
+score_6,methionine sulfoxide
+score_6,3-hydroxydecanoate
+score_6,X-11478
+score_6,docosadioate (C22-DC)
+score_6,margaroylcarnitine (C17)*
+score_6,glutamine conjugate of C7H12O2*
+score_6,X-14056
+score_6,X-11444
+score_6,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_6,linolenoylcarnitine (C18:3)*
+score_6,X-24748
+score_6,pipecolate
+score_6,9-hydroxystearate
+score_6,behenoylcarnitine (C22)*
+score_6,3-hydroxyhippurate
+score_6,"androstenediol (3beta,17beta) disulfate (2)"
+score_6,X-16576
+score_6,3-(4-hydroxyphenyl)lactate
+score_6,dimethylarginine (SDMA + ADMA)
+score_6,isobutyrylcarnitine (C4)
+score_6,cerotoylcarnitine (C26)*
+score_6,"cys-gly, oxidized"
+score_6,X-11381
+score_6,5-methyluridine (ribothymidine)
+score_6,glutarate (C5-DC)
+score_6,lignoceroylcarnitine (C24)*
+score_6,stearoyl sphingomyelin (d18:1/18:0)
+score_6,argininate*
+score_6,hypotaurine
+score_6,ximenoylcarnitine (C26:1)*
+score_6,alpha-ketoglutaramate*
+score_6,guanidinoacetate
+score_6,adenosine 5'-monophosphate (AMP)
+score_6,glycerophosphorylcholine (GPC)
+score_6,tetradecadienedioate (C14:2-DC)*
+score_6,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_6,1-palmitoleoyl-GPC (16:1)*
+score_6,isovalerylcarnitine (C5)
+score_6,X-15461
+score_6,5-oxoproline
+score_6,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_6,2-hydroxyoctanoate
+score_6,X-24947
+score_6,pregnenediol disulfate (C21H34O8S2)*
+score_6,N-acetyltryptophan
+score_6,X-15486
+score_6,ornithine
+score_6,3-formylindole
+score_6,stearoylcarnitine (C18)
+score_6,2'-deoxyuridine
+score_6,X-12101
+score_6,nicotinamide
+score_6,X-24475
+score_6,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_6,X-21383
+score_6,eicosapentaenoate (EPA; 20:5n3)
+score_6,N-methylproline
+score_6,nervonoylcarnitine (C24:1)*
+score_6,X-21286
+score_6,N-acetylmethionine
+score_6,2-hydroxynervonate*
+score_6,sphingosine 1-phosphate
+score_6,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_6,caprylate (8:0)
+score_6,malate
+score_6,dimethylglycine
+score_6,3-methylglutarylcarnitine (2)
+score_6,EDTA
+score_6,sphinganine-1-phosphate
+score_6,oxalate (ethanedioate)
+score_6,"N2,N2-dimethylguanosine"
+score_6,alpha-hydroxyisovalerate
+score_6,heptenedioate (C7:1-DC)*
+score_6,"5,6-dihydrothymine"
+score_6,N-acetylalanine
+score_6,tryptophan
+score_6,glutarylcarnitine (C5-DC)
+score_6,X-11483
+score_6,histidine
+score_6,gamma-glutamylmethionine
+score_6,oleamide
+score_6,stearidonate (18:4n3)
+score_6,N-acetylasparagine
+score_6,pyridoxal
+score_6,sebacate (C10-DC)
+score_6,asparagine
+score_6,laurate (12:0)
+score_6,docosapentaenoate (n3 DPA; 22:5n3)
+score_6,1-oleoylglycerol (18:1)
+score_6,deoxycholic acid glucuronide
+score_6,glutamine
+score_6,X-21796
+score_6,sphingosine
+score_6,isoleucine
+score_6,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_6,5-hydroxylysine
+score_6,X-25519
+score_6,X-25172
+score_6,stearate (18:0)
+score_6,lignoceroyl sphingomyelin (d18:1/24:0)
+score_6,glucose
+score_6,dodecadienoate (12:2)*
+score_6,"2,3-dihydroxyisovalerate"
+score_6,gamma-glutamylisoleucine*
+score_6,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_6,1-ribosyl-imidazoleacetate*
+score_6,"bilirubin (Z,Z)"
+score_6,indoleacetate
+score_6,etiocholanolone glucuronide
+score_6,pregnenolone sulfate
+score_6,glutamine_degradant*
+score_6,2-hydroxyhippurate (salicylurate)
+score_6,pentose acid*
+score_6,X-12844
+score_6,X-21470
+score_6,X-11299
+score_6,4-acetamidobutanoate
+score_6,1-methyl-5-imidazoleacetate
+score_6,pregnenetriol sulfate*
+score_6,3-methylhistidine
+score_6,acetylcarnitine (C2)
+score_6,betaine
+score_6,X-19141
+score_6,N-stearoyl-sphinganine (d18:0/18:0)*
+score_6,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_6,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_6,retinol (vitamin A)
+score_6,creatinine
+score_6,X-24949
+score_6,X-21736
+score_6,glycolithocholate sulfate*
+score_6,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_6,piperine
+score_6,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_6,2-keto-3-deoxy-gluconate
+score_6,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_6,X-23782
+score_6,X-12411
+score_6,epiandrosterone sulfate
+score_6,7-methylxanthine
+score_6,3-ureidopropionate
+score_6,beta-citrylglutamate
+score_6,cortisone
+score_6,X-24328
+score_6,X-25520
+score_6,X-15503
+score_6,1-methyl-4-imidazoleacetate
+score_6,X-12822
+score_6,1-linoleoylglycerol (18:2)
+score_6,7-methylguanine
+score_6,taurochenodeoxycholate
+score_6,andro steroid monosulfate C19H28O6S (1)*
+score_6,2-hydroxybehenate
+score_6,phenol sulfate
+score_6,cis-4-decenoate (10:1n6)*
+score_6,2-methylserine
+score_6,X-12849
+score_6,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_6,2-palmitoleoyl-GPC (16:1)*
+score_6,X-21607
+score_6,N-palmitoylglycine
+score_6,X-21471
+score_6,octadecanedioylcarnitine (C18-DC)*
+score_6,spermidine
+score_6,phenylalanine
+score_6,stachydrine
+score_6,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_6,X-24544
+score_6,gamma-glutamylglutamine
+score_6,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_6,myristate (14:0)
+score_6,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*"
+score_6,erythronate*
+score_6,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_6,3-phenylpropionate (hydrocinnamate)
+score_6,oleoylcarnitine (C18:1)
+score_6,alpha-ketoglutarate
+score_6,linoleate (18:2n6)
+score_6,N-formylmethionine
+score_6,arginine
+score_6,phenylpyruvate
+score_6,3-hydroxybutyrate (BHBA)
+score_6,sphinganine
+score_6,glycocholate
+score_6,inosine
+score_6,myo-inositol
+score_6,orotate
+score_6,proline
+score_6,serine
+score_6,trans-urocanate
+score_6,fructose
+score_6,nonadecanoate (19:0)
+score_6,creatine
+score_6,gamma-glutamylhistidine
+score_6,2-hydroxystearate
+score_6,1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)
+score_6,glycerol 3-phosphate
+score_6,kynurenine
+score_6,theobromine
+score_6,4-methyl-2-oxopentanoate
+score_6,docosahexaenoate (DHA; 22:6n3)
+score_6,phenyllactate (PLA)
+score_6,cysteine s-sulfate
+score_6,tartronate (hydroxymalonate)
+score_6,3-hydroxymyristate
+score_6,iminodiacetate (IDA)
+score_6,N-acetylglycine
+score_6,dodecanedioate (C12-DC)
+score_6,3-methylxanthine
+score_6,3-hydroxylaurate
+score_6,propionylcarnitine (C3)
+score_6,pro-hydroxy-pro
+score_6,N-acetylphenylalanine
+score_6,eicosenoate (20:1)
+score_6,"5,6-dihydrouridine"
+score_6,1-arachidonoyl-GPC (20:4n6)*
+score_6,2-palmitoyl-GPC (16:0)*
+score_6,2-hydroxypalmitate
+score_6,isobutyrylglycine
+score_6,glycerophosphoethanolamine
+score_6,ectoine
+score_6,1-arachidonoyl-GPI (20:4)*
+score_6,1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+score_6,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+score_6,glycosyl-N-stearoyl-sphingosine (d18:1/18:0)
+score_6,succinylcarnitine (C4-DC)
+score_6,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_6,glycocholenate sulfate*
+score_6,taurocholenate sulfate*
+score_6,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)"
+score_6,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_6,2-hydroxyglutarate
+score_6,gamma-CEHC
+score_6,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_6,13-HODE + 9-HODE
+score_6,stearoyl ethanolamide
+score_6,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_6,2-oxoarginine*
+score_6,S-methylcysteine sulfoxide
+score_6,16-hydroxypalmitate
+score_6,2-O-methylascorbic acid
+score_6,N6-methyllysine
+score_6,imidazole propionate
+score_6,6-oxopiperidine-2-carboxylate
+score_6,1-(1-enyl-oleoyl)-GPE (P-18:1)*
+score_6,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_6,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*"
+score_6,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*"
+score_6,citraconate/glutaconate
+score_6,nonanoylcarnitine (C9)
+score_6,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_6,oleate/vaccenate (18:1)
+score_6,tricosanoyl sphingomyelin (d18:1/23:0)*
+score_6,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_6,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*
+score_6,1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+score_6,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+score_6,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_6,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*"
+score_6,1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*
+score_6,thioproline
+score_6,palmitoylcholine
+score_6,palmitoleoylcarnitine (C16:1)*
+score_6,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_6,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_6,carotene diol (2)
+score_6,carotene diol (3)
+score_6,(N(1) + N(8))-acetylspermidine
+score_6,octadecenedioate (C18:1-DC)
+score_6,N-acetyl-2-aminooctanoate*
+score_6,perfluorooctanoate (PFOA)
+score_6,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_6,sulfate of piperine metabolite C16H19NO3 (2)*
+score_6,3-hydroxyhexanoylcarnitine (1)
+score_6,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*"
+score_6,branched chain 14:0 dicarboxylic acid**
+score_6,X-07765
+score_6,X-11308
+score_6,X-11372
+score_6,X-14939
+score_6,X-16935
+score_6,X-17676
+score_6,X-18899
+score_6,X-21319
+score_6,X-21364
+score_6,X-21441
+score_6,X-24309
+score_6,X-24951
+score_6,X-25265
+score_7,vanillylmandelate (VMA)
+score_7,X-11795
+score_7,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_7,homostachydrine*
+score_7,imidazole lactate
+score_7,N4-acetylcytidine
+score_7,glycodeoxycholate 3-sulfate
+score_7,glycochenodeoxycholate glucuronide (1)
+score_7,mannitol/sorbitol
+score_7,catechol sulfate
+score_7,2-aminoheptanoate
+score_7,10-undecenoate (11:1n1)
+score_7,cytidine
+score_7,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_7,androsterone glucuronide
+score_7,tryptophan betaine
+score_7,N-palmitoyl-sphingosine (d18:1/16:0)
+score_7,salicylate
+score_7,pseudouridine
+score_7,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_7,glucuronate
+score_7,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_7,tyrosine
+score_7,deoxycarnitine
+score_7,ascorbic acid 2-sulfate
+score_7,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_7,hippurate
+score_7,maleate
+score_7,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_7,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_7,pantothenate
+score_7,1-linolenoyl-GPC (18:3)*
+score_7,guaiacol sulfate
+score_7,cholesterol
+score_7,ribonate
+score_7,X-25810
+score_7,2-ketocaprylate
+score_7,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_7,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_7,6-bromotryptophan
+score_7,alpha-tocopherol
+score_7,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_7,N-acetyl-aspartyl-glutamate (NAAG)
+score_7,beta-hydroxyisovalerate
+score_7,X-13553
+score_7,undecenoylcarnitine (C11:1)
+score_7,arachidonoylcarnitine (C20:4)
+score_7,4-ethylphenylsulfate
+score_7,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_7,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_7,behenoyl sphingomyelin (d18:1/22:0)*
+score_7,X-18913
+score_7,thyroxine
+score_7,X-21339
+score_7,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_7,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_7,4-allylphenol sulfate
+score_7,theophylline
+score_7,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_7,4-guanidinobutanoate
+score_7,hexadecadienoate (16:2n6)
+score_7,indolepropionate
+score_7,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_7,X-11787
+score_7,N-acetylglucosamine/N-acetylgalactosamine
+score_7,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_7,taurolithocholate 3-sulfate
+score_7,choline phosphate
+score_7,decadienedioic acid (C10:2-DC)**
+score_7,dihydroorotate
+score_7,N-acetylputrescine
+score_7,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_7,cystine
+score_7,phytanate
+score_7,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_7,3-hydroxydecanoylcarnitine
+score_7,4-hydroxyhippurate
+score_7,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_7,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_7,carnitine
+score_7,dodecenedioate (C12:1-DC)*
+score_7,glutamine conjugate of C6H10O2 (2)*
+score_7,4-vinylphenol sulfate
+score_7,methylsuccinate
+score_7,2-hydroxydecanoate
+score_7,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_7,glutamine conjugate of C6H10O2 (1)*
+score_7,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_7,gamma-tocopherol/beta-tocopherol
+score_7,uridine
+score_7,phosphoethanolamine
+score_7,N-delta-acetylornithine
+score_7,"N,N-dimethylalanine"
+score_7,pyridoxate
+score_7,tridecenedioate (C13:1-DC)*
+score_7,X-25420
+score_7,X-13728
+score_7,"bilirubin (E,E)*"
+score_7,S-methylcysteine
+score_7,gulonate*
+score_7,3-methoxytyrosine
+score_7,X-18921
+score_7,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_7,indolelactate
+score_7,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_7,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_7,ascorbic acid 3-sulfate*
+score_7,X-23644
+score_7,N-acetylserine
+score_7,X-24556
+score_7,orotidine
+score_7,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_7,succinoyltaurine
+score_7,N-palmitoyl-sphinganine (d18:0/16:0)
+score_7,succinate
+score_7,octadecenedioylcarnitine (C18:1-DC)*
+score_7,X-17010
+score_7,ethylmalonate
+score_7,2-aminophenol sulfate
+score_7,isoursodeoxycholate
+score_7,X-25422
+score_7,"2,6-dihydroxybenzoic acid"
+score_7,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_7,"bilirubin (E,Z or Z,E)*"
+score_7,gluconate
+score_7,xanthine
+score_7,carotene diol (1)
+score_7,butyrylcarnitine (C4)
+score_7,N-acetylarginine
+score_7,caprate (10:0)
+score_7,N-acetylhistidine
+score_7,sarcosine
+score_7,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_7,hyocholate
+score_7,lithocholate sulfate (1)
+score_7,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_7,N-oleoylserine
+score_7,citrulline
+score_7,X-23739
+score_7,O-sulfo-tyrosine
+score_7,N-methylpipecolate
+score_7,3-hydroxybutyroylglycine**
+score_7,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_7,dihomo-linoleoylcarnitine (C20:2)*
+score_7,allantoin
+score_7,cholate
+score_7,N-acetyl-beta-alanine
+score_7,3-methylglutaconate
+score_7,X-21353
+score_7,urea
+score_7,4-hydroxychlorothalonil
+score_7,X-24801
+score_7,3-hydroxyoctanoate
+score_7,methionine sulfoxide
+score_7,3-hydroxydecanoate
+score_7,X-11478
+score_7,docosadioate (C22-DC)
+score_7,margaroylcarnitine (C17)*
+score_7,glutamine conjugate of C7H12O2*
+score_7,X-14056
+score_7,X-11444
+score_7,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_7,linolenoylcarnitine (C18:3)*
+score_7,X-24748
+score_7,pipecolate
+score_7,9-hydroxystearate
+score_7,behenoylcarnitine (C22)*
+score_7,3-hydroxyhippurate
+score_7,"androstenediol (3beta,17beta) disulfate (2)"
+score_7,X-16576
+score_7,3-(4-hydroxyphenyl)lactate
+score_7,dimethylarginine (SDMA + ADMA)
+score_7,isobutyrylcarnitine (C4)
+score_7,cerotoylcarnitine (C26)*
+score_7,"cys-gly, oxidized"
+score_7,X-11381
+score_7,5-methyluridine (ribothymidine)
+score_7,glutarate (C5-DC)
+score_7,lignoceroylcarnitine (C24)*
+score_7,stearoyl sphingomyelin (d18:1/18:0)
+score_7,argininate*
+score_7,hypotaurine
+score_7,ximenoylcarnitine (C26:1)*
+score_7,alpha-ketoglutaramate*
+score_7,guanidinoacetate
+score_7,adenosine 5'-monophosphate (AMP)
+score_7,glycerophosphorylcholine (GPC)
+score_7,tetradecadienedioate (C14:2-DC)*
+score_7,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_7,1-palmitoleoyl-GPC (16:1)*
+score_7,isovalerylcarnitine (C5)
+score_7,X-15461
+score_7,5-oxoproline
+score_7,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_7,2-hydroxyoctanoate
+score_7,X-24947
+score_7,pregnenediol disulfate (C21H34O8S2)*
+score_7,N-acetyltryptophan
+score_7,X-15486
+score_7,ornithine
+score_7,3-formylindole
+score_7,stearoylcarnitine (C18)
+score_7,2'-deoxyuridine
+score_7,X-12101
+score_7,nicotinamide
+score_7,X-24475
+score_7,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_7,X-21383
+score_7,eicosapentaenoate (EPA; 20:5n3)
+score_7,N-methylproline
+score_7,nervonoylcarnitine (C24:1)*
+score_7,X-21286
+score_7,N-acetylmethionine
+score_7,2-hydroxynervonate*
+score_7,sphingosine 1-phosphate
+score_7,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_7,caprylate (8:0)
+score_7,malate
+score_7,dimethylglycine
+score_7,3-methylglutarylcarnitine (2)
+score_7,EDTA
+score_7,sphinganine-1-phosphate
+score_7,oxalate (ethanedioate)
+score_7,"N2,N2-dimethylguanosine"
+score_7,alpha-hydroxyisovalerate
+score_7,heptenedioate (C7:1-DC)*
+score_7,"5,6-dihydrothymine"
+score_7,N-acetylalanine
+score_7,tryptophan
+score_7,glutarylcarnitine (C5-DC)
+score_7,X-11483
+score_7,histidine
+score_7,gamma-glutamylmethionine
+score_7,oleamide
+score_7,stearidonate (18:4n3)
+score_7,N-acetylasparagine
+score_7,pyridoxal
+score_7,sebacate (C10-DC)
+score_7,asparagine
+score_7,laurate (12:0)
+score_7,docosapentaenoate (n3 DPA; 22:5n3)
+score_7,1-oleoylglycerol (18:1)
+score_7,deoxycholic acid glucuronide
+score_7,glutamine
+score_7,X-21796
+score_7,sphingosine
+score_7,isoleucine
+score_7,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_7,5-hydroxylysine
+score_7,X-25519
+score_7,X-25172
+score_7,stearate (18:0)
+score_7,lignoceroyl sphingomyelin (d18:1/24:0)
+score_7,glucose
+score_7,dodecadienoate (12:2)*
+score_7,"2,3-dihydroxyisovalerate"
+score_7,gamma-glutamylisoleucine*
+score_7,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_7,1-ribosyl-imidazoleacetate*
+score_7,"bilirubin (Z,Z)"
+score_7,indoleacetate
+score_7,etiocholanolone glucuronide
+score_7,pregnenolone sulfate
+score_7,glutamine_degradant*
+score_7,2-hydroxyhippurate (salicylurate)
+score_7,pentose acid*
+score_7,X-12844
+score_7,X-21470
+score_7,X-11299
+score_7,4-acetamidobutanoate
+score_7,1-methyl-5-imidazoleacetate
+score_7,pregnenetriol sulfate*
+score_7,3-methylhistidine
+score_7,acetylcarnitine (C2)
+score_7,betaine
+score_7,X-19141
+score_7,N-stearoyl-sphinganine (d18:0/18:0)*
+score_7,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_7,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_7,retinol (vitamin A)
+score_7,creatinine
+score_7,X-24949
+score_7,X-21736
+score_7,glycolithocholate sulfate*
+score_7,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_7,piperine
+score_7,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_7,2-keto-3-deoxy-gluconate
+score_7,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_7,X-23782
+score_7,X-12411
+score_7,epiandrosterone sulfate
+score_7,7-methylxanthine
+score_7,3-ureidopropionate
+score_7,beta-citrylglutamate
+score_7,cortisone
+score_7,X-24328
+score_7,X-25520
+score_7,X-15503
+score_7,1-methyl-4-imidazoleacetate
+score_7,X-12822
+score_7,1-linoleoylglycerol (18:2)
+score_7,7-methylguanine
+score_7,taurochenodeoxycholate
+score_7,andro steroid monosulfate C19H28O6S (1)*
+score_7,2-hydroxybehenate
+score_7,phenol sulfate
+score_7,cis-4-decenoate (10:1n6)*
+score_7,2-methylserine
+score_7,X-12849
+score_7,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_7,2-palmitoleoyl-GPC (16:1)*
+score_7,X-21607
+score_7,N-palmitoylglycine
+score_7,X-21471
+score_7,octadecanedioylcarnitine (C18-DC)*
+score_7,spermidine
+score_7,phenylalanine
+score_7,stachydrine
+score_7,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_7,X-24544
+score_7,gamma-glutamylglutamine
+score_7,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_7,myristate (14:0)
+score_7,1-arachidonoyl-GPI (20:4)*
+score_7,1-methylnicotinamide
+score_7,alpha-ketoglutarate
+score_7,"9,10-DiHOME"
+score_7,arachidonate (20:4n6)
+score_7,arginine
+score_7,phenylpyruvate
+score_7,3-hydroxybutyrate (BHBA)
+score_7,sphinganine
+score_7,myo-inositol
+score_7,palmitoleate (16:1n7)
+score_7,trans-urocanate
+score_7,glutamate
+score_7,fructose
+score_7,nonadecanoate (19:0)
+score_7,caproate (6:0)
+score_7,trans-4-hydroxyproline
+score_7,citrate
+score_7,creatine
+score_7,gamma-glutamylhistidine
+score_7,2-hydroxystearate
+score_7,choline
+score_7,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+score_7,benzoate
+score_7,3-phenylpropionate (hydrocinnamate)
+score_7,kynurenine
+score_7,theobromine
+score_7,docosahexaenoate (DHA; 22:6n3)
+score_7,alpha-hydroxyisocaproate
+score_7,hexanoylcarnitine (C6)
+score_7,N-acetylaspartate (NAA)
+score_7,dehydroepiandrosterone sulfate (DHEA-S)
+score_7,cysteine s-sulfate
+score_7,tartronate (hydroxymalonate)
+score_7,erythritol
+score_7,3-hydroxymyristate
+score_7,iminodiacetate (IDA)
+score_7,3-hydroxylaurate
+score_7,myristoleate (14:1n5)
+score_7,phenylacetylglutamine
+score_7,"5,6-dihydrouridine"
+score_7,1-arachidonoyl-GPC (20:4n6)*
+score_7,2-hydroxypalmitate
+score_7,docosapentaenoate (n6 DPA; 22:5n6)
+score_7,hexadecanedioate (C16-DC)
+score_7,ectoine
+score_7,N6-acetyllysine
+score_7,succinylcarnitine (C4-DC)
+score_7,taurocholenate sulfate*
+score_7,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)"
+score_7,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_7,pregnenediol sulfate (C21H34O5S)*
+score_7,2-hydroxyglutarate
+score_7,gamma-CEHC
+score_7,13-HODE + 9-HODE
+score_7,cinnamoylglycine
+score_7,1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+score_7,S-methylcysteine sulfoxide
+score_7,leucylalanine
+score_7,N6-methyllysine
+score_7,pregnanediol-3-glucuronide
+score_7,2-aminooctanoate
+score_7,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_7,6-oxopiperidine-2-carboxylate
+score_7,fructosyllysine
+score_7,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_7,3beta-hydroxy-5-cholestenoate
+score_7,glycochenodeoxycholate 3-sulfate
+score_7,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_7,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)
+score_7,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_7,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+score_7,1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+score_7,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*
+score_7,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+score_7,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+score_7,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*
+score_7,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_7,perfluorooctanesulfonate (PFOS)
+score_7,lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*
+score_7,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_7,sphingomyelin (d18:2/18:1)*
+score_7,sphingomyelin (d18:2/24:2)*
+score_7,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_7,"N,N,N-trimethyl-5-aminovalerate"
+score_7,carotene diol (3)
+score_7,(N(1) + N(8))-acetylspermidine
+score_7,hexadecenedioate (C16:1-DC)*
+score_7,N-acetyl-2-aminooctanoate*
+score_7,perfluorooctanoate (PFOA)
+score_7,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_7,ethyl beta-glucopyranoside
+score_7,sulfate of piperine metabolite C16H19NO3 (2)*
+score_7,11beta-hydroxyandrosterone glucuronide
+score_7,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*"
+score_7,eicosenedioate (C20:1-DC)*
+score_7,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*"
+score_7,X-07765
+score_7,X-11378
+score_7,X-11470
+score_7,X-11880
+score_7,X-12100
+score_7,X-13866
+score_7,X-14939
+score_7,X-17335
+score_7,X-17676
+score_7,X-18899
+score_7,X-23680
+score_7,X-24309
+score_8,vanillylmandelate (VMA)
+score_8,X-11795
+score_8,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_8,homostachydrine*
+score_8,imidazole lactate
+score_8,N4-acetylcytidine
+score_8,glycodeoxycholate 3-sulfate
+score_8,glycochenodeoxycholate glucuronide (1)
+score_8,mannitol/sorbitol
+score_8,catechol sulfate
+score_8,2-aminoheptanoate
+score_8,10-undecenoate (11:1n1)
+score_8,cytidine
+score_8,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_8,androsterone glucuronide
+score_8,tryptophan betaine
+score_8,N-palmitoyl-sphingosine (d18:1/16:0)
+score_8,salicylate
+score_8,pseudouridine
+score_8,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_8,glucuronate
+score_8,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_8,tyrosine
+score_8,deoxycarnitine
+score_8,ascorbic acid 2-sulfate
+score_8,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_8,hippurate
+score_8,maleate
+score_8,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_8,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_8,pantothenate
+score_8,1-linolenoyl-GPC (18:3)*
+score_8,guaiacol sulfate
+score_8,cholesterol
+score_8,ribonate
+score_8,X-25810
+score_8,2-ketocaprylate
+score_8,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_8,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_8,6-bromotryptophan
+score_8,alpha-tocopherol
+score_8,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_8,N-acetyl-aspartyl-glutamate (NAAG)
+score_8,beta-hydroxyisovalerate
+score_8,X-13553
+score_8,undecenoylcarnitine (C11:1)
+score_8,arachidonoylcarnitine (C20:4)
+score_8,4-ethylphenylsulfate
+score_8,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_8,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_8,behenoyl sphingomyelin (d18:1/22:0)*
+score_8,X-18913
+score_8,thyroxine
+score_8,X-21339
+score_8,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_8,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_8,4-allylphenol sulfate
+score_8,theophylline
+score_8,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_8,4-guanidinobutanoate
+score_8,hexadecadienoate (16:2n6)
+score_8,indolepropionate
+score_8,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_8,X-11787
+score_8,N-acetylglucosamine/N-acetylgalactosamine
+score_8,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_8,taurolithocholate 3-sulfate
+score_8,choline phosphate
+score_8,decadienedioic acid (C10:2-DC)**
+score_8,dihydroorotate
+score_8,N-acetylputrescine
+score_8,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_8,cystine
+score_8,phytanate
+score_8,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_8,3-hydroxydecanoylcarnitine
+score_8,4-hydroxyhippurate
+score_8,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_8,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_8,carnitine
+score_8,dodecenedioate (C12:1-DC)*
+score_8,glutamine conjugate of C6H10O2 (2)*
+score_8,4-vinylphenol sulfate
+score_8,methylsuccinate
+score_8,2-hydroxydecanoate
+score_8,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_8,glutamine conjugate of C6H10O2 (1)*
+score_8,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_8,gamma-tocopherol/beta-tocopherol
+score_8,uridine
+score_8,phosphoethanolamine
+score_8,N-delta-acetylornithine
+score_8,"N,N-dimethylalanine"
+score_8,pyridoxate
+score_8,tridecenedioate (C13:1-DC)*
+score_8,X-25420
+score_8,X-13728
+score_8,"bilirubin (E,E)*"
+score_8,S-methylcysteine
+score_8,gulonate*
+score_8,3-methoxytyrosine
+score_8,X-18921
+score_8,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_8,indolelactate
+score_8,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_8,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_8,ascorbic acid 3-sulfate*
+score_8,X-23644
+score_8,N-acetylserine
+score_8,X-24556
+score_8,orotidine
+score_8,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_8,succinoyltaurine
+score_8,N-palmitoyl-sphinganine (d18:0/16:0)
+score_8,succinate
+score_8,octadecenedioylcarnitine (C18:1-DC)*
+score_8,X-17010
+score_8,ethylmalonate
+score_8,2-aminophenol sulfate
+score_8,isoursodeoxycholate
+score_8,X-25422
+score_8,"2,6-dihydroxybenzoic acid"
+score_8,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_8,"bilirubin (E,Z or Z,E)*"
+score_8,gluconate
+score_8,xanthine
+score_8,carotene diol (1)
+score_8,butyrylcarnitine (C4)
+score_8,N-acetylarginine
+score_8,caprate (10:0)
+score_8,N-acetylhistidine
+score_8,sarcosine
+score_8,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_8,hyocholate
+score_8,lithocholate sulfate (1)
+score_8,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_8,N-oleoylserine
+score_8,citrulline
+score_8,X-23739
+score_8,O-sulfo-tyrosine
+score_8,N-methylpipecolate
+score_8,3-hydroxybutyroylglycine**
+score_8,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_8,dihomo-linoleoylcarnitine (C20:2)*
+score_8,allantoin
+score_8,cholate
+score_8,N-acetyl-beta-alanine
+score_8,3-methylglutaconate
+score_8,X-21353
+score_8,urea
+score_8,4-hydroxychlorothalonil
+score_8,X-24801
+score_8,3-hydroxyoctanoate
+score_8,methionine sulfoxide
+score_8,3-hydroxydecanoate
+score_8,X-11478
+score_8,docosadioate (C22-DC)
+score_8,margaroylcarnitine (C17)*
+score_8,glutamine conjugate of C7H12O2*
+score_8,X-14056
+score_8,X-11444
+score_8,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_8,linolenoylcarnitine (C18:3)*
+score_8,X-24748
+score_8,pipecolate
+score_8,9-hydroxystearate
+score_8,behenoylcarnitine (C22)*
+score_8,3-hydroxyhippurate
+score_8,"androstenediol (3beta,17beta) disulfate (2)"
+score_8,X-16576
+score_8,3-(4-hydroxyphenyl)lactate
+score_8,dimethylarginine (SDMA + ADMA)
+score_8,isobutyrylcarnitine (C4)
+score_8,cerotoylcarnitine (C26)*
+score_8,"cys-gly, oxidized"
+score_8,X-11381
+score_8,5-methyluridine (ribothymidine)
+score_8,glutarate (C5-DC)
+score_8,lignoceroylcarnitine (C24)*
+score_8,stearoyl sphingomyelin (d18:1/18:0)
+score_8,argininate*
+score_8,hypotaurine
+score_8,ximenoylcarnitine (C26:1)*
+score_8,alpha-ketoglutaramate*
+score_8,guanidinoacetate
+score_8,adenosine 5'-monophosphate (AMP)
+score_8,glycerophosphorylcholine (GPC)
+score_8,tetradecadienedioate (C14:2-DC)*
+score_8,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_8,1-palmitoleoyl-GPC (16:1)*
+score_8,isovalerylcarnitine (C5)
+score_8,X-15461
+score_8,5-oxoproline
+score_8,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_8,2-hydroxyoctanoate
+score_8,X-24947
+score_8,pregnenediol disulfate (C21H34O8S2)*
+score_8,N-acetyltryptophan
+score_8,X-15486
+score_8,ornithine
+score_8,3-formylindole
+score_8,stearoylcarnitine (C18)
+score_8,2'-deoxyuridine
+score_8,X-12101
+score_8,nicotinamide
+score_8,X-24475
+score_8,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_8,X-21383
+score_8,eicosapentaenoate (EPA; 20:5n3)
+score_8,N-methylproline
+score_8,nervonoylcarnitine (C24:1)*
+score_8,X-21286
+score_8,N-acetylmethionine
+score_8,2-hydroxynervonate*
+score_8,sphingosine 1-phosphate
+score_8,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_8,caprylate (8:0)
+score_8,malate
+score_8,dimethylglycine
+score_8,3-methylglutarylcarnitine (2)
+score_8,EDTA
+score_8,sphinganine-1-phosphate
+score_8,oxalate (ethanedioate)
+score_8,"N2,N2-dimethylguanosine"
+score_8,alpha-hydroxyisovalerate
+score_8,heptenedioate (C7:1-DC)*
+score_8,"5,6-dihydrothymine"
+score_8,N-acetylalanine
+score_8,tryptophan
+score_8,glutarylcarnitine (C5-DC)
+score_8,X-11483
+score_8,histidine
+score_8,gamma-glutamylmethionine
+score_8,oleamide
+score_8,stearidonate (18:4n3)
+score_8,N-acetylasparagine
+score_8,pyridoxal
+score_8,sebacate (C10-DC)
+score_8,asparagine
+score_8,laurate (12:0)
+score_8,docosapentaenoate (n3 DPA; 22:5n3)
+score_8,1-oleoylglycerol (18:1)
+score_8,deoxycholic acid glucuronide
+score_8,glutamine
+score_8,X-21796
+score_8,sphingosine
+score_8,isoleucine
+score_8,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_8,5-hydroxylysine
+score_8,X-25519
+score_8,X-25172
+score_8,stearate (18:0)
+score_8,lignoceroyl sphingomyelin (d18:1/24:0)
+score_8,glucose
+score_8,dodecadienoate (12:2)*
+score_8,"2,3-dihydroxyisovalerate"
+score_8,gamma-glutamylisoleucine*
+score_8,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_8,1-ribosyl-imidazoleacetate*
+score_8,"bilirubin (Z,Z)"
+score_8,indoleacetate
+score_8,etiocholanolone glucuronide
+score_8,pregnenolone sulfate
+score_8,glutamine_degradant*
+score_8,2-hydroxyhippurate (salicylurate)
+score_8,pentose acid*
+score_8,X-12844
+score_8,X-21470
+score_8,X-11299
+score_8,4-acetamidobutanoate
+score_8,1-methyl-5-imidazoleacetate
+score_8,pregnenetriol sulfate*
+score_8,3-methylhistidine
+score_8,acetylcarnitine (C2)
+score_8,betaine
+score_8,X-19141
+score_8,N-stearoyl-sphinganine (d18:0/18:0)*
+score_8,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_8,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_8,retinol (vitamin A)
+score_8,creatinine
+score_8,X-24949
+score_8,X-21736
+score_8,glycolithocholate sulfate*
+score_8,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_8,piperine
+score_8,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_8,2-keto-3-deoxy-gluconate
+score_8,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_8,X-23782
+score_8,X-12411
+score_8,epiandrosterone sulfate
+score_8,7-methylxanthine
+score_8,3-ureidopropionate
+score_8,beta-citrylglutamate
+score_8,cortisone
+score_8,X-24328
+score_8,X-25520
+score_8,X-15503
+score_8,1-methyl-4-imidazoleacetate
+score_8,X-12822
+score_8,1-linoleoylglycerol (18:2)
+score_8,7-methylguanine
+score_8,taurochenodeoxycholate
+score_8,andro steroid monosulfate C19H28O6S (1)*
+score_8,2-hydroxybehenate
+score_8,phenol sulfate
+score_8,cis-4-decenoate (10:1n6)*
+score_8,2-methylserine
+score_8,X-12849
+score_8,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_8,2-palmitoleoyl-GPC (16:1)*
+score_8,X-21607
+score_8,N-palmitoylglycine
+score_8,X-21471
+score_8,octadecanedioylcarnitine (C18-DC)*
+score_8,spermidine
+score_8,phenylalanine
+score_8,stachydrine
+score_8,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_8,X-24544
+score_8,gamma-glutamylglutamine
+score_8,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_8,myristate (14:0)
+score_8,beta-alanine
+score_8,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*
+score_8,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_8,N-stearoyl-sphingosine (d18:1/18:0)*
+score_8,X-18899
+score_8,isobutyrylglycine
+score_8,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+score_8,1-methylnicotinamide
+score_8,16alpha-hydroxy DHEA 3-sulfate
+score_8,X-21441
+score_8,iminodiacetate (IDA)
+score_8,glycocholenate sulfate*
+score_8,perfluorooctanoate (PFOA)
+score_8,X-17676
+score_8,X-25371
+score_8,1-arachidonoyl-GPE (20:4n6)*
+score_8,fructosyllysine
+score_8,X-23665
+score_8,choline
+score_8,(N(1) + N(8))-acetylspermidine
+score_8,gamma-glutamylhistidine
+score_8,hydroxyasparagine**
+score_8,glycosyl-N-stearoyl-sphingosine (d18:1/18:0)
+score_8,heme
+score_8,hexanoylglutamine
+score_8,creatine
+score_8,imidazole propionate
+score_8,behenoyl dihydrosphingomyelin (d18:0/22:0)*
+score_8,S-1-pyrroline-5-carboxylate
+score_8,alpha-ketoglutarate
+score_8,"9,10-DiHOME"
+score_8,quinolinate
+score_8,N-formylmethionine
+score_8,biliverdin
+score_8,sphinganine
+score_8,cortisol
+score_8,inosine
+score_8,orotate
+score_8,proline
+score_8,trans-urocanate
+score_8,cysteine
+score_8,fructose
+score_8,margarate (17:0)
+score_8,nonadecanoate (19:0)
+score_8,pentadecanoate (15:0)
+score_8,trans-4-hydroxyproline
+score_8,N-acetylleucine
+score_8,N-acetylvaline
+score_8,dihomo-linoleate (20:2n6)
+score_8,2-hydroxystearate
+score_8,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+score_8,glycochenodeoxycholate
+score_8,benzoate
+score_8,kynurenine
+score_8,4-methyl-2-oxopentanoate
+score_8,phenyllactate (PLA)
+score_8,hexanoylcarnitine (C6)
+score_8,threonate
+score_8,1-methylhistidine
+score_8,3-methylxanthine
+score_8,docosadienoate (22:2n6)
+score_8,myristoleate (14:1n5)
+score_8,1-palmitoyl-GPC (16:0)
+score_8,myristoylcarnitine (C14)
+score_8,10-nonadecenoate (19:1n9)
+score_8,10-heptadecenoate (17:1n7)
+score_8,gamma-glutamylthreonine
+score_8,N6-carbamoylthreonyladenosine
+score_8,isovalerylglycine
+score_8,N1-methyl-2-pyridone-5-carboxamide
+score_8,N1-methyl-4-pyridone-3-carboxamide
+score_8,oleoylcarnitine (C18:1)
+score_8,1-linoleoyl-GPE (18:2)*
+score_8,2-hydroxypalmitate
+score_8,tetradecanedioate (C14-DC)
+score_8,hexadecanedioate (C16-DC)
+score_8,octadecanedioate (C18-DC)
+score_8,ectoine
+score_8,"3,4-dihydroxybutyrate"
+score_8,succinylcarnitine (C4-DC)
+score_8,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_8,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)"
+score_8,2-hydroxyglutarate
+score_8,gamma-CEHC
+score_8,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_8,palmitoyl sphingomyelin (d18:1/16:0)
+score_8,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_8,cysteinylglycine disulfide*
+score_8,2-oxoarginine*
+score_8,4-oxo-retinoic acid
+score_8,1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+score_8,eicosanedioate (C20-DC)
+score_8,leucylalanine
+score_8,2-aminooctanoate
+score_8,"sphingomyelin (d18:1/14:0, d16:1/16:0)*"
+score_8,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_8,6-oxopiperidine-2-carboxylate
+score_8,N-formylanthranilic acid
+score_8,p-cresol glucuronide*
+score_8,6-hydroxyindole sulfate
+score_8,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*"
+score_8,3beta-hydroxy-5-cholestenoate
+score_8,glycochenodeoxycholate 3-sulfate
+score_8,oleate/vaccenate (18:1)
+score_8,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+score_8,"sphingomyelin (d18:0/18:0, d19:0/17:0)*"
+score_8,thioproline
+score_8,palmitoylcholine
+score_8,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*
+score_8,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*
+score_8,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*"
+score_8,linoleoylcholine*
+score_8,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_8,arachidoylcarnitine (C20)*
+score_8,"N,N,N-trimethyl-5-aminovalerate"
+score_8,carotene diol (2)
+score_8,carotene diol (3)
+score_8,cortolone glucuronide (1)
+score_8,lyxonate
+score_8,N-acetyl-2-aminooctanoate*
+score_8,gamma-glutamylcitrulline*
+score_8,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_8,tetradecadienoate (14:2)*
+score_8,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*"
+score_8,pregnenetriol disulfate*
+score_8,branched chain 14:0 dicarboxylic acid**
+score_8,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*"
+score_8,"2,4-di-tert-butylphenol"
+score_8,X-07765
+score_8,X-11315
+score_8,X-11372
+score_8,X-11470
+score_8,X-12026
+score_8,X-12100
+score_8,X-13866
+score_8,X-16580
+score_8,X-16935
+score_8,X-17335
+score_8,X-23593
+score_8,X-23636
+score_8,X-24309
+score_8,X-24953
+score_8,X-25271
+score_8,X-25957
+score_9,vanillylmandelate (VMA)
+score_9,X-11795
+score_9,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_9,homostachydrine*
+score_9,imidazole lactate
+score_9,N4-acetylcytidine
+score_9,glycodeoxycholate 3-sulfate
+score_9,glycochenodeoxycholate glucuronide (1)
+score_9,mannitol/sorbitol
+score_9,catechol sulfate
+score_9,2-aminoheptanoate
+score_9,10-undecenoate (11:1n1)
+score_9,cytidine
+score_9,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_9,androsterone glucuronide
+score_9,tryptophan betaine
+score_9,N-palmitoyl-sphingosine (d18:1/16:0)
+score_9,salicylate
+score_9,pseudouridine
+score_9,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_9,glucuronate
+score_9,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_9,tyrosine
+score_9,deoxycarnitine
+score_9,ascorbic acid 2-sulfate
+score_9,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_9,hippurate
+score_9,maleate
+score_9,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_9,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_9,pantothenate
+score_9,1-linolenoyl-GPC (18:3)*
+score_9,guaiacol sulfate
+score_9,cholesterol
+score_9,ribonate
+score_9,X-25810
+score_9,2-ketocaprylate
+score_9,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_9,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_9,6-bromotryptophan
+score_9,alpha-tocopherol
+score_9,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_9,N-acetyl-aspartyl-glutamate (NAAG)
+score_9,beta-hydroxyisovalerate
+score_9,X-13553
+score_9,undecenoylcarnitine (C11:1)
+score_9,arachidonoylcarnitine (C20:4)
+score_9,4-ethylphenylsulfate
+score_9,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_9,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_9,behenoyl sphingomyelin (d18:1/22:0)*
+score_9,X-18913
+score_9,thyroxine
+score_9,X-21339
+score_9,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_9,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_9,4-allylphenol sulfate
+score_9,theophylline
+score_9,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_9,4-guanidinobutanoate
+score_9,hexadecadienoate (16:2n6)
+score_9,indolepropionate
+score_9,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_9,X-11787
+score_9,N-acetylglucosamine/N-acetylgalactosamine
+score_9,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_9,taurolithocholate 3-sulfate
+score_9,choline phosphate
+score_9,decadienedioic acid (C10:2-DC)**
+score_9,dihydroorotate
+score_9,N-acetylputrescine
+score_9,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_9,cystine
+score_9,phytanate
+score_9,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_9,3-hydroxydecanoylcarnitine
+score_9,4-hydroxyhippurate
+score_9,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_9,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_9,carnitine
+score_9,dodecenedioate (C12:1-DC)*
+score_9,glutamine conjugate of C6H10O2 (2)*
+score_9,4-vinylphenol sulfate
+score_9,methylsuccinate
+score_9,2-hydroxydecanoate
+score_9,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_9,glutamine conjugate of C6H10O2 (1)*
+score_9,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_9,gamma-tocopherol/beta-tocopherol
+score_9,uridine
+score_9,phosphoethanolamine
+score_9,N-delta-acetylornithine
+score_9,"N,N-dimethylalanine"
+score_9,pyridoxate
+score_9,tridecenedioate (C13:1-DC)*
+score_9,X-25420
+score_9,X-13728
+score_9,"bilirubin (E,E)*"
+score_9,S-methylcysteine
+score_9,gulonate*
+score_9,3-methoxytyrosine
+score_9,X-18921
+score_9,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_9,indolelactate
+score_9,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_9,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_9,ascorbic acid 3-sulfate*
+score_9,X-23644
+score_9,N-acetylserine
+score_9,X-24556
+score_9,orotidine
+score_9,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_9,succinoyltaurine
+score_9,N-palmitoyl-sphinganine (d18:0/16:0)
+score_9,succinate
+score_9,octadecenedioylcarnitine (C18:1-DC)*
+score_9,X-17010
+score_9,ethylmalonate
+score_9,2-aminophenol sulfate
+score_9,isoursodeoxycholate
+score_9,X-25422
+score_9,"2,6-dihydroxybenzoic acid"
+score_9,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_9,"bilirubin (E,Z or Z,E)*"
+score_9,gluconate
+score_9,xanthine
+score_9,carotene diol (1)
+score_9,butyrylcarnitine (C4)
+score_9,N-acetylarginine
+score_9,caprate (10:0)
+score_9,N-acetylhistidine
+score_9,sarcosine
+score_9,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_9,hyocholate
+score_9,lithocholate sulfate (1)
+score_9,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_9,N-oleoylserine
+score_9,citrulline
+score_9,X-23739
+score_9,O-sulfo-tyrosine
+score_9,N-methylpipecolate
+score_9,3-hydroxybutyroylglycine**
+score_9,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_9,dihomo-linoleoylcarnitine (C20:2)*
+score_9,allantoin
+score_9,cholate
+score_9,N-acetyl-beta-alanine
+score_9,3-methylglutaconate
+score_9,X-21353
+score_9,urea
+score_9,4-hydroxychlorothalonil
+score_9,X-24801
+score_9,3-hydroxyoctanoate
+score_9,methionine sulfoxide
+score_9,3-hydroxydecanoate
+score_9,X-11478
+score_9,docosadioate (C22-DC)
+score_9,margaroylcarnitine (C17)*
+score_9,glutamine conjugate of C7H12O2*
+score_9,X-14056
+score_9,X-11444
+score_9,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_9,linolenoylcarnitine (C18:3)*
+score_9,X-24748
+score_9,pipecolate
+score_9,9-hydroxystearate
+score_9,behenoylcarnitine (C22)*
+score_9,3-hydroxyhippurate
+score_9,"androstenediol (3beta,17beta) disulfate (2)"
+score_9,X-16576
+score_9,3-(4-hydroxyphenyl)lactate
+score_9,dimethylarginine (SDMA + ADMA)
+score_9,isobutyrylcarnitine (C4)
+score_9,cerotoylcarnitine (C26)*
+score_9,"cys-gly, oxidized"
+score_9,X-11381
+score_9,5-methyluridine (ribothymidine)
+score_9,glutarate (C5-DC)
+score_9,lignoceroylcarnitine (C24)*
+score_9,stearoyl sphingomyelin (d18:1/18:0)
+score_9,argininate*
+score_9,hypotaurine
+score_9,ximenoylcarnitine (C26:1)*
+score_9,alpha-ketoglutaramate*
+score_9,guanidinoacetate
+score_9,adenosine 5'-monophosphate (AMP)
+score_9,glycerophosphorylcholine (GPC)
+score_9,tetradecadienedioate (C14:2-DC)*
+score_9,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_9,1-palmitoleoyl-GPC (16:1)*
+score_9,isovalerylcarnitine (C5)
+score_9,X-15461
+score_9,5-oxoproline
+score_9,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_9,2-hydroxyoctanoate
+score_9,X-24947
+score_9,pregnenediol disulfate (C21H34O8S2)*
+score_9,N-acetyltryptophan
+score_9,X-15486
+score_9,ornithine
+score_9,3-formylindole
+score_9,stearoylcarnitine (C18)
+score_9,2'-deoxyuridine
+score_9,X-12101
+score_9,nicotinamide
+score_9,X-24475
+score_9,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_9,X-21383
+score_9,eicosapentaenoate (EPA; 20:5n3)
+score_9,N-methylproline
+score_9,nervonoylcarnitine (C24:1)*
+score_9,X-21286
+score_9,N-acetylmethionine
+score_9,2-hydroxynervonate*
+score_9,sphingosine 1-phosphate
+score_9,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_9,caprylate (8:0)
+score_9,malate
+score_9,dimethylglycine
+score_9,3-methylglutarylcarnitine (2)
+score_9,EDTA
+score_9,sphinganine-1-phosphate
+score_9,oxalate (ethanedioate)
+score_9,"N2,N2-dimethylguanosine"
+score_9,alpha-hydroxyisovalerate
+score_9,heptenedioate (C7:1-DC)*
+score_9,"5,6-dihydrothymine"
+score_9,N-acetylalanine
+score_9,tryptophan
+score_9,glutarylcarnitine (C5-DC)
+score_9,X-11483
+score_9,histidine
+score_9,gamma-glutamylmethionine
+score_9,oleamide
+score_9,stearidonate (18:4n3)
+score_9,N-acetylasparagine
+score_9,pyridoxal
+score_9,sebacate (C10-DC)
+score_9,asparagine
+score_9,laurate (12:0)
+score_9,docosapentaenoate (n3 DPA; 22:5n3)
+score_9,1-oleoylglycerol (18:1)
+score_9,deoxycholic acid glucuronide
+score_9,glutamine
+score_9,X-21796
+score_9,sphingosine
+score_9,isoleucine
+score_9,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_9,5-hydroxylysine
+score_9,X-25519
+score_9,X-25172
+score_9,stearate (18:0)
+score_9,lignoceroyl sphingomyelin (d18:1/24:0)
+score_9,glucose
+score_9,dodecadienoate (12:2)*
+score_9,"2,3-dihydroxyisovalerate"
+score_9,gamma-glutamylisoleucine*
+score_9,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_9,1-ribosyl-imidazoleacetate*
+score_9,"bilirubin (Z,Z)"
+score_9,indoleacetate
+score_9,etiocholanolone glucuronide
+score_9,pregnenolone sulfate
+score_9,glutamine_degradant*
+score_9,2-hydroxyhippurate (salicylurate)
+score_9,pentose acid*
+score_9,X-12844
+score_9,X-21470
+score_9,X-11299
+score_9,4-acetamidobutanoate
+score_9,1-methyl-5-imidazoleacetate
+score_9,pregnenetriol sulfate*
+score_9,3-methylhistidine
+score_9,acetylcarnitine (C2)
+score_9,betaine
+score_9,X-19141
+score_9,N-stearoyl-sphinganine (d18:0/18:0)*
+score_9,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_9,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_9,retinol (vitamin A)
+score_9,creatinine
+score_9,X-24949
+score_9,X-21736
+score_9,glycolithocholate sulfate*
+score_9,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_9,piperine
+score_9,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_9,2-keto-3-deoxy-gluconate
+score_9,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_9,X-23782
+score_9,X-12411
+score_9,epiandrosterone sulfate
+score_9,7-methylxanthine
+score_9,3-ureidopropionate
+score_9,beta-citrylglutamate
+score_9,cortisone
+score_9,X-24328
+score_9,X-25520
+score_9,X-15503
+score_9,1-methyl-4-imidazoleacetate
+score_9,X-12822
+score_9,1-linoleoylglycerol (18:2)
+score_9,7-methylguanine
+score_9,taurochenodeoxycholate
+score_9,andro steroid monosulfate C19H28O6S (1)*
+score_9,2-hydroxybehenate
+score_9,phenol sulfate
+score_9,cis-4-decenoate (10:1n6)*
+score_9,2-methylserine
+score_9,X-12849
+score_9,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_9,2-palmitoleoyl-GPC (16:1)*
+score_9,X-21607
+score_9,N-palmitoylglycine
+score_9,X-21471
+score_9,octadecanedioylcarnitine (C18-DC)*
+score_9,spermidine
+score_9,phenylalanine
+score_9,stachydrine
+score_9,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_9,X-24544
+score_9,gamma-glutamylglutamine
+score_9,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_9,myristate (14:0)
+score_9,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*
+score_9,X-18886
+score_9,hexadecenedioate (C16:1-DC)*
+score_9,"androstenediol (3beta,17beta) monosulfate (2)"
+score_9,inosine
+score_9,2-aminooctanoate
+score_9,sulfate*
+score_9,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+score_9,10-heptadecenoate (17:1n7)
+score_9,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+score_9,octadecanedioate (C18-DC)
+score_9,2-hydroxy-4-(methylthio)butanoic acid
+score_9,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*"
+score_9,proline
+score_9,alpha-hydroxyisocaproate
+score_9,X-21829
+score_9,alanine
+score_9,1-palmitoyl-GPC (16:0)
+score_9,4-oxo-retinoic acid
+score_9,N-acetyl-2-aminooctanoate*
+score_9,glycocholate
+score_9,"9,10-DiHOME"
+score_9,fumarate
+score_9,1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+score_9,palmitate (16:0)
+score_9,cysteinylglycine
+score_9,hydantoin-5-propionate
+score_9,7alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)
+score_9,N-acetylglutamate
+score_9,3-indoxyl sulfate
+score_9,"androstenediol (3beta,17beta) monosulfate (1)"
+score_9,"ceramide (d18:1/14:0, d16:1/16:0)*"
+score_9,methionine sulfone
+score_9,branched chain 14:0 dicarboxylic acid**
+score_9,1-methylnicotinamide
+score_9,linoleate (18:2n6)
+score_9,arachidonate (20:4n6)
+score_9,beta-alanine
+score_9,3-hydroxybutyrate (BHBA)
+score_9,sphinganine
+score_9,gamma-glutamylglutamate
+score_9,leucine
+score_9,orotate
+score_9,palmitoleate (16:1n7)
+score_9,taurine
+score_9,fructose
+score_9,nonadecanoate (19:0)
+score_9,arachidate (20:0)
+score_9,N-acetylleucine
+score_9,3-aminoisobutyrate
+score_9,urate
+score_9,creatine
+score_9,choline
+score_9,gamma-glutamylleucine
+score_9,palmitoyl ethanolamide
+score_9,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+score_9,glycochenodeoxycholate
+score_9,3-phenylpropionate (hydrocinnamate)
+score_9,3-methyl-2-oxovalerate
+score_9,glycerol 3-phosphate
+score_9,quinate
+score_9,4-methyl-2-oxopentanoate
+score_9,"1,5-anhydroglucitol (1,5-AG)"
+score_9,isovalerate (i5:0)
+score_9,phenyllactate (PLA)
+score_9,N-acetylaspartate (NAA)
+score_9,cysteine s-sulfate
+score_9,erythritol
+score_9,iminodiacetate (IDA)
+score_9,homocitrulline
+score_9,N-acetylglycine
+score_9,trigonelline (N'-methylnicotinate)
+score_9,3-methylxanthine
+score_9,gamma-glutamylvaline
+score_9,propionylcarnitine (C3)
+score_9,docosadienoate (22:2n6)
+score_9,adrenate (22:4n6)
+score_9,myristoleate (14:1n5)
+score_9,1-stearoyl-GPC (18:0)
+score_9,10-nonadecenoate (19:1n9)
+score_9,oleoylcarnitine (C18:1)
+score_9,1-arachidonoyl-GPC (20:4n6)*
+score_9,2-palmitoyl-GPC (16:0)*
+score_9,1-palmitoyl-GPE (16:0)
+score_9,1-arachidonoyl-GPE (20:4n6)*
+score_9,hexadecanedioate (C16-DC)
+score_9,1-oleoyl-GPI (18:1)
+score_9,1-linoleoyl-GPI (18:2)*
+score_9,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+score_9,glycosyl-N-stearoyl-sphingosine (d18:1/18:0)
+score_9,taurocholenate sulfate*
+score_9,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)"
+score_9,"androstenediol (3alpha, 17alpha) monosulfate (2)"
+score_9,gamma-CEHC
+score_9,palmitoyl sphingomyelin (d18:1/16:0)
+score_9,16alpha-hydroxy DHEA 3-sulfate
+score_9,cinnamoylglycine
+score_9,"2S,3R-dihydroxybutyrate"
+score_9,fucitol
+score_9,5-(galactosylhydroxy)-lysine
+score_9,formiminoglutamate
+score_9,1-lignoceroyl-GPC (24:0)
+score_9,16-hydroxypalmitate
+score_9,N6-methyllysine
+score_9,pregnanediol-3-glucuronide
+score_9,lanthionine
+score_9,2-stearoyl-GPE (18:0)*
+score_9,2-piperidinone
+score_9,"sphingomyelin (d18:1/14:0, d16:1/16:0)*"
+score_9,fructosyllysine
+score_9,"sphingomyelin (d18:2/14:0, d18:1/14:1)*"
+score_9,p-cresol glucuronide*
+score_9,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*"
+score_9,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*"
+score_9,arabitol/xylitol
+score_9,citraconate/glutaconate
+score_9,adipoylcarnitine (C6-DC)
+score_9,nonanoylcarnitine (C9)
+score_9,glycochenodeoxycholate 3-sulfate
+score_9,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_9,2-hydroxybutyrate/2-hydroxyisobutyrate
+score_9,oleate/vaccenate (18:1)
+score_9,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+score_9,1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*
+score_9,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_9,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*"
+score_9,behenoyl dihydrosphingomyelin (d18:0/22:0)*
+score_9,"sphingomyelin (d18:0/18:0, d19:0/17:0)*"
+score_9,myristoyl dihydrosphingomyelin (d18:0/14:0)*
+score_9,1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*
+score_9,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+score_9,1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*
+score_9,thioproline
+score_9,(S)-3-hydroxybutyrylcarnitine
+score_9,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*
+score_9,sphingomyelin (d18:2/18:1)*
+score_9,sphingomyelin (d18:2/23:1)*
+score_9,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_9,gamma-glutamylcitrulline*
+score_9,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_9,N-acetyl-isoputreanine
+score_9,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_9,11beta-hydroxyandrosterone glucuronide
+score_9,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**
+score_9,eicosenedioate (C20:1-DC)*
+score_9,X-11378
+score_9,X-12462
+score_9,X-13866
+score_9,X-16580
+score_9,X-16935
+score_9,X-17357
+score_9,X-18887
+score_9,X-21364
+score_9,X-21441
+score_9,X-22162
+score_9,X-23593
+score_9,X-23636
+score_9,X-23665
+score_9,X-23680
+score_9,X-24309
+score_9,X-24951
+score_9,X-25265
+score_9,X-25271
+score_9,X-25371
+score_10,vanillylmandelate (VMA)
+score_10,X-11795
+score_10,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_10,homostachydrine*
+score_10,imidazole lactate
+score_10,N4-acetylcytidine
+score_10,glycodeoxycholate 3-sulfate
+score_10,glycochenodeoxycholate glucuronide (1)
+score_10,mannitol/sorbitol
+score_10,catechol sulfate
+score_10,2-aminoheptanoate
+score_10,10-undecenoate (11:1n1)
+score_10,cytidine
+score_10,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_10,androsterone glucuronide
+score_10,tryptophan betaine
+score_10,N-palmitoyl-sphingosine (d18:1/16:0)
+score_10,salicylate
+score_10,pseudouridine
+score_10,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_10,glucuronate
+score_10,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_10,tyrosine
+score_10,deoxycarnitine
+score_10,ascorbic acid 2-sulfate
+score_10,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_10,hippurate
+score_10,maleate
+score_10,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_10,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_10,pantothenate
+score_10,1-linolenoyl-GPC (18:3)*
+score_10,guaiacol sulfate
+score_10,cholesterol
+score_10,ribonate
+score_10,X-25810
+score_10,2-ketocaprylate
+score_10,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_10,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_10,6-bromotryptophan
+score_10,alpha-tocopherol
+score_10,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_10,N-acetyl-aspartyl-glutamate (NAAG)
+score_10,beta-hydroxyisovalerate
+score_10,X-13553
+score_10,undecenoylcarnitine (C11:1)
+score_10,arachidonoylcarnitine (C20:4)
+score_10,4-ethylphenylsulfate
+score_10,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_10,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_10,behenoyl sphingomyelin (d18:1/22:0)*
+score_10,X-18913
+score_10,thyroxine
+score_10,X-21339
+score_10,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_10,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_10,4-allylphenol sulfate
+score_10,theophylline
+score_10,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_10,4-guanidinobutanoate
+score_10,hexadecadienoate (16:2n6)
+score_10,indolepropionate
+score_10,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_10,X-11787
+score_10,N-acetylglucosamine/N-acetylgalactosamine
+score_10,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_10,taurolithocholate 3-sulfate
+score_10,choline phosphate
+score_10,decadienedioic acid (C10:2-DC)**
+score_10,dihydroorotate
+score_10,N-acetylputrescine
+score_10,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_10,cystine
+score_10,phytanate
+score_10,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_10,3-hydroxydecanoylcarnitine
+score_10,4-hydroxyhippurate
+score_10,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_10,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_10,carnitine
+score_10,dodecenedioate (C12:1-DC)*
+score_10,glutamine conjugate of C6H10O2 (2)*
+score_10,4-vinylphenol sulfate
+score_10,methylsuccinate
+score_10,2-hydroxydecanoate
+score_10,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_10,glutamine conjugate of C6H10O2 (1)*
+score_10,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_10,gamma-tocopherol/beta-tocopherol
+score_10,uridine
+score_10,phosphoethanolamine
+score_10,N-delta-acetylornithine
+score_10,"N,N-dimethylalanine"
+score_10,pyridoxate
+score_10,tridecenedioate (C13:1-DC)*
+score_10,X-25420
+score_10,X-13728
+score_10,"bilirubin (E,E)*"
+score_10,S-methylcysteine
+score_10,gulonate*
+score_10,3-methoxytyrosine
+score_10,X-18921
+score_10,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_10,indolelactate
+score_10,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_10,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_10,ascorbic acid 3-sulfate*
+score_10,X-23644
+score_10,N-acetylserine
+score_10,X-24556
+score_10,orotidine
+score_10,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_10,succinoyltaurine
+score_10,N-palmitoyl-sphinganine (d18:0/16:0)
+score_10,succinate
+score_10,octadecenedioylcarnitine (C18:1-DC)*
+score_10,X-17010
+score_10,ethylmalonate
+score_10,2-aminophenol sulfate
+score_10,isoursodeoxycholate
+score_10,X-25422
+score_10,"2,6-dihydroxybenzoic acid"
+score_10,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_10,"bilirubin (E,Z or Z,E)*"
+score_10,gluconate
+score_10,xanthine
+score_10,carotene diol (1)
+score_10,butyrylcarnitine (C4)
+score_10,N-acetylarginine
+score_10,caprate (10:0)
+score_10,N-acetylhistidine
+score_10,sarcosine
+score_10,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_10,hyocholate
+score_10,lithocholate sulfate (1)
+score_10,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_10,N-oleoylserine
+score_10,citrulline
+score_10,X-23739
+score_10,O-sulfo-tyrosine
+score_10,N-methylpipecolate
+score_10,3-hydroxybutyroylglycine**
+score_10,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_10,dihomo-linoleoylcarnitine (C20:2)*
+score_10,allantoin
+score_10,cholate
+score_10,N-acetyl-beta-alanine
+score_10,3-methylglutaconate
+score_10,X-21353
+score_10,urea
+score_10,4-hydroxychlorothalonil
+score_10,X-24801
+score_10,3-hydroxyoctanoate
+score_10,methionine sulfoxide
+score_10,3-hydroxydecanoate
+score_10,X-11478
+score_10,docosadioate (C22-DC)
+score_10,margaroylcarnitine (C17)*
+score_10,glutamine conjugate of C7H12O2*
+score_10,X-14056
+score_10,X-11444
+score_10,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_10,linolenoylcarnitine (C18:3)*
+score_10,X-24748
+score_10,pipecolate
+score_10,9-hydroxystearate
+score_10,behenoylcarnitine (C22)*
+score_10,3-hydroxyhippurate
+score_10,"androstenediol (3beta,17beta) disulfate (2)"
+score_10,X-16576
+score_10,3-(4-hydroxyphenyl)lactate
+score_10,dimethylarginine (SDMA + ADMA)
+score_10,isobutyrylcarnitine (C4)
+score_10,cerotoylcarnitine (C26)*
+score_10,"cys-gly, oxidized"
+score_10,X-11381
+score_10,5-methyluridine (ribothymidine)
+score_10,glutarate (C5-DC)
+score_10,lignoceroylcarnitine (C24)*
+score_10,stearoyl sphingomyelin (d18:1/18:0)
+score_10,argininate*
+score_10,hypotaurine
+score_10,ximenoylcarnitine (C26:1)*
+score_10,alpha-ketoglutaramate*
+score_10,guanidinoacetate
+score_10,adenosine 5'-monophosphate (AMP)
+score_10,glycerophosphorylcholine (GPC)
+score_10,tetradecadienedioate (C14:2-DC)*
+score_10,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_10,1-palmitoleoyl-GPC (16:1)*
+score_10,isovalerylcarnitine (C5)
+score_10,X-15461
+score_10,5-oxoproline
+score_10,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_10,2-hydroxyoctanoate
+score_10,X-24947
+score_10,pregnenediol disulfate (C21H34O8S2)*
+score_10,N-acetyltryptophan
+score_10,X-15486
+score_10,ornithine
+score_10,3-formylindole
+score_10,stearoylcarnitine (C18)
+score_10,2'-deoxyuridine
+score_10,X-12101
+score_10,nicotinamide
+score_10,X-24475
+score_10,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_10,X-21383
+score_10,eicosapentaenoate (EPA; 20:5n3)
+score_10,N-methylproline
+score_10,nervonoylcarnitine (C24:1)*
+score_10,X-21286
+score_10,N-acetylmethionine
+score_10,2-hydroxynervonate*
+score_10,sphingosine 1-phosphate
+score_10,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_10,caprylate (8:0)
+score_10,malate
+score_10,dimethylglycine
+score_10,3-methylglutarylcarnitine (2)
+score_10,EDTA
+score_10,sphinganine-1-phosphate
+score_10,oxalate (ethanedioate)
+score_10,"N2,N2-dimethylguanosine"
+score_10,alpha-hydroxyisovalerate
+score_10,heptenedioate (C7:1-DC)*
+score_10,"5,6-dihydrothymine"
+score_10,N-acetylalanine
+score_10,tryptophan
+score_10,glutarylcarnitine (C5-DC)
+score_10,X-11483
+score_10,histidine
+score_10,gamma-glutamylmethionine
+score_10,oleamide
+score_10,stearidonate (18:4n3)
+score_10,N-acetylasparagine
+score_10,pyridoxal
+score_10,sebacate (C10-DC)
+score_10,asparagine
+score_10,laurate (12:0)
+score_10,docosapentaenoate (n3 DPA; 22:5n3)
+score_10,1-oleoylglycerol (18:1)
+score_10,deoxycholic acid glucuronide
+score_10,glutamine
+score_10,X-21796
+score_10,sphingosine
+score_10,isoleucine
+score_10,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_10,5-hydroxylysine
+score_10,X-25519
+score_10,X-25172
+score_10,stearate (18:0)
+score_10,lignoceroyl sphingomyelin (d18:1/24:0)
+score_10,glucose
+score_10,dodecadienoate (12:2)*
+score_10,"2,3-dihydroxyisovalerate"
+score_10,gamma-glutamylisoleucine*
+score_10,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_10,1-ribosyl-imidazoleacetate*
+score_10,"bilirubin (Z,Z)"
+score_10,indoleacetate
+score_10,etiocholanolone glucuronide
+score_10,pregnenolone sulfate
+score_10,glutamine_degradant*
+score_10,2-hydroxyhippurate (salicylurate)
+score_10,pentose acid*
+score_10,X-12844
+score_10,X-21470
+score_10,X-11299
+score_10,4-acetamidobutanoate
+score_10,1-methyl-5-imidazoleacetate
+score_10,pregnenetriol sulfate*
+score_10,3-methylhistidine
+score_10,acetylcarnitine (C2)
+score_10,betaine
+score_10,X-19141
+score_10,N-stearoyl-sphinganine (d18:0/18:0)*
+score_10,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_10,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_10,retinol (vitamin A)
+score_10,creatinine
+score_10,X-24949
+score_10,X-21736
+score_10,glycolithocholate sulfate*
+score_10,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_10,piperine
+score_10,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_10,2-keto-3-deoxy-gluconate
+score_10,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_10,X-23782
+score_10,X-12411
+score_10,epiandrosterone sulfate
+score_10,7-methylxanthine
+score_10,3-ureidopropionate
+score_10,beta-citrylglutamate
+score_10,cortisone
+score_10,X-24328
+score_10,X-25520
+score_10,X-15503
+score_10,1-methyl-4-imidazoleacetate
+score_10,X-12822
+score_10,1-linoleoylglycerol (18:2)
+score_10,7-methylguanine
+score_10,taurochenodeoxycholate
+score_10,andro steroid monosulfate C19H28O6S (1)*
+score_10,2-hydroxybehenate
+score_10,phenol sulfate
+score_10,cis-4-decenoate (10:1n6)*
+score_10,2-methylserine
+score_10,X-12849
+score_10,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_10,2-palmitoleoyl-GPC (16:1)*
+score_10,X-21607
+score_10,N-palmitoylglycine
+score_10,X-21471
+score_10,octadecanedioylcarnitine (C18-DC)*
+score_10,spermidine
+score_10,phenylalanine
+score_10,stachydrine
+score_10,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_10,X-24544
+score_10,gamma-glutamylglutamine
+score_10,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_10,myristate (14:0)
+score_10,glycine
+score_10,sphinganine
+score_10,N6-acetyllysine
+score_10,X-23639
+score_10,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+score_10,3-amino-2-piperidone
+score_10,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_10,X-21467
+score_10,linoleate (18:2n6)
+score_10,N-formylmethionine
+score_10,arginine
+score_10,lysine
+score_10,taurine
+score_10,trans-urocanate
+score_10,pentadecanoate (15:0)
+score_10,trans-4-hydroxyproline
+score_10,N-acetylvaline
+score_10,citrate
+score_10,urate
+score_10,butyrate/isobutyrate (4:0)
+score_10,N-acetylneuraminate
+score_10,gamma-glutamylhistidine
+score_10,choline
+score_10,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+score_10,isovalerate (i5:0)
+score_10,hexanoylcarnitine (C6)
+score_10,N-acetylaspartate (NAA)
+score_10,cysteine s-sulfate
+score_10,1-methylhistidine
+score_10,dodecanedioate (C12-DC)
+score_10,3-hydroxylaurate
+score_10,propionylcarnitine (C3)
+score_10,pro-hydroxy-pro
+score_10,3-hydroxy-2-ethylpropionate
+score_10,docosadienoate (22:2n6)
+score_10,gamma-glutamylglycine
+score_10,N1-methylinosine
+score_10,"5,6-dihydrouridine"
+score_10,1-arachidonoyl-GPC (20:4n6)*
+score_10,1-linoleoyl-GPE (18:2)*
+score_10,1-arachidonoyl-GPE (20:4n6)*
+score_10,2-hydroxypalmitate
+score_10,isobutyrylglycine
+score_10,glycerophosphoethanolamine
+score_10,1-arachidonoyl-GPI (20:4)*
+score_10,pyrraline
+score_10,1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+score_10,glycosyl-N-stearoyl-sphingosine (d18:1/18:0)
+score_10,succinylcarnitine (C4-DC)
+score_10,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_10,gamma-CEHC
+score_10,16alpha-hydroxy DHEA 3-sulfate
+score_10,13-HODE + 9-HODE
+score_10,stearoyl ethanolamide
+score_10,5-(galactosylhydroxy)-lysine
+score_10,cysteinylglycine disulfide*
+score_10,formiminoglutamate
+score_10,1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+score_10,linoleoylcarnitine (C18:2)*
+score_10,imidazole propionate
+score_10,pregnanediol-3-glucuronide
+score_10,2-piperidinone
+score_10,6-oxopiperidine-2-carboxylate
+score_10,N-formylanthranilic acid
+score_10,1-(1-enyl-oleoyl)-GPE (P-18:1)*
+score_10,N-acetyltaurine
+score_10,1-palmitoyl-GPG (16:0)*
+score_10,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*"
+score_10,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*"
+score_10,dopamine 3-O-sulfate
+score_10,arabitol/xylitol
+score_10,"1,2-dilinoleoyl-GPC (18:2/18:2)"
+score_10,oleate/vaccenate (18:1)
+score_10,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_10,1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*
+score_10,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*
+score_10,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_10,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+score_10,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*
+score_10,sphingomyelin (d18:2/24:2)*
+score_10,"sphingomyelin (d17:2/16:0, d18:2/15:0)*"
+score_10,"N,N,N-trimethyl-5-aminovalerate"
+score_10,carotene diol (3)
+score_10,3-hydroxyoleoylcarnitine
+score_10,lyxonate
+score_10,octadecenedioate (C18:1-DC)
+score_10,perfluorooctanoate (PFOA)
+score_10,gamma-glutamylcitrulline*
+score_10,"sphingomyelin (d17:1/14:0, d16:1/15:0)*"
+score_10,"N6,N6-dimethyllysine"
+score_10,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_10,11beta-hydroxyandrosterone glucuronide
+score_10,branched chain 14:0 dicarboxylic acid**
+score_10,(2 or 3)-decenoate (10:1n7 or n8)
+score_10,"2,4-di-tert-butylphenol"
+score_10,X-11372
+score_10,X-11880
+score_10,X-12100
+score_10,X-12462
+score_10,X-14939
+score_10,X-17335
+score_10,X-18899
+score_10,X-21319
+score_10,X-21829
+score_10,X-23593
+score_10,X-24588
+score_10,X-24951
+score_11,vanillylmandelate (VMA)
+score_11,X-11795
+score_11,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+score_11,homostachydrine*
+score_11,imidazole lactate
+score_11,N4-acetylcytidine
+score_11,glycodeoxycholate 3-sulfate
+score_11,glycochenodeoxycholate glucuronide (1)
+score_11,mannitol/sorbitol
+score_11,catechol sulfate
+score_11,2-aminoheptanoate
+score_11,10-undecenoate (11:1n1)
+score_11,cytidine
+score_11,N-palmitoyl-sphingadienine (d18:2/16:0)*
+score_11,androsterone glucuronide
+score_11,tryptophan betaine
+score_11,N-palmitoyl-sphingosine (d18:1/16:0)
+score_11,salicylate
+score_11,pseudouridine
+score_11,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+score_11,glucuronate
+score_11,palmitoyl dihydrosphingomyelin (d18:0/16:0)*
+score_11,tyrosine
+score_11,deoxycarnitine
+score_11,ascorbic acid 2-sulfate
+score_11,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+score_11,hippurate
+score_11,maleate
+score_11,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+score_11,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+score_11,pantothenate
+score_11,1-linolenoyl-GPC (18:3)*
+score_11,guaiacol sulfate
+score_11,cholesterol
+score_11,ribonate
+score_11,X-25810
+score_11,2-ketocaprylate
+score_11,oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+score_11,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*
+score_11,6-bromotryptophan
+score_11,alpha-tocopherol
+score_11,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*"
+score_11,N-acetyl-aspartyl-glutamate (NAAG)
+score_11,beta-hydroxyisovalerate
+score_11,X-13553
+score_11,undecenoylcarnitine (C11:1)
+score_11,arachidonoylcarnitine (C20:4)
+score_11,4-ethylphenylsulfate
+score_11,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+score_11,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+score_11,behenoyl sphingomyelin (d18:1/22:0)*
+score_11,X-18913
+score_11,thyroxine
+score_11,X-21339
+score_11,1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+score_11,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+score_11,4-allylphenol sulfate
+score_11,theophylline
+score_11,1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+score_11,4-guanidinobutanoate
+score_11,hexadecadienoate (16:2n6)
+score_11,indolepropionate
+score_11,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*"
+score_11,X-11787
+score_11,N-acetylglucosamine/N-acetylgalactosamine
+score_11,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)"
+score_11,taurolithocholate 3-sulfate
+score_11,choline phosphate
+score_11,decadienedioic acid (C10:2-DC)**
+score_11,dihydroorotate
+score_11,N-acetylputrescine
+score_11,dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+score_11,cystine
+score_11,phytanate
+score_11,"sphingomyelin (d18:1/20:0, d16:1/22:0)*"
+score_11,3-hydroxydecanoylcarnitine
+score_11,4-hydroxyhippurate
+score_11,"sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+score_11,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*
+score_11,carnitine
+score_11,dodecenedioate (C12:1-DC)*
+score_11,glutamine conjugate of C6H10O2 (2)*
+score_11,4-vinylphenol sulfate
+score_11,methylsuccinate
+score_11,2-hydroxydecanoate
+score_11,"hydroxy-N6,N6,N6-trimethyllysine*"
+score_11,glutamine conjugate of C6H10O2 (1)*
+score_11,1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+score_11,gamma-tocopherol/beta-tocopherol
+score_11,uridine
+score_11,phosphoethanolamine
+score_11,N-delta-acetylornithine
+score_11,"N,N-dimethylalanine"
+score_11,pyridoxate
+score_11,tridecenedioate (C13:1-DC)*
+score_11,X-25420
+score_11,X-13728
+score_11,"bilirubin (E,E)*"
+score_11,S-methylcysteine
+score_11,gulonate*
+score_11,3-methoxytyrosine
+score_11,X-18921
+score_11,1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+score_11,indolelactate
+score_11,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+score_11,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*
+score_11,ascorbic acid 3-sulfate*
+score_11,X-23644
+score_11,N-acetylserine
+score_11,X-24556
+score_11,orotidine
+score_11,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_11,succinoyltaurine
+score_11,N-palmitoyl-sphinganine (d18:0/16:0)
+score_11,succinate
+score_11,octadecenedioylcarnitine (C18:1-DC)*
+score_11,X-17010
+score_11,ethylmalonate
+score_11,2-aminophenol sulfate
+score_11,isoursodeoxycholate
+score_11,X-25422
+score_11,"2,6-dihydroxybenzoic acid"
+score_11,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+score_11,"bilirubin (E,Z or Z,E)*"
+score_11,gluconate
+score_11,xanthine
+score_11,carotene diol (1)
+score_11,butyrylcarnitine (C4)
+score_11,N-acetylarginine
+score_11,caprate (10:0)
+score_11,N-acetylhistidine
+score_11,sarcosine
+score_11,"sphingomyelin (d18:1/20:1, d18:2/20:0)*"
+score_11,hyocholate
+score_11,lithocholate sulfate (1)
+score_11,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+score_11,N-oleoylserine
+score_11,citrulline
+score_11,X-23739
+score_11,O-sulfo-tyrosine
+score_11,N-methylpipecolate
+score_11,3-hydroxybutyroylglycine**
+score_11,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+score_11,dihomo-linoleoylcarnitine (C20:2)*
+score_11,allantoin
+score_11,cholate
+score_11,N-acetyl-beta-alanine
+score_11,3-methylglutaconate
+score_11,X-21353
+score_11,urea
+score_11,4-hydroxychlorothalonil
+score_11,X-24801
+score_11,3-hydroxyoctanoate
+score_11,methionine sulfoxide
+score_11,3-hydroxydecanoate
+score_11,X-11478
+score_11,docosadioate (C22-DC)
+score_11,margaroylcarnitine (C17)*
+score_11,glutamine conjugate of C7H12O2*
+score_11,X-14056
+score_11,X-11444
+score_11,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+score_11,linolenoylcarnitine (C18:3)*
+score_11,X-24748
+score_11,pipecolate
+score_11,9-hydroxystearate
+score_11,behenoylcarnitine (C22)*
+score_11,3-hydroxyhippurate
+score_11,"androstenediol (3beta,17beta) disulfate (2)"
+score_11,X-16576
+score_11,3-(4-hydroxyphenyl)lactate
+score_11,dimethylarginine (SDMA + ADMA)
+score_11,isobutyrylcarnitine (C4)
+score_11,cerotoylcarnitine (C26)*
+score_11,"cys-gly, oxidized"
+score_11,X-11381
+score_11,5-methyluridine (ribothymidine)
+score_11,glutarate (C5-DC)
+score_11,lignoceroylcarnitine (C24)*
+score_11,stearoyl sphingomyelin (d18:1/18:0)
+score_11,argininate*
+score_11,hypotaurine
+score_11,ximenoylcarnitine (C26:1)*
+score_11,alpha-ketoglutaramate*
+score_11,guanidinoacetate
+score_11,adenosine 5'-monophosphate (AMP)
+score_11,glycerophosphorylcholine (GPC)
+score_11,tetradecadienedioate (C14:2-DC)*
+score_11,1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+score_11,1-palmitoleoyl-GPC (16:1)*
+score_11,isovalerylcarnitine (C5)
+score_11,X-15461
+score_11,5-oxoproline
+score_11,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+score_11,2-hydroxyoctanoate
+score_11,X-24947
+score_11,pregnenediol disulfate (C21H34O8S2)*
+score_11,N-acetyltryptophan
+score_11,X-15486
+score_11,ornithine
+score_11,3-formylindole
+score_11,stearoylcarnitine (C18)
+score_11,2'-deoxyuridine
+score_11,X-12101
+score_11,nicotinamide
+score_11,X-24475
+score_11,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+score_11,X-21383
+score_11,eicosapentaenoate (EPA; 20:5n3)
+score_11,N-methylproline
+score_11,nervonoylcarnitine (C24:1)*
+score_11,X-21286
+score_11,N-acetylmethionine
+score_11,2-hydroxynervonate*
+score_11,sphingosine 1-phosphate
+score_11,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*
+score_11,caprylate (8:0)
+score_11,malate
+score_11,dimethylglycine
+score_11,3-methylglutarylcarnitine (2)
+score_11,EDTA
+score_11,sphinganine-1-phosphate
+score_11,oxalate (ethanedioate)
+score_11,"N2,N2-dimethylguanosine"
+score_11,alpha-hydroxyisovalerate
+score_11,heptenedioate (C7:1-DC)*
+score_11,"5,6-dihydrothymine"
+score_11,N-acetylalanine
+score_11,tryptophan
+score_11,glutarylcarnitine (C5-DC)
+score_11,X-11483
+score_11,histidine
+score_11,gamma-glutamylmethionine
+score_11,oleamide
+score_11,stearidonate (18:4n3)
+score_11,N-acetylasparagine
+score_11,pyridoxal
+score_11,sebacate (C10-DC)
+score_11,asparagine
+score_11,laurate (12:0)
+score_11,docosapentaenoate (n3 DPA; 22:5n3)
+score_11,1-oleoylglycerol (18:1)
+score_11,deoxycholic acid glucuronide
+score_11,glutamine
+score_11,X-21796
+score_11,sphingosine
+score_11,isoleucine
+score_11,linolenate [alpha or gamma; (18:3n3 or 6)]
+score_11,5-hydroxylysine
+score_11,X-25519
+score_11,X-25172
+score_11,stearate (18:0)
+score_11,lignoceroyl sphingomyelin (d18:1/24:0)
+score_11,glucose
+score_11,dodecadienoate (12:2)*
+score_11,"2,3-dihydroxyisovalerate"
+score_11,gamma-glutamylisoleucine*
+score_11,1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+score_11,1-ribosyl-imidazoleacetate*
+score_11,"bilirubin (Z,Z)"
+score_11,indoleacetate
+score_11,etiocholanolone glucuronide
+score_11,pregnenolone sulfate
+score_11,glutamine_degradant*
+score_11,2-hydroxyhippurate (salicylurate)
+score_11,pentose acid*
+score_11,X-12844
+score_11,X-21470
+score_11,X-11299
+score_11,4-acetamidobutanoate
+score_11,1-methyl-5-imidazoleacetate
+score_11,pregnenetriol sulfate*
+score_11,3-methylhistidine
+score_11,acetylcarnitine (C2)
+score_11,betaine
+score_11,X-19141
+score_11,N-stearoyl-sphinganine (d18:0/18:0)*
+score_11,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+score_11,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*"
+score_11,retinol (vitamin A)
+score_11,creatinine
+score_11,X-24949
+score_11,X-21736
+score_11,glycolithocholate sulfate*
+score_11,1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+score_11,piperine
+score_11,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+score_11,2-keto-3-deoxy-gluconate
+score_11,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+score_11,X-23782
+score_11,X-12411
+score_11,epiandrosterone sulfate
+score_11,7-methylxanthine
+score_11,3-ureidopropionate
+score_11,beta-citrylglutamate
+score_11,cortisone
+score_11,X-24328
+score_11,X-25520
+score_11,X-15503
+score_11,1-methyl-4-imidazoleacetate
+score_11,X-12822
+score_11,1-linoleoylglycerol (18:2)
+score_11,7-methylguanine
+score_11,taurochenodeoxycholate
+score_11,andro steroid monosulfate C19H28O6S (1)*
+score_11,2-hydroxybehenate
+score_11,phenol sulfate
+score_11,cis-4-decenoate (10:1n6)*
+score_11,2-methylserine
+score_11,X-12849
+score_11,"androstenediol (3alpha, 17alpha) monosulfate (3)"
+score_11,2-palmitoleoyl-GPC (16:1)*
+score_11,X-21607
+score_11,N-palmitoylglycine
+score_11,X-21471
+score_11,octadecanedioylcarnitine (C18-DC)*
+score_11,spermidine
+score_11,phenylalanine
+score_11,stachydrine
+score_11,"ceramide (d18:1/17:0, d17:1/18:0)*"
+score_11,X-24544
+score_11,gamma-glutamylglutamine
+score_11,"N,N,N-trimethyl-alanylproline betaine (TMAP)"
+score_11,myristate (14:0)
+score_11,tartronate (hydroxymalonate)
+score_11,dodecanedioate (C12-DC)
+score_11,2-hydroxy-3-methylvalerate
+score_11,X-07765
+score_11,(2 or 3)-decenoate (10:1n7 or n8)
+score_11,X-11880
+score_11,homoarginine
+score_11,1-lignoceroyl-GPC (24:0)
+score_11,S-1-pyrroline-5-carboxylate
+score_11,1-methylnicotinamide
+score_11,alpha-ketoglutarate
+score_11,kynurenate
+score_11,3-hydroxy-3-methylglutarate
+score_11,5-methylthioadenosine (MTA)
+score_11,arginine
+score_11,biliverdin
+score_11,sphinganine
+score_11,gamma-glutamylglutamate
+score_11,glycine
+score_11,phosphate
+score_11,proline
+score_11,valine
+score_11,alanine
+score_11,fructose
+score_11,3-aminoisobutyrate
+score_11,urate
+score_11,creatine
+score_11,gamma-glutamylhistidine
+score_11,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+score_11,N-stearoyl-sphingosine (d18:1/18:0)*
+score_11,benzoate
+score_11,3-phenylpropionate (hydrocinnamate)
+score_11,3-methyl-2-oxovalerate
+score_11,docosahexaenoate (DHA; 22:6n3)
+score_11,isovalerate (i5:0)
+score_11,palmitoylcarnitine (C16)
+score_11,N-acetylaspartate (NAA)
+score_11,cysteine s-sulfate
+score_11,erythritol
+score_11,3-methyl-2-oxobutyrate
+score_11,propionylcarnitine (C3)
+score_11,5-dodecenoate (12:1n7)
+score_11,N-acetylphenylalanine
+score_11,1-oleoyl-GPC (18:1)
+score_11,gamma-glutamylglycine
+score_11,eicosenoate (20:1)
+score_11,aconitate [cis or trans]
+score_11,laurylcarnitine (C12)
+score_11,N1-methylinosine
+score_11,phenylacetylglutamine
+score_11,2-hydroxypalmitate
+score_11,7alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)
+score_11,1-palmitoyl-GPI (16:0)
+score_11,"3,4-dihydroxybutyrate"
+score_11,pyrraline
+score_11,1-linoleoyl-GPI (18:2)*
+score_11,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+score_11,succinylcarnitine (C4-DC)
+score_11,"5alpha-pregnan-3beta,20alpha-diol disulfate"
+score_11,"androstenediol (3beta,17beta) disulfate (1)"
+score_11,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)"
+score_11,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)"
+score_11,2-hydroxyglutarate
+score_11,"sphingomyelin (d18:1/18:1, d18:2/18:0)"
+score_11,palmitoyl sphingomyelin (d18:1/16:0)
+score_11,stearoyl ethanolamide
+score_11,(16 or 17)-methylstearate (a19:0 or i19:0)
+score_11,sulfate*
+score_11,S-methylcysteine sulfoxide
+score_11,linoleoylcarnitine (C18:2)*
+score_11,imidazole propionate
+score_11,pregnanediol-3-glucuronide
+score_11,mannonate*
+score_11,"sphingomyelin (d18:1/14:0, d16:1/16:0)*"
+score_11,"sphingomyelin (d18:2/16:0, d18:1/16:1)*"
+score_11,6-oxopiperidine-2-carboxylate
+score_11,N-acetyltaurine
+score_11,arabonate/xylonate
+score_11,6-hydroxyindole sulfate
+score_11,dopamine 3-O-sulfate
+score_11,arabitol/xylitol
+score_11,citraconate/glutaconate
+score_11,adipoylcarnitine (C6-DC)
+score_11,nonanoylcarnitine (C9)
+score_11,glycochenodeoxycholate 3-sulfate
+score_11,2-hydroxybutyrate/2-hydroxyisobutyrate
+score_11,"sphingomyelin (d18:2/24:1, d18:1/24:2)*"
+score_11,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+score_11,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+score_11,behenoyl dihydrosphingomyelin (d18:0/22:0)*
+score_11,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+score_11,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+score_11,palmitoylcholine
+score_11,"ceramide (d18:1/14:0, d16:1/16:0)*"
+score_11,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*"
+score_11,"sphingomyelin (d18:1/19:0, d19:1/18:0)*"
+score_11,sphingomyelin (d18:2/24:2)*
+score_11,"N,N,N-trimethyl-5-aminovalerate"
+score_11,(N(1) + N(8))-acetylspermidine
+score_11,hydroxy-CMPF*
+score_11,3-hydroxyoleoylcarnitine
+score_11,lyxonate
+score_11,octadecenedioate (C18:1-DC)
+score_11,octadecadienedioate (C18:2-DC)*
+score_11,N-acetyl-2-aminooctanoate*
+score_11,perfluorooctanoate (PFOA)
+score_11,gamma-glutamylcitrulline*
+score_11,tetradecadienoate (14:2)*
+score_11,3-amino-2-piperidone
+score_11,N-acetyl-isoputreanine
+score_11,glucuronide of piperine metabolite C17H21NO3 (4)*
+score_11,sulfate of piperine metabolite C16H19NO3 (2)*
+score_11,3-hydroxyhexanoylcarnitine (1)
+score_11,palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)
+score_11,"3,5-dichloro-2,6-dihydroxybenzoic acid"
+score_11,metabolonic lactone sulfate
+score_11,branched chain 14:0 dicarboxylic acid**
+score_11,X-11372
+score_11,X-12100
+score_11,X-12798
+score_11,X-14939
+score_11,X-17357
+score_11,X-17676
+score_11,X-18899
+score_11,X-21467
+score_11,X-23593
+score_11,X-24309
+score_11,X-24588
+score_11,X-25265
+score_11,X-25371
