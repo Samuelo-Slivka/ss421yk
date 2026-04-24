@@ -7,7 +7,7 @@ The outputs are organized by dataset type (e.g., immune, kegg, metabolome, etc.)
 
 ## Structure Overview
 
-### 🔹 Dataset-specific experiment folders
+### Dataset-specific experiment folders
 
 Each dataset has its own folder:
 
@@ -25,7 +25,7 @@ Each of these folders contains results from experiments performed on the corresp
 
 Each dataset folder contains the following subdirectories:
 
-### 📁 `metrics/`
+### `metrics/`
 Contains evaluation metrics:
 
 - `<dataset>_cv_metrics.xlsx` – cross-validation metrics
@@ -34,7 +34,7 @@ Contains evaluation metrics:
 
 ---
 
-### 📁 `models/`
+### `models/`
 Contains trained models.
 
 Structure:
@@ -54,7 +54,7 @@ Contains model predictions:
 
 ---
 
-### 📁 `selected_features/`
+### `selected_features/`
 Contains selected feature sets:
 
 - `<dataset>_selected_features.xlsx`
@@ -64,7 +64,7 @@ Contains selected feature sets:
 
 ---
 
-### 📁 `shap/`
+### `shap/`
 Contains SHAP-based interpretability outputs:
 
 For each regression model:
