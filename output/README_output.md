@@ -46,7 +46,7 @@ Inside each repeat:
 
 ---
 
-### 📁 `predictions/`
+### `predictions/`
 Contains model predictions:
 
 - `<dataset>_cv_score_predictions.xlsx` – predictions from CV
