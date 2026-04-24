@@ -1,6 +1,6 @@
 # Output Directory
 
-This directory contains all experimental outputs generated during **Level B (Phase 2)** modeling.  
+This directory contains all experimental outputs generated during our experiments.  
 The outputs are organized by dataset type (e.g., immune, kegg, metabolome, etc.) and further divided into structured subdirectories.
 
 ---
